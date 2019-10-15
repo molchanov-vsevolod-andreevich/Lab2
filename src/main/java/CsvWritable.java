@@ -1,4 +1,7 @@
 import org.apache.hadoop.io.Writable;
+
+import java.io.DataInput;
+import java.io.DataOutput;
 import java.io.IOException;
 
 public class CsvWritable implements Writable {
@@ -15,8 +18,8 @@ public class CsvWritable implements Writable {
         timestamp = in.readLong();
     }
 
-    public static MyWritable read(DataInput in) throws IOException {
-        MyWritable w = new MyWritable();
+    public static CsvWritable read(DataInput in) throws IOException {
+        CsvWritable w = new CsvWritable();
         w.readFields(in);
         return w;
     }
