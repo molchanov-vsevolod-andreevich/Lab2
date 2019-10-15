@@ -10,7 +10,7 @@ public class Parser {
         File csvData = new File("src/main/resources/L_AIRPORT_ID.csv");
         CSVParser parser = CSVParser.parse(csvData, StandardCharsets.UTF_8, CSVFormat.RFC4180);
         for (CSVRecord csvRecord : parser) {
-            System.out.println(csvRecord);
+            System.out.println(csvRecord.get(1));
         }
     }
 }
