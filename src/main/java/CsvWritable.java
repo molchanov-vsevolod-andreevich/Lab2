@@ -1,2 +1,5 @@
-public class CsvWritable {
+import org.apache.hadoop.io.Writable;
+
+public class CsvWritable implements Writable {
+
 }
