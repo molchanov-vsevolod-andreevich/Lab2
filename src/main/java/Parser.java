@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class Parser {
     public static void main(String[] args) throws IOException {
-        File csvData = new File("/path/to/csv");
+        File csvData = new File("");
         CSVParser parser = CSVParser.parse(csvData, StandardCharsets.UTF_8, CSVFormat.RFC4180);
         for (CSVRecord csvRecord : parser) {
             System.out.println(csvRecord);
