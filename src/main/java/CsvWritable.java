@@ -7,17 +7,20 @@ import java.io.IOException;
 public class CsvWritable implements Writable {
     private int counter;
     private long timestamp;
-
+    
+    @Override
     public void write(DataOutput out) throws IOException {
         out.writeInt(counter);
         out.writeLong(timestamp);
     }
 
+    @Override
     public void readFields(DataInput in) throws IOException {
         counter = in.readInt();
         timestamp = in.readLong();
     }
 
+    @Override
     public static CsvWritable read(DataInput in) throws IOException {
         CsvWritable w = new CsvWritable();
         w.readFields(in);
