@@ -14,6 +14,7 @@ public class JoinReducer extends Reducer<Text, Text, Text, FloatWritable> {
             IOException, InterruptedException {
         float time = 0f;
         float count = 0f;
+        String name = "";
         for (Text t : values) {
             String parts[] = t.toString().split("    ");
             if (parts[0].equals("delay")) {
