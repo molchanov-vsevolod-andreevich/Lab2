@@ -15,7 +15,7 @@ public class Parser {
 //            System.out.println(csvRecord.get(1));
 //        }
         for (CSVRecord r : l) {
-            System.out.println(r.toString()[0]);
+            System.out.println(r);
         }
     }
 }
