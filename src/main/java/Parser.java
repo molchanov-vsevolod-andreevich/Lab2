@@ -8,10 +8,12 @@ import java.nio.charset.StandardCharsets;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import org.apache.hadoop.io.FloatWritable;
 
 public class Parser {
     public static void main(String[] args) throws IOException {
-        String s = ""
+        String s = "-32.00";
+        
 
 //        String content = new String(Files.readAllBytes(Paths.get("src/main/resources/L_AIRPORT_ID.csv")));
 //        CSVParser parser = CSVParser.parse(content, CSVFormat.RFC4180);
