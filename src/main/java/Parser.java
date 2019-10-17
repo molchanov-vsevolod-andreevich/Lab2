@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.Reader;
 import java.nio.charset.StandardCharsets;
 import java.io.IOException;
-//import java.util.List;
+import org.apache.hadoop.io.Text;
 
 public class Parser {
     public static void main(String[] args) throws IOException {
