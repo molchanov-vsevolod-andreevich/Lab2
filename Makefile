@@ -29,6 +29,7 @@ copy_files:
 start_project:
 	@echo "\n\n*****************STARTING THE PROJECT*****************\n\n"
 	export HADOOP_CLASSPATH=$(PROJECT)/target/hadoop-examples-1.0-SNAPSHOT.jar:
+	
 	hadoop WordCountApp L_AIRPORT_ID.csv output
 	hadoop fs -copyToLocal output $(PROJECT)
 
