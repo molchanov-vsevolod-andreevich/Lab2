@@ -7,5 +7,5 @@ import org.apache.hadoop.mapreduce.Mapper;
 import org.apache.hadoop.mapreduce.Mapper.Context;
 import org.apache.commons.lang3.StringUtils;
 
-public class FlightMapper {
+public class FlightMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 }
