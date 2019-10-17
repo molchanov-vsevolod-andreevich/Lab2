@@ -6,6 +6,6 @@ import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.mapreduce.Mapper.Context;
 import org.apache.hadoop.mapreduce.Reducer;
 
-public class JoinReducer extends Reducer<Text, IntWritable, Text, LongWritable> {
+public class JoinReducer extends Reducer<Text, IntWritable, Text, Text> {
     
 }
