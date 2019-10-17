@@ -7,5 +7,5 @@ import org.apache.hadoop.mapreduce.Mapper.Context;
 import org.apache.hadoop.mapreduce.Reducer;
 
 public class JoinReducer extends Reducer<Text, IntWritable, Text, Text> {
-
+    
 }
