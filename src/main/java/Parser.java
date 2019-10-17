@@ -19,8 +19,9 @@ public class Parser {
         CSVParser parser = CSVParser.parse(content, CSVFormat.RFC4180.withHeader());
         for (CSVRecord csvRecord : parser) {
             String del = csvRecord.get(18);
-            if (del ==)
-            System.out.println(csvRecord.get(18));
+            if (!del.equals("")) {
+                System.out.println(Float.parseFloat(csvRecord.get(18)));
+            }
         }
 
 //        Reader in = new FileReader("src/main/resources/L_AIRPORT_ID.csv");
