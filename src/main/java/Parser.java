@@ -10,9 +10,9 @@ import java.nio.file.Files;
 
 public class Parser {
     public static void main(String[] args) throws IOException {
-        String content = Files.readString("src/main/resources/L_AIRPORT_ID.csv", StandardCharsets.US_ASCII);
+        String content = Files.readS
 
-        
+
 //        Reader in = new FileReader("src/main/resources/L_AIRPORT_ID.csv");
 //        Iterable<CSVRecord> records = CSVFormat.DEFAULT.parse(in);
 //        for (CSVRecord record : records) {
