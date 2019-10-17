@@ -12,7 +12,7 @@ import java.nio.file.Paths;
 public class Parser {
     public static void main(String[] args) throws IOException {
         String content = new String(Files.readAllBytes(Paths.get("src/main/resources/L_AIRPORT_ID.csv")));
-        System.out.println(content);
+        CSVParser parser = CSVParser.parse(content, StandardCharsets.UTF_8, CSVFormat.RFC4180);
 
 //        Reader in = new FileReader("src/main/resources/L_AIRPORT_ID.csv");
 //        Iterable<CSVRecord> records = CSVFormat.DEFAULT.parse(in);
