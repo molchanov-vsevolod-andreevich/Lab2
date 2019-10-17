@@ -4,12 +4,12 @@ import java.io.DataInput;
 import java.io.DataOutput;
 import java.io.IOException;
 
-import org.apache.commons.csv.CSVParser;
-import org.apache.commons.csv.CSVFormat;
-import org.apache.commons.csv.CSVRecord;
-import java.io.File;
-import java.nio.charset.StandardCharsets;
-import java.util.List;
+//import org.apache.commons.csv.CSVParser;
+//import org.apache.commons.csv.CSVFormat;
+//import org.apache.commons.csv.CSVRecord;
+//import java.io.File;
+//import java.nio.charset.StandardCharsets;
+//import java.util.List;
 
 public class CsvWritable implements Writable {
     private int counter;
