@@ -14,7 +14,7 @@ public class AirportMapper extends Mapper<LongWritable, Text, Text, IntWritable>
     protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
         CSVParser parser = CSVParser.parse(value.toString(), CSVFormat.RFC4180);
         for (CSVRecord csvRecord : parser) {
-            context.write(new Text(), new Text("cust    " + parts[1]));
+            context.write(new Text(csvRecord.get()), new Text("cust    " + parts[1]));
         }
     }
 }
