@@ -11,7 +11,7 @@ import java.nio.file.Paths;
 
 public class Parser {
     public static void main(String[] args) throws IOException {
-        float f = 0f;
+        float f = 1f;
         System.out.println(f + 5.3f);
 
 //        String content = new String(Files.readAllBytes(Paths.get("src/main/resources/664600583_T_ONTIME_sample.csv")));
