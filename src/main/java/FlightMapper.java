@@ -10,14 +10,14 @@ import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.mapreduce.Mapper;
 import org.apache.hadoop.mapreduce.Mapper.Context;
 
-public class FlightMapper extends Mapper<LongWritable, Text, Text, FloatWritable> {
+public class FlightMapper extends Mapper<LongWritable, Text, Text, Text> {
     @Override
     protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
         CSVParser parser = CSVParser.parse(value.toString(), CSVFormat.RFC4180.withHeader());
         for (CSVRecord csvRecord : parser) {
             String del = csvRecord.get(18);
             if (!del.equals("")) {
-                context.write(new Text(csvRecord.get(14)), new FloatWritable(Float.parseFloat(csvRecord.get(18))));
+                context.write(new Text(csvRecord.get(14)), new Text(csvRecord.get(18)));
             }
         }
     }

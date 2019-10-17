@@ -6,9 +6,9 @@ import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.mapreduce.Mapper.Context;
 import org.apache.hadoop.mapreduce.Reducer;
 
-public class JoinReducer extends Reducer<Text, IntWritable, Text, Text> {
+public class JoinReducer extends Reducer<Text, Text, Text, Text> {
     @Override
-    protected void reduce(Text key, Iterable<IntWritable> values, Context context) throws
+    protected void reduce(Text key, Iterable<Text> values, Context context) throws
             IOException, InterruptedException {
         long count = 0;
         Iterator iter = values.iterator();
