@@ -10,11 +10,11 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 public class Parser {
-    public static void main(String[] args) throws IOException {
-        float f = 0f;
-        f++;
-        f++;
-        System.out.println(f);
+//    public static void main(String[] args) throws IOException {
+//        float f = 0f;
+//        f++;
+//        f++;
+//        System.out.println(f);
 
 //        String content = new String(Files.readAllBytes(Paths.get("src/main/resources/664600583_T_ONTIME_sample.csv")));
 //        CSVParser parser = CSVParser.parse(content, CSVFormat.RFC4180.withHeader());
@@ -46,5 +46,5 @@ public class Parser {
 ////            String s = r.toString();
 ////            System.out.println(s);
 ////        }
-    }
+//    }
 }
