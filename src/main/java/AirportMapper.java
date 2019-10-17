@@ -10,4 +10,6 @@ import org.apache.commons.lang3.StringUtils;
 public class AirportMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
     @Override
     protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
+        
+    }
 }
