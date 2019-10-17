@@ -4,7 +4,7 @@ import java.io.DataInput;
 import java.io.DataOutput;
 import java.io.IOException;
 
-public class CsvWritable implements Writable {
+public class FlightWritable implements Writable {
     private int counter;
     private long timestamp;
     
@@ -19,9 +19,9 @@ public class CsvWritable implements Writable {
         counter = in.readInt();
         timestamp = in.readLong();
     }
-    
-    public static CsvWritable read(DataInput in) throws IOException {
-        CsvWritable w = new CsvWritable();
+
+    public static FlightWritable read(DataInput in) throws IOException {
+        FlightWritable w = new FlightWritable();
         w.readFields(in);
         return w;
     }
