@@ -13,7 +13,7 @@ public class Parser {
     public static void main(String[] args) throws IOException {
         String s = "airport:    Afognak Lake, AK: Afognak Lake Airport";
         String parts[] = s.split(" ");
-        for (p : parts) {
+        for (Stringp : parts) {
             System.out.println(p);
         }
 
