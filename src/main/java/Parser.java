@@ -7,19 +7,15 @@ import java.io.Reader;
 import java.nio.charset.StandardCharsets;
 import java.io.IOException;
 //import java.util.List;
-import java.io.DataInput;
 
 public class Parser {
     public static void main(String[] args) throws IOException {
-        DataInput in = new DataInput();
-
-//        Reader in = new FileReader("src/main/resources/L_AIRPORT_ID.csv");
-//        Iterable<CSVRecord> records = CSVFormat.DEFAULT.parse(in);
-//        for (CSVRecord record : records) {
-//            System.out.println(record.get(0));
-//        }
-//        in.close();
-
+        Reader in = new FileReader("src/main/resources/L_AIRPORT_ID.csv");
+        Iterable<CSVRecord> records = CSVFormat.DEFAULT.parse(in);
+        for (CSVRecord record : records) {
+            System.out.println(record.get(0));
+        }
+        in.close();
 //        File csvData = new File("src/main/resources/L_AIRPORT_ID.csv");
 //        CSVParser parser = CSVParser.parse(csvData, StandardCharsets.UTF_8, CSVFormat.RFC4180);
 ////        List<CSVRecord> l = parser.getRecords();
