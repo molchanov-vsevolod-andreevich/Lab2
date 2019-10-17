@@ -12,7 +12,6 @@ public class Parser {
         CSVParser parser = CSVParser.parse(csvData, StandardCharsets.UTF_8, CSVFormat.RFC4180);
 //        List<CSVRecord> l = parser.getRecords();
 //        for (CSVRecord csvRecord : parser) {
-        System.out.println(parser.getFirstEndOfLine());
 //            System.out.println(csvRecord.get(1));
 //        }
 //        for (CSVRecord r : l) {
