@@ -10,7 +10,7 @@ public class Parser {
     public static void main(String[] args) throws IOException {
         File csvData = new File("src/main/resources/L_AIRPORT_ID.csv");
         CSVParser parser = CSVParser.parse(csvData, StandardCharsets.UTF_8, CSVFormat.RFC4180);
-        Map<String, Integer> m = parser.getHeaderMap();
+        Map<String, Integer> m = parser.getRecords();
         for (CSVRecord csvRecord : parser) {
             System.out.println(csvRecord.get(1));
         }
