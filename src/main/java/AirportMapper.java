@@ -7,14 +7,14 @@ import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.mapreduce.Mapper;
-//import org.apache.hadoop.mapreduce.Mapper.Context;
+import org.apache.hadoop.mapreduce.Mapper.Context;
 
-public class AirportMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
+public class AirportMapper extends Mapper<LongWritable, Text, Text, Text> {
     @Override
     protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
-        CSVParser parser = CSVParser.parse(value.toString(), CSVFormat.RFC4180);
+        CSVParser parser = CSVParser.parse(value.toString(), CSVFormat.RFC4180.withHeader());
         for (CSVRecord csvRecord : parser) {
-            context.write(new Text(csvRecord.get()), new Text("cust    " + parts[1]));
+            context.write(new Text(csvRecord.get(0)), new Text("airport    " + csvRecord.get(1)));
         }
     }
 }
