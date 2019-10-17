@@ -7,6 +7,8 @@ import java.io.IOException;
 import java.util.List;
 
 public class Parser {
+    public Array
+
     public static void main(String[] args) throws IOException {
         File csvData = new File("src/main/resources/L_AIRPORT_ID.csv");
         CSVParser parser = CSVParser.parse(csvData, StandardCharsets.UTF_8, CSVFormat.RFC4180);
