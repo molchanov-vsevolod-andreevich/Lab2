@@ -21,7 +21,7 @@ public class JoinReducer extends Reducer<Text, Text, Text, FloatWritable> {
                 count++;
                 time += Float.parseFloat(parts[1]);
             } else {
-                String name = key.toString() + " " + "\"" + parts[1] + "\"";
+                name = key.toString() + " " + "\"" + parts[1] + "\"";
             }
         }
         float res = time / count;
