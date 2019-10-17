@@ -11,7 +11,7 @@ public class JoinReducer extends Reducer<Text, Text, Text, Text> {
     protected void reduce(Text key, Iterable<Text> values, Context context) throws
             IOException, InterruptedException {
         for (Text t : values) {
-            String parts[] = t.toString().split("  ");
+            String parts[] = t.toString().split("    ");
             if (parts[0].equals("delay"))
         }
 //        context.write(key, new LongWritable(count));
