@@ -11,9 +11,8 @@ import java.nio.file.Paths;
 
 public class Parser {
     public static void main(String[] args) throws IOException {
-        String s = "airport:    Afognak Lake, AK: Afognak Lake Airport";
-        String parts[] = s.split("    ");
-        System.out.println(parts[0]);
+        float f = 0f;
+        System.out.println(f + 5.3f);
 
 //        String content = new String(Files.readAllBytes(Paths.get("src/main/resources/664600583_T_ONTIME_sample.csv")));
 //        CSVParser parser = CSVParser.parse(content, CSVFormat.RFC4180.withHeader());
