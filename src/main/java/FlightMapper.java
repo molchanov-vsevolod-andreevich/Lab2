@@ -16,7 +16,7 @@ public class FlightMapper extends Mapper<LongWritable, Text, Text, FloatWritable
         CSVParser parser = CSVParser.parse(value.toString(), CSVFormat.RFC4180.withHeader());
         for (CSVRecord csvRecord : parser) {
             String del = csvRecord.get(18);
-            if (!del.equals("")) {
+            if (!del.equals("") && !del.equals("0.00")) {
                 context.write(new Text(csvRecord.get(14)), new FloatWritable(Float.parseFloat(csvRecord.get(18))));
             }
         }
