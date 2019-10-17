@@ -11,7 +11,7 @@ import java.nio.file.Paths;
 
 public class Parser {
     public static void main(String[] args) throws IOException {
-        String s = "-32.00000";
+        String s = "-32.00";
         float f = Float.parseFloat(s);
         System.out.println(f);
 
