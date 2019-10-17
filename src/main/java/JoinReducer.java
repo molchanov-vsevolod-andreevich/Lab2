@@ -1,12 +1,14 @@
 import java.io.IOException;
 import java.util.Iterator;
+
+import org.apache.hadoop.io.FloatWritable;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.mapreduce.Mapper.Context;
 import org.apache.hadoop.mapreduce.Reducer;
 
-public class JoinReducer extends Reducer<Text, Text, Text, Text> {
+public class JoinReducer extends Reducer<Text, Text, Text, FloatWritable> {
     @Override
     protected void reduce(Text key, Iterable<Text> values, Context context) throws
             IOException, InterruptedException {
@@ -20,6 +22,6 @@ public class JoinReducer extends Reducer<Text, Text, Text, Text> {
             }
         }
         float res = time / count;
-//        context.write(key, new LongWritable(count));
+        context.write(key, new FloatWritable(res));
     }
 }
