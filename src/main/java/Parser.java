@@ -12,7 +12,7 @@ import java.nio.file.Paths;
 public class Parser {
     public static void main(String[] args) throws IOException {
         String s = "airport:    Afognak Lake, AK: Afognak Lake Airport";
-        String parts[] = s.split("  ");
+        String parts[] = s.split("    ");
         for (String p : parts) {
             System.out.println(p);
         }
