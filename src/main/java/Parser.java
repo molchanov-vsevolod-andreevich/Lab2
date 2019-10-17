@@ -13,9 +13,7 @@ public class Parser {
     public static void main(String[] args) throws IOException {
         String s = "airport:    Afognak Lake, AK: Afognak Lake Airport";
         String parts[] = s.split("    ");
-        for (String p : parts) {
-            System.out.println(p);
-        }
+        System.out.println(parts[0]);
 
 //        String content = new String(Files.readAllBytes(Paths.get("src/main/resources/664600583_T_ONTIME_sample.csv")));
 //        CSVParser parser = CSVParser.parse(content, CSVFormat.RFC4180.withHeader());
