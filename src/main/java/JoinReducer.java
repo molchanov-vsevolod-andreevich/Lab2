@@ -14,6 +14,6 @@ public class JoinReducer extends Reducer<Text, Text, Text, Text> {
             String parts[] = t.toString().split("    ");
 
         }
-        context.write(key, new LongWritable(count));
+//        context.write(key, new LongWritable(count));
     }
 }

@@ -11,18 +11,16 @@ import java.nio.file.Paths;
 
 public class Parser {
     public static void main(String[] args) throws IOException {
-//        String s = "";
-//        float f = Float.parseFloat(s);
-//        System.out.println(f);
+        String s = "airport: "
 
-        String content = new String(Files.readAllBytes(Paths.get("src/main/resources/664600583_T_ONTIME_sample.csv")));
-        CSVParser parser = CSVParser.parse(content, CSVFormat.RFC4180.withHeader());
-        for (CSVRecord csvRecord : parser) {
-            String del = csvRecord.get(18);
-            if (!del.equals("")) {
-                System.out.println(Float.parseFloat(csvRecord.get(18)));
-            }
-        }
+//        String content = new String(Files.readAllBytes(Paths.get("src/main/resources/664600583_T_ONTIME_sample.csv")));
+//        CSVParser parser = CSVParser.parse(content, CSVFormat.RFC4180.withHeader());
+//        for (CSVRecord csvRecord : parser) {
+//            String del = csvRecord.get(18);
+//            if (!del.equals("")) {
+//                System.out.println(Float.parseFloat(csvRecord.get(18)));
+//            }
+//        }
 
 //        Reader in = new FileReader("src/main/resources/L_AIRPORT_ID.csv");
 //        Iterable<CSVRecord> records = CSVFormat.DEFAULT.parse(in);
