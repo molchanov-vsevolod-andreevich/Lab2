@@ -19,6 +19,8 @@ public class JoinReducer extends Reducer<Text, Text, Text, FloatWritable> {
             if (parts[0].equals("delay")) {
                 count++;
                 time += Float.parseFloat(parts[1]);
+            } else {
+                
             }
         }
         float res = time / count;
