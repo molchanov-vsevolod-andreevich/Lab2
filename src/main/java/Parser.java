@@ -12,7 +12,7 @@ import java.nio.file.Paths;
 public class Parser {
     public static void main(String[] args) throws IOException {
         String s = "airport:    Afognak Lake, AK: Afognak Lake Airport";
-        s.split(" ");
+        String parts[] = s.split(" ");
 
 
 //        String content = new String(Files.readAllBytes(Paths.get("src/main/resources/664600583_T_ONTIME_sample.csv")));
