@@ -11,11 +11,13 @@ import java.nio.file.Paths;
 
 public class Parser {
     public static void main(String[] args) throws IOException {
-        String content = new String(Files.readAllBytes(Paths.get("src/main/resources/L_AIRPORT_ID.csv")));
-        CSVParser parser = CSVParser.parse(content, CSVFormat.RFC4180);
-        for (CSVRecord csvRecord : parser) {
-            System.out.println(csvRecord);
-        }
+        String s = ""
+
+//        String content = new String(Files.readAllBytes(Paths.get("src/main/resources/L_AIRPORT_ID.csv")));
+//        CSVParser parser = CSVParser.parse(content, CSVFormat.RFC4180);
+//        for (CSVRecord csvRecord : parser) {
+//            System.out.println(csvRecord);
+//        }
 
 //        Reader in = new FileReader("src/main/resources/L_AIRPORT_ID.csv");
 //        Iterable<CSVRecord> records = CSVFormat.DEFAULT.parse(in);
