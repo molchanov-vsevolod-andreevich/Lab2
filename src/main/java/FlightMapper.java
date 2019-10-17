@@ -16,7 +16,7 @@ public class FlightMapper extends Mapper<LongWritable, Text, Text, Text> {
         for (CSVRecord csvRecord : parser) {
             String del = csvRecord.get(18);
             if (!del.equals("")) {
-                context.write(new Text(csvRecord.get(14)), new Text("delay:    " + csvRecord.get(18)));
+                context.write(new Text(csvRecord.get(14)), new Text("delay    " + csvRecord.get(18)));
             }
         }
     }
