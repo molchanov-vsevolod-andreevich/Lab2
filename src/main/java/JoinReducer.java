@@ -11,13 +11,15 @@ public class JoinReducer extends Reducer<Text, Text, Text, Text> {
     protected void reduce(Text key, Iterable<Text> values, Context context) throws
             IOException, InterruptedException {
         float time = 0f;
-        int count = 0;
+        float count = 0f;
         for (Text t : values) {
             String parts[] = t.toString().split("    ");
             if (parts[0].equals("delay")) {
-
+                count++;
+                time += Float.parseFloat(parts[1]);
             }
         }
+        float res = time / count;
 //        context.write(key, new LongWritable(count));
     }
 }
