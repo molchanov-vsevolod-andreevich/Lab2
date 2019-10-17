@@ -16,7 +16,7 @@ public class Parser {
 //        System.out.println(f);
 
         String content = new String(Files.readAllBytes(Paths.get("src/main/resources/664600583_T_ONTIME_sample.csv")));
-        CSVParser parser = CSVParser.parse(content, CSVFormat.RFC4180.withHeader());
+        CSVParser parser = CSVParser.parse(content, CSVFormat.DEFAULT.withHeader());
         for (CSVRecord csvRecord : parser) {
             System.out.println(csvRecord);
         }
