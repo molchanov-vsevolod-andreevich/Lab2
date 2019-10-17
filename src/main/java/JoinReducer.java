@@ -20,7 +20,6 @@ public class JoinReducer extends Reducer<Text, Text, Text, FloatWritable> {
                 count++;
                 time += Float.parseFloat(parts[1]);
             }
-            
         }
         float res = time / count;
         context.write(key, new FloatWritable(res));
