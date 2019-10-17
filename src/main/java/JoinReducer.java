@@ -12,7 +12,7 @@ public class JoinReducer extends Reducer<Text, Text, Text, Text> {
             IOException, InterruptedException {
         for (Text t : values) {
             String parts[] = t.toString().split("    ");
-            if (parts[0].equals(""))
+            if (parts[0].equals("delay"))
         }
 //        context.write(key, new LongWritable(count));
     }
