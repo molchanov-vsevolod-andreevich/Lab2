@@ -19,8 +19,7 @@ public class CsvWritable implements Writable {
         counter = in.readInt();
         timestamp = in.readLong();
     }
-
-    @Override
+    
     public static CsvWritable read(DataInput in) throws IOException {
         CsvWritable w = new CsvWritable();
         w.readFields(in);
