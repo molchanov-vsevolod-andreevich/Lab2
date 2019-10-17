@@ -1,10 +1,10 @@
 HOME = /Users/vsevolodmolchanov
-PROJECT = $(HOME)/Documents/Study/Coding/University/Parallel/lab1
+PROJECT = $(HOME)/Documents/Study/Coding/University/Parallel/lab2
 H_DATA = $(HOME)/hdata
 
-.PHONY: all start_hadoop make_dirs make_package copy_file start_project restart_project stop_hadoop delete_output clean stop_n_clean
+.PHONY: all start_hadoop make_dirs make_package copy_files start_project restart_project stop_hadoop delete_output clean stop_n_clean
 
-all: start_hadoop make_dirs copy_file start_project
+all: start_hadoop make_dirs copy_files start_project
 
 start_hadoop:
 	@echo "\n\n*****************STARTING HADOOP*****************\n\n"
@@ -21,9 +21,9 @@ make_package:
 	@echo "\n\n*****************MAKING THE PROJECT*****************\n\n"
 	mvn -f $(PROJECT) package
 
-copy_file:
+copy_files:
 	@echo "\n\n*****************COPYING THE FILE*****************\n\n"
-	# hadoop fs -copyFromLocal $(PROJECT)/warandpeace1.txt
+	hadoop fs -copyFromLocal $(PROJECT)/
 	hadoop fs -copyFromLocal $(PROJECT)/L_AIRPORT_ID.csv
 
 start_project:
