@@ -4,7 +4,7 @@ import java.io.DataInput;
 import java.io.DataOutput;
 import java.io.IOException;
 
-public class FlightWritable implements Writable {
+public class Flight implements Writable {
     private int counter;
     private long timestamp;
     
@@ -20,8 +20,8 @@ public class FlightWritable implements Writable {
         timestamp = in.readLong();
     }
 
-    public static FlightWritable read(DataInput in) throws IOException {
-        FlightWritable w = new FlightWritable();
+    public static Flight read(DataInput in) throws IOException {
+        Flight w = new Flight();
         w.readFields(in);
         return w;
     }
