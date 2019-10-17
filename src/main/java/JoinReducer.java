@@ -10,9 +10,12 @@ public class JoinReducer extends Reducer<Text, Text, Text, Text> {
     @Override
     protected void reduce(Text key, Iterable<Text> values, Context context) throws
             IOException, InterruptedException {
+        int count = 0;
         for (Text t : values) {
             String parts[] = t.toString().split("    ");
-            if (parts[0].equals("delay"))
+            if (parts[0].equals("delay")) {
+                
+            }
         }
 //        context.write(key, new LongWritable(count));
     }
