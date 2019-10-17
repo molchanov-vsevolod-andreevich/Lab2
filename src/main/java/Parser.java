@@ -11,7 +11,7 @@ import java.io.DataInput;
 
 public class Parser {
     public static void main(String[] args) throws IOException {
-        DataInput in = new DataInputStream(new FileInputStream("data.bin")
+        DataInput in = new DataInput();
 
 //        Reader in = new FileReader("src/main/resources/L_AIRPORT_ID.csv");
 //        Iterable<CSVRecord> records = CSVFormat.DEFAULT.parse(in);
