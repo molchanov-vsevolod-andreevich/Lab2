@@ -18,7 +18,7 @@ public class Parser {
         String content = new String(Files.readAllBytes(Paths.get("src/main/resources/664600583_T_ONTIME_sample.csv")));
         CSVParser parser = CSVParser.parse(content, CSVFormat.RFC4180.withHeader());
         for (CSVRecord csvRecord : parser) {
-            System.out.println(csvRecord);
+            System.out.println(csvRecord.get(18));
         }
 
 //        Reader in = new FileReader("src/main/resources/L_AIRPORT_ID.csv");
