@@ -25,7 +25,7 @@ public class JoinReducer extends Reducer<Text, Text, Text, FloatWritable> {
             }
         }
         float res = time / count;
-        System.out.println(count);
+//        System.out.println(count);
         context.write(new Text(name), new FloatWritable(res));
     }
 }
