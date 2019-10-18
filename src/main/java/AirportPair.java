@@ -69,15 +69,22 @@ public class AirportPair implements WritableComparable<AirportPair> {
         }
     }
 
-    public class AirportComparator implements WritableComparable<AirportPair> {
-        @Override
-        public int compare(byte[] bytes, int i, int i1, byte[] bytes1, int i2, int i3) {
-            return 0;
-        }
+    public class AirportComparator extends WritableComparator {
+//        @Override
+//        public int compare(byte[] bytes, int i, int i1, byte[] bytes1, int i2, int i3) {
+//            return 0;
+//        }
+
+//        @Override
+//        public int compare(AirportPair o1, AirportPair o2) {
+//            return o1.AIRPORT_ID.compareTo(o2.AIRPORT_ID);
+//        }
 
         @Override
-        public int compare(AirportPair o1, AirportPair o2) {
-            return o1.AIRPORT_ID.compareTo(o2.AIRPORT_ID);
+        public int compare(WritableComparable o1, WritableComparable o2) {
+            AirportPair airport1 = (AirportPair) o1;
+            AirportPair airport2 = (AirportPair) o2;
+            return airport1.AIRPORT_ID.compareTo(airport2.AIRPORT_ID);
         }
     }
 }
