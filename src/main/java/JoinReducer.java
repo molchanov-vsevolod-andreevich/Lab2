@@ -24,10 +24,11 @@ public class JoinReducer extends Reducer<Text, Text, Text, FloatWritable> {
                 name = key.toString() + " " + "\"" + parts[1] + "\"";
             }
         }
-        if (count != 0f) {
+        if (count == 0f) {
+            context.write(new Text(name), new FloatWritable(0.0f));
+        } else {
             float res = time / count;
-//            System.out.println(count);
-            context.write(new Text(name + " : " + Float.toString(count)), new FloatWritable(res));
+            context.write(new Text(name), new FloatWritable(res));
         }
     }
 }
