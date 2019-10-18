@@ -13,7 +13,7 @@ import java.io.IOException;
 //import java.nio.charset.StandardCharsets;
 //import java.util.List;
 
-public class AirportPair implements WritableComparable {
+public class AirportPair implements WritableComparable<AirportPair> {
     private Text AIRPORT_ID;
     private IntWritable INSERT_ID;
 
