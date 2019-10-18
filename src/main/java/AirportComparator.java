@@ -6,12 +6,13 @@ public class AirportComparator implements RawComparator<AirportPair> {
 
     @Override
     public int compare(byte[] bytes, int i, int i1, byte[] bytes1, int i2, int i3) {
+        System.out.println("YYYYYYYYEEEEEEEEESSSSSSS");
         return 0;
     }
 
     @Override
     public int compare(AirportPair o1, AirportPair o2) {
-        System.out.println("YYYYYYYYEEEEEEEEESSSSSSS");
+//        System.out.println("YYYYYYYYEEEEEEEEESSSSSSS");
         return o1.getAirportID().compareTo(o2.getAirportID());
     }
 }
