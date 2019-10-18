@@ -7,7 +7,7 @@ public class AirportPartitioner extends Partitioner<AirportPair, Text> {
         if (key.getAirportID().compareTo(new Text("3343")) == -1) {
             return 0;
         } else {
-            System.out.println("YEEEEEEEEESSSSSS");
+            System.out.println(key.getAirportID());
             return 1;
         }
     }
