@@ -12,9 +12,6 @@ public class JoinReducer extends Reducer<AirportPair, Text, Text, Text> {
     @Override
     protected void reduce(AirportPair key, Iterable<Text> values, Context context) throws
             IOException, InterruptedException {
-        for (Text v : values) {
-            System.out.println(v);
-        }
         Iterator<Text> iter = values.iterator();
         Text airportName = new Text(iter.next());
 //        System.out.println(airportName + ":");
