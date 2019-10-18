@@ -24,8 +24,8 @@ make_package:
 
 copy_files:
 	@echo "\n\n*****************COPYING THE FILE*****************\n\n"
-	hadoop fs -copyFromLocal $(PROJECT)/664600583_T_ONTIME_sample.csv
-	hadoop fs -copyFromLocal $(PROJECT)/L_AIRPORT_ID.csv
+	hadoop fs -copyFromLocal $(RESOURCES)/664600583_T_ONTIME_sample.csv
+	hadoop fs -copyFromLocal $(RESOURCES)/L_AIRPORT_ID.csv
 
 start_project:
 	@echo "\n\n*****************STARTING THE PROJECT*****************\n\n"
