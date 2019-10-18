@@ -29,7 +29,7 @@ public class JoinReducer extends Reducer<AirportPair, Text, Text, Text> {
         }
 
         if (count == 0f || time == 0f) {
-            context.write(key.getAirportID(), new Text(airportName.toString() + " No delays"));
+//            context.write(key.getAirportID(), new Text(airportName.toString() + " No delays"));
         } else {
             float res = time / count;
             context.write(key.getAirportID(), new Text(airportName.toString() + "\n\taverage: " + res + "\n\tmin: " + min + "\n\tmax: " + max));
