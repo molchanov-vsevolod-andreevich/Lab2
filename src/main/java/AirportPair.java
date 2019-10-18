@@ -30,7 +30,7 @@ public class AirportPair implements WritableComparable<AirportPair> {
     }
 
     public AirportPair() {
-        AIRPORT_ID = 
+        this.AIRPORT_ID = AIRPORT_ID;
     }
 
     public Text getAirportID() {
