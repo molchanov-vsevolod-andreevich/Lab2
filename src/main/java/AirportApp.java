@@ -16,7 +16,7 @@ public class AirportApp {
             System.exit(-1);
         }
         Configuration conf = new Configuration();
-        Job job = Job.getInstance();
+        Job job = new Job(conf, "Reduce-side join");
         job.setJarByClass(AirportApp.class);
         job.setJobName("Airports");
         MultipleInputs.addInputPath(job, new Path(args[0]), TextInputFormat.class, AirportMapper.class);

@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba614461-3ebe-4837-bee1-27305bba26ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/664600583_T_ONTIME_sample.csv" beforeDir="false" afterPath="$PROJECT_DIR$/664600583_T_ONTIME_sample.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/_SUCCESS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/part-r-00000" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/part-r-00001" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AirportMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AirportMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FlightMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FlightMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AirportApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AirportApp.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
