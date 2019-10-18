@@ -71,7 +71,7 @@ public class AirportPair implements WritableComparable<AirportPair> {
         }
     }
 
-    public static class AirportComparator extends WritableComparator {
+    public class AirportComparator extends WritableComparator {
 //        protected AirportComparator() {
 //            super((Class<? extends WritableComparable>) AirportComparator.class, true);
 //        }
