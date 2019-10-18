@@ -13,7 +13,7 @@ public class JoinReducer extends Reducer<AirportPair, Text, Text, Text> {
     protected void reduce(AirportPair key, Iterable<Text> values, Context context) throws
             IOException, InterruptedException {
         Iterator<Text> iter = values.iterator();
-        Text airportID = new Text(iter.next());
+        Text airportName = new Text(iter.next());
         float time = 0f;
         float count = 0f;
         float min = 100000f;
