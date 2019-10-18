@@ -71,10 +71,10 @@ public class AirportPair implements WritableComparable<AirportPair> {
         }
     }
 
-    public class AirportComparator extends WritableComparator {
-        protected AirportComparator() {
-            super((Class<? extends WritableComparable>) AirportComparator.class, true);
-        }
+    public static class AirportComparator extends WritableComparator {
+//        protected AirportComparator() {
+//            super((Class<? extends WritableComparable>) AirportComparator.class, true);
+//        }
 
         @Override
         public int compare(WritableComparable o1, WritableComparable o2) {
