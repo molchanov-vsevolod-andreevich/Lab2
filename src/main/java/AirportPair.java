@@ -69,7 +69,7 @@ public class AirportPair implements WritableComparable<AirportPair> {
         }
     }
 
-    public class AirportComparator implements RawComparator<AirportPair> {
+    public class AirportComparator implements WritableComparable<AirportPair> {
         @Override
         public int compare(byte[] bytes, int i, int i1, byte[] bytes1, int i2, int i3) {
             return 0;
