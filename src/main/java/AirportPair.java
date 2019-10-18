@@ -58,8 +58,8 @@ public class AirportPair implements WritableComparable<AirportPair> {
     }
 
     @Override
-    public int compareTo(Object o) {
-        int compAirports = AIRPORT_ID.compareTo(o)
+    public int compareTo(AirportPair o) {
+        int compAirports = AIRPORT_ID.compareTo(o.getAirportID());
         return 0;
     }
 }
