@@ -74,7 +74,9 @@ public class AirportPair implements WritableComparable<AirportPair> {
 //        public int compare(byte[] bytes, int i, int i1, byte[] bytes1, int i2, int i3) {
 //            return 0;
 //        }
-        protected AirportComparator
+        protected AirportComparator() {
+            
+        }
 
         @Override
         public int compare(AirportPair o1, AirportPair o2) {
