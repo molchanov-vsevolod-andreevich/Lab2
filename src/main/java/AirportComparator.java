@@ -1,7 +1,19 @@
+import org.apache.hadoop.io.RawComparator;
 import org.apache.hadoop.io.WritableComparable;
 import org.apache.hadoop.io.WritableComparator;
 
-public class AirportComparator implements 
+public class AirportComparator implements RawComparator<AirportPair> {
+
+    @Override
+    public int compare(byte[] bytes, int i, int i1, byte[] bytes1, int i2, int i3) {
+        return 0;
+    }
+
+    @Override
+    public int compare(AirportPair o1, AirportPair o2) {
+        return o1.getAirportID().compareTo(o2.getAirportID());
+    }
+}
 
 //public class AirportComparator extends WritableComparator {
 //    protected AirportComparator() {
