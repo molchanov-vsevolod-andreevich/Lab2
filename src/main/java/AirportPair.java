@@ -77,7 +77,7 @@ public class AirportPair implements WritableComparable<AirportPair> {
 
         @Override
         public int compare(AirportPair o1, AirportPair o2) {
-            return 
+            return o1.AIRPORT_ID
         }
     }
 }
