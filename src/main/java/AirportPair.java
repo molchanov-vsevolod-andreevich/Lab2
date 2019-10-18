@@ -61,7 +61,7 @@ public class AirportPair implements WritableComparable<AirportPair> {
     }
 
     public class AirportPartitioner extends Partitioner<AirportPair, Text> {
-        
+        AirportPartitioner() {}
 
         @Override
         public int getPartition(AirportPair key, Text value, int numReduceTasks) {
