@@ -1,0 +1,3657 @@
+10004	Lik, AK: Lik Mining Camp No delays
+10006	Kizhuyak, AK: Kizhuyak Bay No delays
+10008	Elizabeth Island, AK: Elizabeth Island Airport No delays
+10011	Peach Springs, AZ: Grand Canyon West No delays
+10013	Crosbyton, TX: Crosbyton Municipal No delays
+10015	Deadmans Bay, AK: Deadmans Bay Airport No delays
+10017	Red Lake, AK: Red Lake Airport No delays
+10019	Kougarok, AK: Navigator Airstrip No delays
+10020	Selawik, AK: Roland Norton Memorial No delays
+10022	Johnstone Point, AK: Johnstone Point Airport No delays
+10024	Bell Creek, AK: Bell Creek Airport No delays
+10026	Mountaintop Mine, AK: Mountaintop Mine Airport No delays
+10028	Puviaq, AK: Puviaq Airport No delays
+10031	Kantishna, AK: Kantishna Airport No delays
+10033	Alpine, AK: Alpine Airstrip No delays
+10035	Driftwood Bay, AK: Driftwood Bay Airport No delays
+10037	Chilkat Lake, AK: Chilkat Lake Airport No delays
+10039	Ivotuk, AK: Ivotuk Airstrip No delays
+10040	Pogo Mines, AK: Pogo Mines Airport No delays
+10042	Kiluda Bay, AK: Kiluda Bay Airport No delays
+10044	Selief Bay, AK: Selief Bay Airport No delays
+10051	Molly Creek, AK: Molly Creek Airport No delays
+10053	Cape Simpson, AK: Cape Simpson Airport No delays
+10055	Teshepkuk Lake, AK: Teshepkuk Lake Airport No delays
+10059	Lake Hasselborg, AK: Lake Hasselborg Airport No delays
+10060	Distin Lake, AK: Distin Lake Airport No delays
+10062	Mooseville Airstrip, AK: Mooseville Airstrip Airport No delays
+10064	Wien Lake, AK: Wien Lake Airport No delays
+10066	Blear Lake, AK: Blear Lake Airport No delays
+10071	Cosna River, AK: Cosna River Airport No delays
+10075	Taylor Mountain Mine, AK: Taylor Mountain No delays
+10079	Hope, AK: Hope Airport No delays
+10080	Viekoda Bay, AK: Viekoda Bay Airport No delays
+10082	Cold Bay, AK: Cathedral Strip No delays
+10084	Homer, AK: Bear Cove Farm No delays
+10086	McKinley Park, AK: McKinley National Park No delays
+10088	Malina Bay, AK: Malina Bay Airport No delays
+10091	Cape Simpson, AK: Lake No delays
+10093	Cape Simpson, AK: Cape Simpson No. 7 No delays
+10095	Nikiski, AK: Nikiski Private Airstrip No delays
+10097	Denali, AK: Denali West Lodge Private No delays
+10103	Shannon Pond, AK: Shannon Pond Airport No delays
+10105	Omolik Lagoon, AK: Omolik Lagoon Airport No delays
+10107	Barrow, AK: Ice Strip No delays
+10109	Barrow, AK: Ice Strip No delays
+10110	Akulik, AK: Akulik Air Strip No delays
+10112	Eagle Creek, AK: Eagle Creek Airport No delays
+10116	Kachemak Bay, AK: Glacier Split No delays
+10118	Anaa, French Polynesia: Anaa Airport No delays
+10121	Annaba, Algeria: Rabah Bitat No delays
+10123	Aachen, Germany: Aachen/Merzbruck No delays
+10125	Aalborg, Denmark: Aalborg Airport No delays
+10127	Al Ain, United Arab Emirates: Al Ain International No delays
+10129	Anapa, Russia: Anapa Airport No delays
+10130	Aarhus, Denmark: Aarhus Airport No delays
+10132	Araxa, Brazil: Araxa Airport No delays
+10134	Abadan, Iran: Abadan Airport No delays
+10136	Abilene, TX: Abilene Regional
+	average: 8.956522
+	min: 0.0
+	max: 76.0
+10138	Kabri Dar, Ethiopia: Kebri Dahar No delays
+10141	Aberdeen, SD: Aberdeen Regional
+	average: 5.2
+	min: 0.0
+	max: 22.0
+10143	Al-Baha, Saudi Arabia: Al-Baha Airport No delays
+10145	Albury, Australia: Albury Airport No delays
+10147	Aberdeen, United Kingdom: Aberdeen Dyce No delays
+10149	Bellaire, MI: Antrim County No delays
+10150	Accra, Ghana: Accra Kotoka International No delays
+10152	Altenrhein, Switzerland: St Gallen Altenrhein No delays
+10154	Nantucket, MA: Nantucket Memorial No delays
+10156	Achutupo, Panama: Achutupo Airport No delays
+10158	Atlantic City, NJ: Atlantic City International
+	average: 24.516129
+	min: 0.0
+	max: 147.0
+10161	Andakombe, Papua New Guinea: Andakombe Airport No delays
+10163	Aden, Yemen: Aden International No delays
+10165	Adak Island, AK: Adak No delays
+10167	Ardmore, OK: Ardmore Municipal No delays
+10169	Andamooka, Australia: Andamooka Airport No delays
+10170	Kodiak, AK: Kodiak Airport
+	average: 43.333332
+	min: 0.0
+	max: 76.0
+10172	Camp Springs, MD: Joint Base Andrews No delays
+10174	San Andres Island, Colombia: Gustavo Rojas Pinilla No delays
+10176	Aleneva, AK: Aleneva Airport No delays
+10178	Abeche, Chad: Abeche Airport No delays
+10181	Buenos Aires, Argentina: Aeroparque Jorge Newbery No delays
+10183	Aalesund, Norway: Vigra No delays
+10185	Alexandria, LA: Alexandria International
+	average: 5.0
+	min: 0.0
+	max: 55.0
+10189	Colorado Springs, CO: USAF Academy Airfield No delays
+10190	Nebraska, NE: Nebraska City Municipal No delays
+10192	Wadesboro, NC: Anson County No delays
+10194	Dallas/Fort Worth, TX: Fort Worth Alliance No delays
+10196	Agadir, Morocco: Inezgane No delays
+10198	Pittsburgh, PA: Allegheny County No delays
+10200	Angoram, Papua New Guinea: Angoram Airport No delays
+10202	Kagua, Papua New Guinea: Kagua Airport No delays
+10204	Angoon, AK: Angoon Seaplane Base No delays
+10206	Agrinion, Greece: Agrinion Airport No delays
+10208	Augusta, GA: Augusta Regional at Bush Field
+	average: 13.15
+	min: 0.0
+	max: 246.0
+10211	Acarigua, Venezuela: Oswaldo Guevara Mujica No delays
+10213	Okinawa, Japan: Naha AB No delays
+10215	Ardmore, OK: Ardmore Downtown Executive No delays
+10217	Alghero/Sassari, Italy: Alghero No delays
+10219	Amchitka Island, AK: Amchitka No delays
+10220	Al Hoceima, Morocco: Cherif El Idrissi International No delays
+10222	Anita Bay, AK: Anita Bay Airport No delays
+10224	Aiken, SC: Aiken Municipal No delays
+10226	Aitutaki, Cook Islands: Aitutaki Airport No delays
+10228	Lake of the Ozarks, MO: Lee C Fine Memorial No delays
+10231	Akjoujt, Mauritania: Akjoujt Airport No delays
+10233	Anjouan, Comoros: Ouani No delays
+10235	Aracaju, Brazil: Santa Maria No delays
+10237	Atka, AK: Atka Airport No delays
+10239	Kufrah, Libya: Kufra No delays
+10242	Asahikawa, Japan: Asahikawa Airport No delays
+10244	Auckland, New Zealand: Auckland International No delays
+10246	Akron, CO: Colorado Plains Regional No delays
+10248	Akure, Nigeria: Akure Airport No delays
+10251	Aktyubinsk, Kazakhstan: Aktyubinsk Airport No delays
+10253	Albertville, AL: Albertville Regional-Thomas J Brumlik Field No delays
+10255	Huntsville, AL: Huntsville Executive Airport Tom Sharp Jr No delays
+10257	Albany, NY: Albany International
+	average: 15.627119
+	min: 0.0
+	max: 241.0
+10259	Alpine, TX: Alpine Casparis Municipal No delays
+10260	Alta, Norway: Alta Airport No delays
+10262	Albany, Australia: Albany Airport No delays
+10264	Alexander Bay, South Africa: Alexander Bay Airport No delays
+10266	Alamogordo, NM: Alamogordo White Sands Regional No delays
+10268	Waterloo, IA: Waterloo Regional
+	average: 78.8
+	min: 2.0
+	max: 223.0
+10271	Alexandra, New Zealand: Alexandra Airport No delays
+10273	Alenquer, Brazil: Alenquer Airport No delays
+10275	Walla Walla, WA: Walla Walla Regional No delays
+10277	Alexandria, Egypt: Alexandria International No delays
+10279	Amarillo, TX: Rick Husband Amarillo International
+	average: 13.415094
+	min: 0.0
+	max: 95.0
+10280	Ahmedabad, India: Ahmedabad Airport No delays
+10282	Amboin, Papua New Guinea: Amboin Airport No delays
+10284	Mataram, Indonesia: Selaparang No delays
+10286	Puerto Armuelles, Panama: Puerto Armuelles Airport No delays
+10288	Alma, MI: Gratiot Community No delays
+10291	Ambon, Indonesia: Pattimura No delays
+10295	Ammaroo, Australia: Ammaroo Station No delays
+10297	Anaheim, CA: Anaheim-Disneyland HP No delays
+10299	Anchorage, AK: Ted Stevens Anchorage International
+	average: 10.48718
+	min: 0.0
+	max: 375.0
+10301	Angers, France: Angers Marce No delays
+10303	Angouleme, France: Angouleme Brie Champniers No delays
+10305	Ankara, Turkey: Etimesgut No delays
+10307	Annette, AK: Annette Island No delays
+10309	Annapolis, MD: Lee No delays
+10310	Antwerp, Belgium: Deurne No delays
+10312	St. Johns, Antigua and Barbuda: V C Bird International No delays
+10314	Andeness, Norway: Andoya No delays
+10318	Ancona, Italy: Falconara No delays
+10321	Paso de Los Libres, Argentina: Paso de Los Libres Airport No delays
+10323	Alor Setar, Malaysia: Sultan Abdul Halim No delays
+10325	Denver, CO: Centennial No delays
+10327	Napa, CA: Napa County No delays
+10329	Naples, FL: Naples Municipal No delays
+10330	Aberdeen, MD: Phillips AAF No delays
+10332	Nampula, Mozambique: Nampula Airport No delays
+10334	Apartado, Colombia: Apartado Airport No delays
+10336	Jasper, TN: Marion County Brown Field No delays
+10338	Apia, Samoa: Faleolo International No delays
+10343	Saqani, Fiji: Saqani Airport No delays
+10345	Russellville, AR: Russellville Regional No delays
+10347	New Iberia, LA: Acadiana Regional No delays
+10349	Arctic Village, AK: Arctic Village Airport No delays
+10350	Alor, Indonesia: Arcadia Municipal No delays
+10352	Walnut Ridge, AR: Walnut Ridge Regional No delays
+10354	Arica, Chile: Chacalluta No delays
+10356	Armidale, Australia: Armidale Airport No delays
+10358	Aragip, Papua New Guinea: Aragip Airport No delays
+10361	Watertown, NY: Watertown International No delays
+10363	Minocqua/Woodruff, WI: Lakeland/Noble F. Lee Memorial Field No delays
+10365	Asbury Park, NJ: Asbury Park/Monmouth County No delays
+10367	N'zeto, Angola: N'zeto Airport No delays
+10369	Ashgabat, Turkmenistan: Ashgabat Airport No delays
+10370	Ascension, Bolivia: Ascension Airport No delays
+10372	Aspen, CO: Aspen Pitkin County Sardy Field
+	average: 21.306452
+	min: 0.0
+	max: 136.0
+10374	Nashua, NH: Boire Field No delays
+10376	Amami O Shima, Japan: Amami No delays
+10378	Marshall, TX: Harrison County No delays
+10381	Asosa, Ethiopia: Asosa Airport No delays
+10383	Austin, NV: Austin Airport No delays
+10385	Astoria/Seaside, OR: Astoria Regional No delays
+10387	Aswan, Egypt: Aswan International No delays
+10389	Ashley, ND: Ashley Municipal No delays
+10390	Anta, Peru: Anta Huaraz No delays
+10392	Arthur's Town, The Bahamas: Arthur's Town Airport No delays
+10394	Athens, Greece: Eleftherios Venizelos International No delays
+10396	Atqasuk, AK: Atqasuk Edward Burnell Sr. Memorial No delays
+10398	Altamira, Brazil: Altamira Airport No delays
+10400	Athens, OH: Ohio University No delays
+10402	Amritsar, India: Amritsar Airport No delays
+10404	Artesia, NM: Artesia Municipal No delays
+10406	Attu, AK: Casco Cove CGS No delays
+10408	Appleton, WI: Outagamie County Regional
+	average: 16.88
+	min: 0.0
+	max: 146.0
+10411	Aruba, Aruba: Reina Beatrix International No delays
+10413	Augustus Downs, Australia: Augustus Downs Airport No delays
+10415	Abu Dhabi, United Arab Emirates: Abu Dhabi International No delays
+10417	Austin/Albert Lea, MN: Austin Municipal No delays
+10419	Auburn, AL: Auburn University Regional No delays
+10420	Aguan, Papua New Guinea: Aguan Papua N.G. No delays
+10422	Aurillac, France: Aurillac Airport No delays
+10424	Wausau, WI: Wausau Downtown No delays
+10426	Aneityum, Vanuatu: Aneityum Airport No delays
+10428	Aviano, Italy: Aviano AB No delays
+10431	Asheville, NC: Asheville Regional
+	average: 13.444445
+	min: 0.0
+	max: 152.0
+10433	Avon Park, FL: Avon Park Executive No delays
+10435	Avalon, Australia: Avalon Airport No delays
+10437	Avalon, CA: Catalina No delays
+10439	Wake Island, TT: Wake Island Airfield No delays
+10440	West Memphis, AR: West Memphis Municipal No delays
+10442	Andrews, TX: Andrews County No delays
+10444	The Valley, Anguilla: Clayton J. Lloyd No delays
+10446	Aramac, Australia: Aramac Airport No delays
+10448	Armenia, Colombia: El Eden No delays
+10451	Altus, OK: Altus/Quartz Mountain Regional No delays
+10453	Axum, Ethiopia: Axum Airport No delays
+10455	Eagle Nest, NM: Angel Fire No delays
+10457	Ayacucho, Peru: Coronel FAP Alfredo Mendivil Duarte No delays
+10459	Ayr, Australia: Ayr Airport No delays
+10460	Waycross, GA: Waycross-Ware County No delays
+10462	Ayawasi, Indonesia: Ayawasi Airport No delays
+10464	Williams, AZ: H. A. Clark Memorial Field No delays
+10466	Phoenix, AZ: Phoenix - Mesa Gateway No delays
+10468	Apatzingan, Mexico: Pablo L. Sidar No delays
+10471	Biddeford, ME: Biddeford Municipal No delays
+10473	Bialla, Papua New Guinea: Bialla Airport No delays
+10475	Barranca de Upia, Colombia: Barranca de Upia Airport No delays
+10477	Barcelonnette, France: Barcelonnette Airport No delays
+10479	Baguio, Philippines: Baguio Airport No delays
+10480	Manama, Bahrain: Bahrain International No delays
+10482	Baku, Azerbaijan: Heydar Aliyev International No delays
+10484	Battle Mountain, NV: Battle Mountain Airport No delays
+10486	Barranquilla, Colombia: Ernesto Cortissoz No delays
+10488	Barth, East Germany: Barth Airport No delays
+10491	Barnaul, Russia: Barnaul Airport No delays
+10493	Balmaceda, Chile: Balmaceda Airport No delays
+10495	Burlington, MA: N Eng Heliport No delays
+10497	Bhubaneswar, India: Bhubaneswar Airport No delays
+10499	Barbuda, Antigua and Barbuda: Cocoa Point No delays
+10501	Blackbushe, United Kingdom: Blackbushe Airport No delays
+10503	Bucharest, Romania: Baneasa Aurel Vlaicu No delays
+10505	Bambari, Central African Republic: Bambari Airport No delays
+10507	Baracoa, Cuba: Gustavo Rizo No delays
+10509	Bear Creek, AK: Bear Creek Airport No delays
+10510	Bacolod, Philippines: Bacolod Airport No delays
+10512	Baucau, Timor-Leste: Cakung No delays
+10514	Crestone, CO: Baca Grande No delays
+10516	Bacau, Romania: Bacau Airport No delays
+10518	Belle Chasse, LA: Southern Seaplane No delays
+10521	Hamilton, Bermuda: L. F. Wade International No delays
+10523	Baudette, MN: Baudette International No delays
+10525	Bandar Lengeh, Iran: Bandar Lengeh Airport No delays
+10527	Bandjarmasin, Indonesia: Syamsudin Noor No delays
+10529	Hartford, CT: Bradley International
+	average: 15.732484
+	min: 0.0
+	max: 293.0
+10530	Bandirma, Turkey: Bandirma Airport No delays
+10532	Bandung, Indonesia: Husein Sastranegara No delays
+10534	Vadodara, India: Vadodara Airport No delays
+10536	Brindisi, Italy: Casale No delays
+10538	Bandon, OR: Bandon State No delays
+10541	Bluefields, Nicaragua: Bluefields Airport No delays
+10543	Benton Harbor/St. Joseph, MI: Southwest Michigan Regional No delays
+10545	Belem, Brazil: Val de Cans International No delays
+10547	Benghazi, Libya: Benina International No delays
+10549	Berlin, Germany: Berlin Metropolitan Area No delays
+10550	Brest, France: Brest Bretagne No delays
+10552	Bedourie, Australia: Bedourie North No delays
+10554	Beira, Mozambique: Beira Airport No delays
+10556	Blue Fox Bay, AK: Blue Fox Bay Airport No delays
+10558	Scottsbluff, NE: Western Neb. Regional/William B. Heilig Field No delays
+10561	Bakersfield, CA: Meadows Field
+	average: 22.84
+	min: 0.0
+	max: 141.0
+10563	Bloemfontein, South Africa: Bram Fischer International No delays
+10565	Beaver Falls, PA: Beaver County No delays
+10567	Bedford, IN: Virgil I Grissom Municipal No delays
+10569	Beaufort, SC: Beaufort County No delays
+10570	Bucaramanga, Colombia: Palonegro No delays
+10572	Borger, TX: Hutchinson County No delays
+10574	Bangui, Central African Republic: Bangui-M'Poko No delays
+10576	Baglung, Nepal: Baglung Airport No delays
+10578	Bruggen, Germany: Bruggen Airport No delays
+10581	Bangor, ME: Bangor International No delays
+10583	Bagdad, AZ: Bagdad Airport No delays
+10585	Baghdad, Iraq: Al Muthana No delays
+10587	Bergamo, Italy: Bergamo Orio Al Serio No delays
+10589	Bar Harbor, ME: Hancock County-Bar Harbor No delays
+10590	Bullhead City, AZ: Laughlin/Bullhead International No delays
+10592	Blenheim, New Zealand: Woodbourne No delays
+10594	Bisha, Saudi Arabia: Bisha Airport No delays
+10596	Bhuj, India: Bhuj Airport No delays
+10598	Bahia de Los Angeles, Mexico: Bahia de Los Angeles North No delays
+10600	Beihan, Yemen: Beihan Airport No delays
+10602	Broken Hill, Australia: Broken Hill Airport No delays
+10604	Bathurst, Australia: Bathurst Airport No delays
+10606	Bhavnagar, India: Bhavnagar Airport No delays
+10608	Birmingham, United Kingdom: Birmingham Airport No delays
+10611	Bastia, France: Bastia Poretta No delays
+10613	Block Island, RI: Block Island State No delays
+10615	El Paso, TX: Biggs AAF No delays
+10617	Bishop, CA: Eastern Sierra Regional No delays
+10619	Biak, Indonesia: Manuhua No delays
+10620	Billings, MT: Billings Logan International
+	average: 11.7
+	min: 0.0
+	max: 58.0
+10622	Bamyan, Afghanistan: Bamyan Airport No delays
+10624	Bulimba, Australia: Bulimba Airport No delays
+10626	Biratnagar, Nepal: Biratnagar Airport No delays
+10628	Bria, Central African Republic: Bria Airport No delays
+10631	Bemidji, MN: Bemidji Regional
+	average: 1.0
+	min: 0.0
+	max: 4.0
+10633	Banjul, The Gambia: Banjul International No delays
+10635	Bahir Dar, Ethiopia: Bahir Dar Airport No delays
+10637	Bodrum, Turkey: Imsik No delays
+10639	Badajoz, Spain: Badajoz Airport No delays
+10640	Buckland, AK: Buckland Airport No delays
+10642	Brooks Lake, AK: Brooks Lake Airport No delays
+10644	Kekaha, Kauai, HI: Barking Sands PMRF No delays
+10646	Bangkok, Thailand: Don Mueang International No delays
+10648	Bakelalan, Malaysia: Bakelalan Airport No delays
+10651	Blackall, Australia: Blackall Airport No delays
+10653	Betioky, Madagascar: Betioky Airport No delays
+10655	Brookings, SD: Brookings Regional No delays
+10657	Bukoba, Tanzania: Bukoba Airport No delays
+10659	Balboa, Panama: Albrook AFB No delays
+10660	Bali, Cameroon: Bali Airport No delays
+10662	Borlange, Sweden: Borlange Airport No delays
+10664	Belaga, Malaysia: Belaga Airport No delays
+10666	Bellingham, WA: Bellingham International
+	average: 4.6
+	min: 0.0
+	max: 20.0
+10668	Blackpool, United Kingdom: Blackpool Airport No delays
+10671	Blonduos, Iceland: Blonduos Airport No delays
+10673	Bologna, Italy: Bologna Airport No delays
+10675	Blackwater, Australia: Blackwater Airport No delays
+10677	Blantyre, Malawi: Chileka International No delays
+10679	Bumba, Congo (Kinshasa): Bumba Airport No delays
+10680	Brigham City, UT: Brigham City Airport No delays
+10682	Broome, Australia: Broome International No delays
+10684	Bomai, Papua New Guinea: Bomai Airport No delays
+10686	Baramita, Guyana: Baramita Airport No delays
+10688	Bitam, Gabon: Bitam Airport No delays
+10691	Bordj Badji Mokhtar, Algeria: Bordj Mokhtar No delays
+10693	Nashville, TN: Nashville International
+	average: 12.583554
+	min: 0.0
+	max: 391.0
+10695	Bandar Abbas, Iran: Bandar Abbas International No delays
+10697	Baranof, AK: Warm Spring Bay Seaplane Base No delays
+10699	Benin City, Nigeria: Benin City Airport No delays
+10701	Barnwell, SC: Barnwell Regional No delays
+10703	Burns, OR: Burns Municipal No delays
+10705	Banja Luka, Bosnia and Herzegovina: Banja Luka Airport No delays
+10707	Boma, Congo (Kinshasa): Boma Airport No delays
+10709	Bocas del Toro, Panama: Bocas del Toro International No delays
+10710	Bordeaux, France: Bordeaux Merignac No delays
+10712	Bournemouth, United Kingdom: Bournemouth Airport No delays
+10714	Burgas, Bulgaria: Burgas Airport No delays
+10716	Mumbai, India: Chhatrapati Shivaji International No delays
+10718	Bodo, Norway: Bodo Airport No delays
+10721	Boston, MA: Logan International
+	average: 14.418269
+	min: 0.0
+	max: 292.0
+10723	Borroloola, Australia: Borroloola Airport No delays
+10725	Bislig, Philippines: Bislig Airport No delays
+10727	Porto Seguro, Brazil: Porto Seguro Airport No delays
+10729	Baler, Philippines: Baler Airport No delays
+10730	London, United Kingdom: Biggin Hill No delays
+10732	Aguadilla, PR: Rafael Hernandez
+	average: 10.538462
+	min: 0.0
+	max: 109.0
+10734	Bequia, Saint Vincent and the Grenadines: J. F. Mitchell No delays
+10736	Parana, Brazil: Pato Branco No delays
+10738	San Carlos de Bariloche, Argentina: San Carlos de Bariloche Airport No delays
+10741	Whitesburg, KY: Whitesburg Municipal No delays
+10743	Bourke, Australia: Bourke Airport No delays
+10745	Barquisimeto, Venezuela: Barquisimeto International No delays
+10747	Brownsville, TX: Brownsville South Padre Island International
+	average: 7.105263
+	min: 0.0
+	max: 51.0
+10749	Barra, United Kingdom: Barra Airport No delays
+10750	Bristol, United Kingdom: Bristol Airport No delays
+10752	Brussels, Belgium: Brussels National No delays
+10754	Barrow, AK: Wiley Post/Will Rogers Memorial
+	average: 40.8
+	min: 0.0
+	max: 306.0
+10756	Bardstown, KY: Samuels Field No delays
+10758	Brasilia, Brazil: Presidente Juscelino Kubitschek International No delays
+10761	Biskra, Algeria: Mohamed Khider No delays
+10763	Austin, TX: Bergstrom AFB No delays
+10765	Bisbee, AZ: Bisbee Municipal No delays
+10767	Balsas, Brazil: Balsas Airport No delays
+10769	Boswell Bay, AK: Boswell Bay Airport No delays
+10770	Bartletts, AK: Bartletts Airport No delays
+10772	Batticaloa, Sri Lanka: Batticaloa Airport No delays
+10774	Batu Besar, Indonesia: Batu Besar Airport No delays
+10776	Banda Aceh, Indonesia: Sultan Iskandar Muda No delays
+10778	Battle Creek, MI: W K Kellogg No delays
+10781	Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field
+	average: 17.35
+	min: 0.0
+	max: 200.0
+10783	Bettles, AK: Bettles Airport No delays
+10785	Burlington, VT: Burlington International
+	average: 23.809525
+	min: 0.0
+	max: 144.0
+10787	Bursa, Turkey: Bursa Airport No delays
+10789	Burketown, Australia: Burketown Airport No delays
+10790	Budapest, Hungary: Budapest Liszt Ferenc International No delays
+10792	Buffalo, NY: Buffalo Niagara International
+	average: 10.974576
+	min: 0.0
+	max: 128.0
+10794	Bucharest, Romania: Bucharest Metropolitan Area No delays
+10796	Butler, MO: Butler Memorial No delays
+10798	Burao, Somalia: Burao Airport No delays
+10800	Burbank, CA: Bob Hope
+	average: 11.795031
+	min: 0.0
+	max: 192.0
+10802	Buyo, Cote d'Ivoire: Buyo Airport No delays
+10804	Bunia, Congo (Kinshasa): Bunia Airport No delays
+10806	Bushehr, Iran: Bushehr Airport No delays
+10808	Boa Vista, Brazil: Atlas Brasil Cantanhede No delays
+10811	Bartlesville, OK: Bartlesville Municipal No delays
+10815	Beverly, MA: Beverly Municipal No delays
+10817	Brownwood, TX: Brownwood Regional No delays
+10819	Bowling Green, KY: Bowling Green-Warren County Regional No delays
+10820	Butterworth, Malaysia: Butterworth Airport No delays
+10822	Bawan, Papua New Guinea: Bawan Airport No delays
+10824	Bandar Seri Begawan, Brunei: Brunei International No delays
+10826	Burnie, Australia: Wynyard No delays
+10828	Boxborough, MA: Sheraton Inn Heliport No delays
+10833	Butuan, Philippines: Bancasi No delays
+10835	Yacuiba, Bolivia: Yacuiba Airport No delays
+10837	Buffalo, WY: Johnson County No delays
+10839	Burley/Rupert, ID: Burley Municipal No delays
+10840	Bouake, Cote d'Ivoire: Bouake Airport No delays
+10842	Bantry, Ireland: Bantry Airport No delays
+10844	Blakely Island, WA: Blakely Island Airport No delays
+10846	Belize City, Belize: Philip S. W. Goldson International No delays
+10848	Balikesir, Turkey: Balikesir Airport No delays
+10851	Beziers, France: Beziers Vias No delays
+10853	Brazoria, TX: Eagle Air Park No delays
+10857	Camarillo, CA: Camarillo Airport No delays
+10859	Koala Mine, Canada: Koala Mine Airport No delays
+10860	Lake Simcoe, Canada: Lake Simcoe Airport No delays
+10862	Pelee Island, Canada: Pelee Island Airport No delays
+10866	Cascavel, Brazil: Cascavel Airport No delays
+10868	Columbia, SC: Columbia Metropolitan
+	average: 15.6603775
+	min: 0.0
+	max: 119.0
+10871	Ca Mau, Vietnam: Ca Mau Airport No delays
+10873	Canaima, Venezuela: Canaima Airport No delays
+10875	Campbeltown, United Kingdom: Campbeltown Airport No delays
+10877	Guangzhou, China: Baiyun International No delays
+10879	Caribou, ME: Caribou Municipal No delays
+10880	Casablanca, Morocco: Anfa No delays
+10882	Campos, Brazil: Bartolomeu Lisandro No delays
+10884	Cayenne, French Guiana: Cayenne Felix Eboue No delays
+10886	Corner Bay, AK: Corner Bay Airport No delays
+10888	Cumberland, MD: Greater Cumberland Regional No delays
+10891	Colomb-Bechar, Algeria: Bechar/Leger No delays
+10893	Ciudad Bolivar, Venezuela: Ciudad Bolivar Airport No delays
+10895	Cotabato, Philippines: Cotabato Airport No delays
+10897	Canberra, Australia: Canberra Airport No delays
+10899	Canobie, Australia: Canobie Airport No delays
+10903	Chile Chico, Chile: Chile Chico Airport No delays
+10905	Calicut, India: Calicut Airport No delays
+10907	Crisciuma, Brazil: Criciuma No delays
+10909	Concepcion, Chile: Carriel Sur International No delays
+10910	Concord, CA: Buchanan Field No delays
+10912	Kolkata, India: Netaji Subhash Chandra Bose International No delays
+10914	Caceres, Brazil: Caceres Airport No delays
+10916	Chub Cay, The Bahamas: Chub Cay Airport No delays
+10918	Cedar City, UT: Cedar City Regional
+	average: 3.2
+	min: 0.0
+	max: 15.0
+10921	Camden, AR: Harrell Field No delays
+10923	Candle, AK: Candle 2 No delays
+10925	Chadron, NE: Chadron Municipal No delays
+10927	Caldwell, NJ: Essex County No delays
+10929	Lapu-Lapu City, Philippines: Mactan-Cebu International No delays
+10930	Crescent City, CA: Jack McNamara Field
+	average: 34.0
+	min: 0.0
+	max: 138.0
+10934	Chester, United Kingdom: Hawarden No delays
+10936	Chelyabinsk, Russia: Chelyabinsk Airport No delays
+10938	Central, AK: Central Airport No delays
+10941	Concepcion, Bolivia: Concepcion Airport No delays
+10943	Cherbourg, France: Cherbourg Maupertus No delays
+10945	Clemson, SC: Oconee County Regional No delays
+10947	Crestview, FL: Bob Sikes No delays
+10949	Murray, KY: Kyle-Oakley Field No delays
+10950	Cortez, CO: Cortez Municipal No delays
+10952	Cabo Frio, Brazil: Cabo Frio Airport No delays
+10954	Cienfuegos, Cuba: Jaime Gonzalez No delays
+10956	Caen, France: Caen Carpiquet No delays
+10958	Clifton, AZ: Greenlee County No delays
+10961	Craig, AK: Craig Seaplane Base No delays
+10963	Cape Gloucester, Papua New Guinea: Cape Gloucester Airport No delays
+10965	Cleveland, OH: Cuyahoga County No delays
+10967	Cape Girardeau, MO: Cape Girardeau Regional No delays
+10969	Camiguin, Philippines: Camiguin Airport No delays
+10970	Cologne, Germany: Koln Bonn No delays
+10972	Chittagong, Bangladesh: Chittagong Airport No delays
+10974	Campo Grande, Brazil: Campo Grande International No delays
+10976	Ciudad Guayana, Venezuela: Ciudad Guayana Metropolitan Area No delays
+10978	Cagayan, Philippines: Cagayan de Oro No delays
+10981	Christchurch, New Zealand: Christchurch International No delays
+10983	Caherciveen, Ireland: Caherciveen Reenroe No delays
+10985	Chaoyang, China: Chaoyang Airport No delays
+10987	Challis, ID: Challis Airport No delays
+10990	Charlottesville, VA: Charlottesville Albemarle
+	average: 46.31579
+	min: 0.0
+	max: 173.0
+10992	Chania, Greece: Souda No delays
+10994	Charleston, SC: Charleston AFB/International
+	average: 8.813953
+	min: 0.0
+	max: 198.0
+10996	Chuathbaluk, AK: Chuathbaluk Airport No delays
+10998	Changuinola, Panama: Changuinola 1 No delays
+11001	Avalon, CA: Catalina No delays
+11003	Cedar Rapids/Iowa City, IA: The Eastern Iowa
+	average: 25.25
+	min: 0.0
+	max: 206.0
+11005	Changzhi, China: Changzhi Airport No delays
+11007	Chalkyitsik, AK: Chalkyitsik Airport No delays
+11009	Carroll, IA: Arthur N Neu No delays
+11010	Chipata, Zambia: Chipata Airport No delays
+11014	Chomley, AK: Chomley Airport No delays
+11016	Chiclayo, Peru: Capt. Jose A. Quinones Gonzales International No delays
+11018	Cajamarca, Peru: Gen FAP Armando Revoredo Iglesias No delays
+11021	Crafton Island, AK: Crafton Island Airport No delays
+11023	Chitral, Pakistan: Chitral Airport No delays
+11025	Jeju, South Korea: Jeju International No delays
+11027	Clarksburg/Fairmont, WV: North Central West Virginia No delays
+11029	Clear Lake, CA: Pearce Field No delays
+11030	Chongqing, China: Jiangbei No delays
+11032	Cancun, Mexico: Cancun International No delays
+11034	Cordova, AK: Cordova Municipal No delays
+11036	Chicken, AK: Chicken Airport No delays
+11038	Comilla, Bangladesh: Comilla Airport No delays
+11041	Carlsbad, CA: McClellan-Palomar
+	average: 4.2
+	min: 0.0
+	max: 24.0
+11043	Clear, AK: Clear Mews No delays
+11045	Coolah, Australia: Coolah Airport No delays
+11047	Cluj-Napoca, Romania: Avram Iancu No delays
+11049	College Station/Bryan, TX: Easterwood Field
+	average: 8.181818
+	min: 0.0
+	max: 40.0
+11050	Port Angeles, WA: William R. Fairchild International No delays
+11052	Cali, Colombia: Alfonso Bonilla Aragon International No delays
+11054	Colima, Mexico: Colima Airport No delays
+11056	Chehalis, WA: Chehalis Centralia No delays
+11058	Columbus, IN: Columbus Municipal No delays
+11061	Colombo, Sri Lanka: Bandaranaike International Colombo No delays
+11063	Ciudad del Carmen, Mexico: Ciudad del Carmen International No delays
+11065	Corumba, Brazil: Corumba International No delays
+11067	Champaign/Urbana, IL: University of Illinois/Willard
+	average: 28.7
+	min: 0.0
+	max: 129.0
+11069	Carmelita, Guatemala: Carmelita Airport No delays
+11070	Casablanca, Morocco: Mohammed V International No delays
+11072	Cameta, Brazil: Cameta Airport No delays
+11074	Coromandel, New Zealand: Coromandel Airport No delays
+11076	Hancock/Houghton, MI: Houghton County Memorial
+	average: 26.833334
+	min: 0.0
+	max: 69.0
+11078	Coonamble, Australia: Coonamble Airport No delays
+11081	Canon City, CO: Fremont County No delays
+11083	Concordia, KS: Blosser Municipal No delays
+11085	Carlsbad, NM: Cavern City Air Terminal No delays
+11087	Corrientes, Argentina: Corrientes Airport No delays
+11089	Cairns, Australia: Cairns International No delays
+11090	Waco, TX: TSTC Waco No delays
+11092	Moab, UT: Canyonlands Field No delays
+11094	Melgar, Colombia: Tolemaida AB No delays
+11096	Concordia, Argentina: Comodoro Pierrestegui No delays
+11098	Coeur d'Alene, ID: Coeur d'Alene - Pappy Boyington Field No delays
+11100	Condoto, Colombia: Mandinga No delays
+11102	Coonabarabran, Australia: Coonabarabran Airport No delays
+11104	Coll Island, United Kingdom: Coll No delays
+11106	Concord, NH: Concord Municipal No delays
+11108	Cordoba, Argentina: Ambrosio L. V. Taravella No delays
+11111	Columbia, MO: Columbia Regional
+	average: 42.727272
+	min: 0.0
+	max: 380.0
+11113	Cape Palmas, Liberia: Cape Palmas Airport No delays
+11115	Chapelco, Argentina: Aviador C. Campos No delays
+11117	Campeche, Mexico: Ingeniero Alberto Acuna Ongay International No delays
+11119	Cape Rodney, Papua New Guinea: Cape Rodney Airport No delays
+11120	Copiapo, Chile: Chamonate No delays
+11122	Casper, WY: Casper/Natrona County International
+	average: 7.7058825
+	min: 0.0
+	max: 98.0
+11124	Cape Town, South Africa: Cape Town International No delays
+11126	Culebra, PR: Benjamin Rivera Noriega No delays
+11128	Carbondale, CO: Glen-Aspen No delays
+11131	Craiova, Romania: Craiova Airport No delays
+11133	Cartago, Colombia: Cartago Airport No delays
+11135	Myrtle Beach, SC: Grand Strand No delays
+11137	Crooked Island, The Bahamas: Colonel Hill No delays
+11139	Charleroi, Belgium: Brussels South No delays
+11140	Corpus Christi, TX: Corpus Christi International
+	average: 11.764706
+	min: 0.0
+	max: 89.0
+11142	Ceres, Argentina: Ceres Airport No delays
+11144	Carriacou, Grenada: Lauriston No delays
+11146	Charleston/Dunbar, WV: Yeager
+	average: 6.3076925
+	min: 0.0
+	max: 20.0
+11148	Cresswell Downs, Australia: Cresswell Downs Airport No delays
+11151	Casino, Australia: Casino Airport No delays
+11153	Carson City, NV: Carson No delays
+11155	Casuarito, Colombia: Casuarito Airport No delays
+11157	Castaway, Fiji: Castaway Airport No delays
+11159	Crossville, TN: Crossville Memorial-Whitson Field No delays
+11160	Changsha, China: Huanghua No delays
+11162	Cut Bank, MT: Cut Bank International No delays
+11164	Cartagena, Colombia: Rafael Nunez No delays
+11166	Charleville, Australia: Charleville Airport No delays
+11168	Cooktown, Australia: Cooktown Airport No delays
+11171	Le Castellet, France: Le Castellet Airport No delays
+11173	Cottonwood, AZ: Cottonwood Airport No delays
+11175	Cross City, FL: Cross City Airport No delays
+11177	Cucuta, Colombia: Camilo Daza No delays
+11179	Cuneo, Italy: Levaldigi No delays
+11180	Culiacan, Mexico: Culiacan International No delays
+11184	Coen, Australia: Coen Airport No delays
+11186	Cutral-Co, Argentina: Cutral-Co Airport No delays
+11188	Cube Cove, AK: Cube Cove Airport No delays
+11191	Pittsburgh, PA: Civic Arena H/P No delays
+11193	Cincinnati, OH: Cincinnati/Northern Kentucky International
+	average: 15.27647
+	min: 0.0
+	max: 179.0
+11195	Cape Vogel, Papua New Guinea: Cape Vogel Airport No delays
+11197	Clovis, NM: Clovis Municipal No delays
+11199	Carnarvon, Australia: Carnarvon Airport No delays
+11201	Coventry, United Kingdom: Coventry Airport No delays
+11203	Mosinee, WI: Central Wisconsin
+	average: 27.363636
+	min: 0.0
+	max: 150.0
+11207	Clinton, IA: Clinton Municipal No delays
+11209	Center Island, WA: Center Island Airport No delays
+11210	Cowra, Australia: Cowra Airport No delays
+11212	Cox's Bazar, Bangladesh: Cox's Bazar Airport No delays
+11214	Coldfoot, AK: Coldfoot Airport No delays
+11216	Christmas Island, Kiribati: Christmas Island Airport No delays
+11218	Calexico, CA: Calexico International No delays
+11223	Cat Cay, The Bahamas: Cat Cay Airport No delays
+11225	Cayman Brac, Cayman Islands: Charles Kirkconnell International No delays
+11227	Chefornak, AK: Chefornak Airport No delays
+11229	Chiayi, Taiwan: Chiayi Airport No delays
+11230	Chatham, AK: Chatham Airport No delays
+11232	Colonia, Uruguay: Laguna de Los Patos International No delays
+11234	Cape Yakataga, AK: Yakataga No delays
+11236	Chichen Itza, Mexico: Chichen Itza International No delays
+11238	Copper Center, AK: Copper Center 2 No delays
+11241	Cape Romanzof, AK: Cape Romanzof LRRS No delays
+11243	Constantine, Algeria: Constantine/Ain El Bey No delays
+11245	Chisana, AK: Chisana Airport No delays
+11247	Cape Pole, AK: Cape Pole Airport No delays
+11249	Corozal, Colombia: Las Brujas No delays
+11250	Czestochowa, Poland: Rudniki No delays
+11252	Daytona Beach, FL: Daytona Beach International
+	average: 7.1538463
+	min: 0.0
+	max: 49.0
+11254	Danang, Vietnam: Danang International No delays
+11256	Daup, Papua New Guinea: Daup Airport No delays
+11258	Dakhla Oasis, Egypt: Dakhla No delays
+11261	Danville, VA: Danville Regional No delays
+11263	Datong, China: Datong Airport No delays
+11265	David, Panama: Enrique Malek International No delays
+11267	Dayton, OH: James M Cox/Dayton International
+	average: 11.69863
+	min: 0.0
+	max: 218.0
+11269	Dabaa City, Egypt: Al Alamain International No delays
+11272	Dublin, GA: W H Bud Barron No delays
+11274	Dubuque, IA: Dubuque Regional
+	average: 16.75
+	min: 0.0
+	max: 83.0
+11276	Dubrovnik, Croatia: Dubrovnik Airport No delays
+11278	Washington, DC: Ronald Reagan Washington National
+	average: 12.085107
+	min: 0.0
+	max: 396.0
+11281	Finningley, United Kingdom: RAF Finningley No delays
+11283	Dodge City, KS: Dodge City Regional No delays
+11285	Zweibrucken, Germany: Zweibrucken Airport No delays
+11287	Debrecen, Hungary: Debrecen Airport No delays
+11289	Decorah, IA: Decorah Municipal No delays
+11290	Delhi, India: Indira Gandhi International No delays
+11292	Denver, CO: Denver International
+	average: 15.42355
+	min: 0.0
+	max: 420.0
+11294	Desroches, Seychelles: Desroches Airport No delays
+11296	Deir Ezzor, Syria: Al Jafrah/Deir Ezzor No delays
+11298	Dallas/Fort Worth, TX: Dallas/Fort Worth International
+	average: 17.74577
+	min: 0.0
+	max: 1201.0
+11302	Dumaguete, Philippines: Dumaguete Airport No delays
+11304	Dhahran, Saudi Arabia: King Abdulaziz AB No delays
+11306	Dhangadhi, Nepal: Dhangadhi Airport No delays
+11308	Dothan, AL: Dothan Regional
+	average: 20.181818
+	min: 0.0
+	max: 91.0
+11311	Dibrugarh, India: Dibrugarh Airport No delays
+11313	Shangri-La, China: Zhongdian No delays
+11315	Dickinson, ND: Dickinson - Theodore Roosevelt Regional
+	average: 20.09091
+	min: 0.0
+	max: 175.0
+11317	Diomede Island, AK: Diomede Heliport No delays
+11319	Dolisie, Congo (Brazaville): Dolisie Airport No delays
+11320	Diu, India: Diu Airport No delays
+11322	Diyarbakir, Turkey: Diyarbakir Airport No delays
+11324	Djerba, Tunisia: Djerba Airport No delays
+11326	Jayapura, Indonesia: Sentani No delays
+11328	Daloa, Cote d'Ivoire: Daloa Airport No delays
+11331	Dunkirk, NY: Chautauqua County/Dunkirk No delays
+11333	Douala, Cameroon: Douala Airport No delays
+11335	Del Rio, TX: Laughlin AFB No delays
+11337	Duluth, MN: Duluth International
+	average: 26.538462
+	min: 0.0
+	max: 177.0
+11339	Dillon, SC: Dillon County No delays
+11340	Dalaman, Turkey: Dalaman Airport No delays
+11342	The Dalles, OR: Columbia Gorge Regional/The Dalles Municipal No delays
+11344	Tucson, AZ: Davis Monthan AFB No delays
+11348	Deming, NM: Deming Municipal No delays
+11351	Okinawa, Japan: Kadena AB No delays
+11353	Duncan Canal, AK: Duncan Canal Airport No delays
+11355	Dallas/Fort Worth, TX: Dallas North No delays
+11357	Dnipropetrovsk, Ukraine: Dnipropetrovsk International No delays
+11359	Dalton, GA: Dalton Municipal No delays
+11360	Dianopolis, Brazil: Dianopolis Airport No delays
+11362	Dinard, France: Dinard Pleurtuit St Malo No delays
+11366	Dodoma, Tanzania: Dodoma Airport No delays
+11368	Dongola, Sudan: Dongola Airport No delays
+11371	Deauville, France: Deauville Normandie No delays
+11373	Dos Lagunas, Guatemala: Dos Lagunas Airport No delays
+11375	Dover, DE: Dover AFB No delays
+11377	Dugway, UT: Michael AAF No delays
+11379	Devonport, Australia: Devonport Airport No delays
+11380	Denpasar, Indonesia: Gusti Ngurah Rai International No delays
+11382	Montijo, Portugal: Montijo Airport No delays
+11384	Soda Springs, ID: Allen H Tigert No delays
+11388	Alpine, AK: Alpine Airstrip No delays
+11391	Fort Drum, NY: Wheeler-Sack AAF No delays
+11395	Delhi, LA: Delhi Municipal No delays
+11397	Cozad, NE: Cozad Municipal No delays
+11399	Whitmore, AZ: Grand Canyon Bar Ten Airstrip No delays
+11401	Ketchikan, AK: Neets Bay No delays
+11403	Peach Springs, AZ: Hualapai No delays
+11405	Cape Canaveral, FL: Cape Canaveral AFS Skid Strip No delays
+11407	Mercury, NV: Desert Rock No delays
+11409	Drummond Island, MI: Drummond Island Airport No delays
+11410	Drift River, AK: Drift River Airport No delays
+11412	Dirranbandi, Australia: Dirranbandi Airport No delays
+11414	Dresden, Germany: Dresden Airport No delays
+11416	Drummond, MT: Drummond Airport No delays
+11418	Finningley, United Kingdom: Doncaster Sheffield No delays
+11421	Destin, FL: Destin Executive No delays
+11423	Des Moines, IA: Des Moines International
+	average: 18.792208
+	min: 0.0
+	max: 167.0
+11425	Death Valley, CA: Furnace Creek No delays
+11427	Detroit Lakes, MN: Detroit Lakes-Wething Field No delays
+11429	Shreveport, LA: Shreveport Downtown No delays
+11430	Denton, TX: Denton Municipal No delays
+11432	Detroit, MI: Detroit Metropolitan Area No delays
+11434	Durant, OK: Eaker Field No delays
+11436	Duncan, OK: Halliburton Field No delays
+11438	Dundo, Angola: Dundo Airport No delays
+11441	DuBois, PA: DuBois Regional No delays
+11443	Durban, South Africa: Louis Botha No delays
+11445	Unalaska, AK: Unalaska Airport No delays
+11447	Devils Lake, ND: Devils Lake Regional
+	average: 31.75
+	min: 0.0
+	max: 114.0
+11449	Davao, Philippines: Francisco Bangoy International No delays
+11450	Phoenix, AZ: Phoenix - Deer Valley No delays
+11452	Davis/Woodland/Winters, CA: Yolo County No delays
+11454	Orlando, FL: Walt Disney World No delays
+11456	Danbury, CT: Danbury Municipal No delays
+11458	Anadyr, Russia: Anadyr Airport No delays
+11461	Dzaoudzi, Mayotte: Dzaoudzi-Pamandzi No delays
+11463	Eagle, AK: Eagle Airport No delays
+11467	Wheatland, WY: Phifer Airfield No delays
+11469	San Sebastian, Spain: San Sebastian Airport No delays
+11470	Wenatchee, WA: Pangborn Memorial No delays
+11472	Elba Island, Italy: Marina Di Campo No delays
+11474	El Obeid, Sudan: El Obeid Airport No delays
+11476	Erbil, Iraq: Erbil International No delays
+11478	East Tawas, MI: Iosco County No delays
+11481	Panama City, FL: Northwest Florida Beaches International
+	average: 3.2666667
+	min: 0.0
+	max: 31.0
+11483	Rocksprings, TX: Edwards County No delays
+11487	Anchorage, AK: Elmendorf AFB No delays
+11489	Eldoret, Kenya: Eldoret Airport No delays
+11490	Edwards, CA: Edwards AFB No delays
+11492	Eek, AK: Eek Airport No delays
+11494	Eight Fathom Bight, AK: Eight Fathom Bight Airport No delays
+11496	Newport, VT: Newport State No delays
+11498	Cairo, Egypt: Cairo West No delays
+11500	Beni Suef, Egypt: Beni Suef Airport No delays
+11502	Bergerac, France: Bergerac Roumaniere No delays
+11504	Crestview, FL: Duke Field No delays
+11506	Eagle Pass, TX: Eagle Pass Municipal No delays
+11508	Wellington, KS: Wellington Municipal No delays
+11511	Egegik, AK: Egegik Airport No delays
+11513	Eagle Harbor, AK: Eagle Harbor Airport No delays
+11515	Eia, Papua New Guinea: Eia Airport No delays
+11517	Fairbanks, AK: Eielson AFB No delays
+11519	Road Town, British Virgin Islands: Terrance B. Lettsome No delays
+11520	Barrancabermeja, Colombia: Yariguies No delays
+11522	Eureka, CA: Murray Field No delays
+11524	Elkins, WV: Elkins-Randolph County-Jennings Randolph Field No delays
+11526	Elizabethtown, KY: Addington Field No delays
+11528	Eagle Lake, TX: Eagle Lake Airport No delays
+11531	El Dorado, AR: South Arkansas Regional at Goodwin Field No delays
+11533	El Golea, Algeria: El Golea Airport No delays
+11535	Elim, AK: Elim Airport No delays
+11537	Elmira/Corning, NY: Elmira/Corning Regional
+	average: 17.875
+	min: 0.0
+	max: 64.0
+11540	El Paso, TX: El Paso International
+	average: 12.494845
+	min: 0.0
+	max: 140.0
+11544	El Tor, Egypt: El Tor Airport No delays
+11546	Ellamar, AK: Ellamar Seaplane Base No delays
+11548	Derby, United Kingdom: East Midlands No delays
+11551	Kemmerer, WY: Kemmerer Municipal No delays
+11553	Emporia, KS: Emporia Municipal No delays
+11555	Kenai, AK: Kenai Municipal No delays
+11557	Enid, OK: Vance AFB No delays
+11559	Nenana, AK: Nenana Municipal No delays
+11560	Comayagua, Honduras: Coronel Enrique Soto Cano AB No delays
+11562	Enugu, Nigeria: Enugu Airport No delays
+11564	Kenosha, WI: Kenosha Regional No delays
+11566	Keokuk, IA: Keokuk Municipal No delays
+11571	Esperance, Australia: Esperance Airport No delays
+11573	Erigavo, Somalia: Erigavo Airport No delays
+11575	Berdyansk, Ukraine: Berdyansk Airport No delays
+11577	Erie, PA: Erie International/Tom Ridge Field
+	average: 11.6
+	min: 0.0
+	max: 70.0
+11579	Eirunepe, Brazil: Eirunepe Airport No delays
+11580	Windhoek, Namibia: Eros No delays
+11582	Kerrville, TX: Kerrville Municipal/Louis Schreiner Field No delays
+11584	Madrid, Spain: Getafe No delays
+11586	Ankara, Turkey: Esenboga No delays
+11588	Eastsound, WA: Orcas Island No delays
+11591	Esmeraldas, Ecuador: Coronel Carlos Concha Torres No delays
+11593	Stroudsburg, PA: Stroudsburg Pocono No delays
+11595	Essen, Germany: Essen Mulheim No delays
+11597	Eastland, TX: Eastland Municipal No delays
+11599	Metz/Nancy, France: Metz Nancy Lorraine No delays
+11601	Eureka, NV: Eureka Airport No delays
+11603	Eugene, OR: Mahlon Sweet Field
+	average: 14.242424
+	min: 0.0
+	max: 94.0
+11605	St. Eustatius, Bonaire, Sint Eustatius, and Saba: F.D. Roosevelt No delays
+11607	Evenes, Norway: Evenes Airport No delays
+11609	Eveleth, MN: Eveleth Virginia Municipal No delays
+11610	Yerevan, Armenia: Zvartnots No delays
+11612	Evansville, IN: Evansville Regional
+	average: 15.24138
+	min: 0.0
+	max: 101.0
+11614	Evreux, France: Evreux Fauville No delays
+11616	Newton, KS: Newton City County No delays
+11618	Newark, NJ: Newark Liberty International
+	average: 16.131378
+	min: 0.0
+	max: 557.0
+11621	George Town, The Bahamas: George Town Airport No delays
+11623	El Yopal, Colombia: El Yopal Airport No delays
+11625	Ezeiza, Argentina: Ministro Pistarini No delays
+11627	Murrieta/Temecula, CA: French Valley No delays
+11629	Sorvagur, Denmark: Vagar No delays
+11630	Fairbanks, AK: Fairbanks International
+	average: 3.5625
+	min: 0.0
+	max: 38.0
+11632	False Island, AK: False Island Airport No delays
+11634	Farmington, MO: Farmington Regional No delays
+11636	Faro, Portugal: Faro Airport No delays
+11638	Fresno, CA: Fresno Yosemite International
+	average: 12.307693
+	min: 0.0
+	max: 82.0
+11641	Fayetteville, NC: Fayetteville Regional/Grannis Field
+	average: 4.0
+	min: 0.0
+	max: 41.0
+11643	Fairbanks, AK: Ladd AAF No delays
+11645	Fort Bridger, WY: Fort Bridger Airport No delays
+11647	Oslo, Norway: Fornebu No delays
+11649	Fresno, CA: Fresno Chandler Executive No delays
+11650	Minneapolis, MN: Flying Cloud No delays
+11652	Colorado Springs, CO: Butts AAF No delays
+11654	Fort de France, Martinique: Martinique Aime Cesaire No delays
+11656	Frederick, MD: Frederick Municipal No delays
+11658	Bandundu, Congo (Kinshasa): Bandundu Airport No delays
+11661	Fernando de Noronha, Brazil: Fernando de Noronha Airport No delays
+11663	Fremont, NE: Fremont Municipal No delays
+11665	Fez, Morocco: Saiss International No delays
+11667	Fergus Falls, MN: Fergus Falls Municipal-Einar Mickelson Field No delays
+11669	Frankfort, KY: Capital City No delays
+11670	Fderik, Mauritania: Fderik Airport No delays
+11674	Fire Cove, AK: Fire Cove Airport No delays
+11676	Kinshasa, Congo (Kinshasa): N'Djili International No delays
+11678	Finschhafen, Papua New Guinea: Finschhafen Airport No delays
+11681	Karlsruhe/Baden-Baden, Germany: Karlsruhe/Baden-Baden Airport No delays
+11683	Fukui, Japan: Fukui Airport No delays
+11685	Fukushima, Japan: Fukushima Airport No delays
+11687	Valkaria, FL: Valkaria Airport No delays
+11689	Bunnell, FL: Flagler County No delays
+11690	Williston, FL: Williston Municipal No delays
+11692	Floriano, Brazil: Floriano Airport No delays
+11694	Flensburg, Germany: Flensburg Schaferhaus No delays
+11696	Falls Bay, AK: Falls Bay Airport No delays
+11698	Florianopolis, Brazil: Hercilio Luz International No delays
+11700	Florence, Italy: Firenze No delays
+11702	Flat, AK: Flat Airport No delays
+11704	Leavenworth, KS: Sherman AAF No delays
+11706	Fallon, NV: Fallon Municipal No delays
+11708	Five Mile Camp, AK: Five Mile Camp Airport No delays
+11711	Farmington, NM: Four Corners Regional No delays
+11713	Fort Madison, IA: Fort Madison Municipal No delays
+11715	Freetown, Sierra Leone: Freetown Lungi No delays
+11717	Nimes, France: Nimes Garons No delays
+11719	Fort Collins/Loveland, CO: Fort Collins-Loveland Municipal No delays
+11720	Funter Bay Alaska, AK: Funter Bay No delays
+11724	Fuzhou, China: Changle No delays
+11726	Topeka, KS: Forbes Field No delays
+11728	Westhampton, NY: Francis S. Gabreski No delays
+11731	Freeport, The Bahamas: Grand Bahama International No delays
+11733	Perry, FL: Perry-Foley No delays
+11735	Ventura, CA: San Nicolas Island NOLF No delays
+11737	Katmai National Park, AK: Trident Volcano No delays
+11739	Davidson Creek, AK: Davidson Creek Airport No delays
+11740	Snettisham, AK: Snettisham Airport No delays
+11742	Scott, KY: Georgetown Scott County - Marshall Field No delays
+11744	Gull Cove, AK: Gull Cove Airport No delays
+11748	Manzanita Lake, AK: Manzanita Lake Airport No delays
+11751	Josephine Lake, AK: Josephine Lake Airport No delays
+11755	Volcano Bay, AK: Volcano Bay Airport No delays
+11757	Babe Islands, AK: Babe Islands Airport No delays
+11760	Frankfurt, Germany: Frankfurt Main No delays
+11762	Friday Harbor, WA: Friday Harbor Airport No delays
+11764	East Farmingdale, NY: Republic No delays
+11766	Fairmont, MN: Fairmont Municipal No delays
+11768	Fresh Water Bay, AK: Fresh Water Bay Airport No delays
+11771	Bishkek, Kyrgyzstan: Manas No delays
+11773	Fryeburg, ME: Eastern Slopes Regional No delays
+11775	Sioux Falls, SD: Joe Foss Field
+	average: 22.180328
+	min: 0.0
+	max: 165.0
+11777	Fort Scott, KS: Fort Scott Municipal No delays
+11779	St. Pierre, Saint Pierre and Miquelon: St. Pierre Airport No delays
+11780	Ft. Stockton, TX: Fort Stockton Pecos County No delays
+11782	Fort Collins, CO: Fort Collins Airpark No delays
+11784	Denver, CO: Front Range No delays
+11786	Fortuna Ledge, AK: Fortuna Ledge Airport No delays
+11788	Masvingo, Zimbabwe: Masvingo International No delays
+11791	Fuerteventura, Spain: Fuerteventura Airport No delays
+11793	Fukuoka, Japan: Fukuoka Airport No delays
+11795	Funafuti, Tuvalu: Funafuti International No delays
+11797	Osprey Lodge, AK: Osprey Lodge Airport No delays
+11799	Baikonour, Kazakhstan: Baikonour Airport No delays
+11801	Fallbrook, CA: Fallbrook Community Airpark No delays
+11803	Wickenburg, AZ: Wickenburg Municipal No delays
+11805	Lake Providence, LA: Byerley No delays
+11810	Culbertson, MT: Big Sky Field No delays
+11812	Quincy, CA: Gansner Field No delays
+11814	Three Forks, MT: Three Forks Airport No delays
+11816	Latacunga, Ecuador: Latacunga Airport No delays
+11818	Kernville, CA: Kern Valley No delays
+11821	Unuk River, AK: Unuk River Airport No delays
+11823	Fort Wayne, IN: Fort Wayne International
+	average: 15.666667
+	min: 0.0
+	max: 129.0
+11825	Farewell, AK: Farewell Airport No delays
+11827	Fort Lauderdale, FL: Fort Lauderdale Executive No delays
+11829	Nova Freixo, Mozambique: Nova Freixo Airport No delays
+11830	Clinton, IN: Frankfort Municipal No delays
+11832	Faya-Largeau, Chad: Faya-Largeau Airport No delays
+11834	Fayetteville, AR: Drake Field No delays
+11836	Lafayette, GA: Barwick Lafayette No delays
+11838	Atlanta, GA: Newnan Coweta County No delays
+11841	Gabes, Tunisia: Matmata Northeast No delays
+11843	Yamagata, Japan: Yamagata Airport No delays
+11845	Gambell, AK: Gambell Airport No delays
+11847	Guantanamo, Cuba: Los Canos No delays
+11849	Garaina, Papua New Guinea: Garaina Airport No delays
+11850	Gap, France: Gap Tallard No delays
+11852	Gangaw, Burma: Gangaw Airport No delays
+11854	Suffolk, United Kingdom: Wattisham No delays
+11856	Great Bend, KS: Great Bend Municipal No delays
+11858	Galesburg, IL: Galesburg Municipal No delays
+11861	Gbangbatok, Sierra Leone: Gbangbatok Airport No delays
+11863	Khashm El Girba, Sudan: Khashm El Girba Airport No delays
+11865	Gillette, WY: Gillette Campbell County
+	average: 12.583333
+	min: 0.0
+	max: 56.0
+11867	Garden City, KS: Garden City Regional
+	average: 3.6666667
+	min: 0.0
+	max: 22.0
+11869	Grand Canyon, AZ: Grand Canyon National Park No delays
+11870	Greeneville, TN: Municipal No delays
+11872	Gode, Ethiopia: Gode Airport No delays
+11874	Guadalajara, Mexico: Miguel Hidalgo Y Costilla International No delays
+11876	Gdansk, Poland: Gdansk Lech Walesa No delays
+11878	Grand Turk, Turks and Caicos Islands: JAGS McCartney International No delays
+11881	Magadan, Russia: Magadan Sokol No delays
+11883	Georgetown, DE: Sussex County No delays
+11885	Ganes Creek, AK: Ganes Creek Airport No delays
+11887	Oslo, Norway: Gardermoen No delays
+11889	Nueva Gerona, Cuba: Rafael Cabrera No delays
+11890	General Santos, Philippines: General Santos Airport No delays
+11892	Gallivare, Sweden: Gallivare Airport No delays
+11894	Shelbyville, IN: Shelbyville Municipal No delays
+11896	Togiak Fish, AK: Togiak Fish Airport No delays
+11898	Grand Forks, ND: Grand Forks International
+	average: 2.25
+	min: 0.0
+	max: 7.0
+11900	Grafton, Australia: Grafton Airport No delays
+11902	Granville, France: Granville Mont Saint Michel No delays
+11904	Georgetown, SC: Georgetown County No delays
+11906	Gagnoa, Cote d'Ivoire: Gagnoa Airport No delays
+11908	Glasgow, MT: Wokal Field/Glasgow International No delays
+11911	Great Harbour Cay, The Bahamas: Great Harbour Cay Airport No delays
+11913	Gualeguaychu, Argentina: Gualeguaychu Airport No delays
+11915	Rio de Janeiro, Brazil: Galeao-Antonio Carlos Jobim No delays
+11917	Gisborne, New Zealand: Gisborne Airport No delays
+11919	Guanaja Island, Honduras: Guanaja No delays
+11920	Guajara-Mirim, Brazil: Guajara Mirim No delays
+11922	Goroka, Papua New Guinea: Goroka Airport No delays
+11924	Gulkana, AK: Gulkana Airport No delays
+11926	Station Nord, Greenland: Station Nord Airport No delays
+11928	Glasgow, United Kingdom: Glasgow Airport No delays
+11931	Greenville, MS: Greenville Mid Delta No delays
+11933	Galcaio, Somalia: Galcaio Airport No delays
+11935	Goulimime, Morocco: Goulimime Airport No delays
+11937	Glennallen, AK: Glennallen Airport No delays
+11939	Galveston, TX: Scholes International at Galveston No delays
+11940	Gladstone, Australia: Gladstone Airport No delays
+11942	Glasgow, KY: Glasgow Municipal No delays
+11944	Guerima, Colombia: Guerima Airport No delays
+11946	Granite Mountain, AK: Granite Mountain AS No delays
+11948	Hrodna, Belarus: Hrodna Airport No delays
+11951	General Roca, Argentina: General Roca Airport No delays
+11953	Gainesville, FL: Gainesville Regional
+	average: 7.0869565
+	min: 0.0
+	max: 86.0
+11955	Goba, Ethiopia: Goba Airport No delays
+11957	Goa, India: Goa Airport No delays
+11959	Gold Beach, OR: Gold Beach Municipal No delays
+11960	Goma, Congo (Kinshasa): Goma Airport No delays
+11962	Goondiwindi, Australia: Goondiwindi Airport No delays
+11964	Gore, Ethiopia: Gore Airport No delays
+11966	Gothenburg, Sweden: Landvetter No delays
+11968	Gove, Australia: Gove Airport No delays
+11971	Grand Prairie, TX: Grand Prairie Municipal No delays
+11973	Gulfport/Biloxi, MS: Gulfport-Biloxi International
+	average: 10.837838
+	min: 0.0
+	max: 113.0
+11975	Galion, OH: Horning No delays
+11977	Green Bay, WI: Austin Straubel International
+	average: 14.414634
+	min: 0.0
+	max: 113.0
+11979	Tacoma, WA: Gray AAF No delays
+11980	Grand Island, NE: Central Nebraska Regional
+	average: 9.833333
+	min: 0.0
+	max: 38.0
+11982	Killeen, TX: Robert Gray AAF
+	average: 11.657895
+	min: 0.0
+	max: 148.0
+11984	Gurupi, Brazil: Gurupi Airport No delays
+11986	Grand Rapids, MI: Gerald R. Ford International
+	average: 19.5
+	min: 0.0
+	max: 313.0
+11988	Sao Paulo, Brazil: Guarulhos Gov Andre Franco Montoro No delays
+11991	Graz, Austria: Graz International No delays
+11993	Gothenburg, Sweden: Gothenburg City No delays
+11995	Greensboro/High Point, NC: Piedmont Triad International
+	average: 16.830769
+	min: 0.0
+	max: 307.0
+11997	Gustavus, AK: Gustavus Airport No delays
+11999	Dallas/Fort Worth, TX: Greater Southwest International No delays
+12000	San Jose, Guatemala: San Jose Airport No delays
+12002	Groote Island, Australia: Groote Eylandt No delays
+12004	Sungei Tekai, Malaysia: Sungei Tekai Airport No delays
+12006	Gorontalo, Indonesia: Djalaluddin No delays
+12008	Georgetown, TX: Georgetown Municipal No delays
+12011	Guerrero Negro, Mexico: Guerrero Negro Airport No delays
+12013	Goundam, Mali: Goundam Airport No delays
+12015	Guiria, Venezuela: Guiria Airport No delays
+12017	Gualaco, Honduras: Jicalapa No delays
+12019	Guanare, Venezuela: Guanare Airport No delays
+12020	Alotau, Papua New Guinea: Gurney No delays
+12022	Gutersloh, Germany: Gutersloh Airport No delays
+12024	Guymon, OK: Guymon Municipal No delays
+12026	Geneva, Switzerland: Geneva Cointrin No delays
+12028	Gainesville, GA: Lee Gilmer Memorial No delays
+12031	Greenville, TX: Majors No delays
+12033	Gavle, Sweden: Gavle Airport No delays
+12035	Gweru, Zimbabwe: Gweru Thornhill No delays
+12039	Greenwood, MS: Greenwood/Leflore No delays
+12040	Gwinner, ND: Gwinner-Roger Melroe Field No delays
+12042	Westerland-Sylt, Germany: Sylt No delays
+12044	Galway, Ireland: Carnmore No delays
+12046	Mildenhall, United Kingdom: Mildenhall NAF No delays
+12048	Yagoua, Cameroon: Yagoua Ville No delays
+12051	Guayaquil, Ecuador: Jose Joaquin de Olmedo International No delays
+12053	Goiania, Brazil: Santa Genoveva No delays
+12055	Gary, IN: Gary/Chicago International No delays
+12057	Gaziantep, Turkey: Gaziantep Airport No delays
+12059	Hachijo Jima Island, Japan: Hachijo Jima Island Airport No delays
+12060	Halmstad, Sweden: Halmstad Airport No delays
+12062	Half Moon Bay, CA: Half Moon Bay Airport No delays
+12064	Hannover, Germany: Hannover Airport No delays
+12066	Hamburg, Germany: Hamburg Airport No delays
+12068	Hamilton, OH: Butler County Regional Hogan Field No delays
+12071	Hail, Saudi Arabia: Hail Airport No delays
+12073	Havana, Cuba: Jose Marti International No delays
+12075	Hobart, Australia: Hobart Airport No delays
+12077	Alexandria, Egypt: Borg El Arab No delays
+12079	Hobart Bay, AK: Hobart Bay Airport No delays
+12080	Harbour Island, The Bahamas: Harbour Island Airport No delays
+12082	Hafr Al Batin, Saudi Arabia: Al Batin No delays
+12084	Hood Bay, AK: Hood Bay Airport No delays
+12086	Shoal Cove, AK: Shoal Cove Airport No delays
+12088	Hidden Falls, AK: Hidden Falls Airport No delays
+12091	Heringsdorf, Germany: Heringsdorf Airport No delays
+12093	Hamadan, Iran: Hamadan Airport No delays
+12095	Hoedspruit, South Africa: Hoedspruit Airport No delays
+12097	Herat, Afghanistan: Herat Airport No delays
+12099	Heho, Burma: Heho Airport No delays
+12101	Helsinki, Finland: Helsinki Vantaa No delays
+12103	Hermiston, OR: Hermiston Municipal No delays
+12105	Santo Domingo, Dominican Republic: Herrera International No delays
+12107	Haifa, Israel: Haifa Airport No delays
+12109	Hefei, China: Luogang No delays
+12110	Hoffman, NC: Mackall AAF No delays
+12112	Hammerfest, Norway: Hammerfest Airport No delays
+12114	Hughenden, Australia: Hughenden Airport No delays
+12116	Dune, Germany: Helgoland Dune No delays
+12118	Korhogo, Cote d'Ivoire: Korhogo Airport No delays
+12121	Mount Hagen, Papua New Guinea: Mount Hagen Airport No delays
+12123	Hachinohe, Japan: Hachinohe Airport No delays
+12125	Hahn, Germany: Frankfurt Hahn No delays
+12127	Hawthorne, CA: Jack Northrop Field/Hawthorne Municipal No delays
+12129	Hibbing, MN: Range Regional
+	average: 11.125
+	min: 0.0
+	max: 51.0
+12130	Whitefield, NH: Mount Washington Regional No delays
+12132	Lake Havasu City, AZ: Lake Havasu City Airport No delays
+12134	Honolulu, HI: Joint Base Pearl Harbor-Hickam No delays
+12136	Hillsboro, OR: Portland Hillsboro No delays
+12138	Hayman Island, Australia: Hayman Island Airport No delays
+12141	Healy, AK: Healy River No delays
+12143	Hong Kong, Hong Kong: Hong Kong International No delays
+12145	Hoskins, Papua New Guinea: Hoskins Airport No delays
+12147	Jackson, MS: Hawkins Field No delays
+12149	Hickory, NC: Hickory Regional No delays
+12150	Lanseria, South Africa: Lanseria International No delays
+12152	Hultsfred, Sweden: Hultsfred Airport No delays
+12154	Hollister, CA: Hollister Municipal No delays
+12156	Helena, MT: Helena Regional
+	average: 2.8333333
+	min: 0.0
+	max: 28.0
+12158	Jakarta, Indonesia: Halim Perdanakusuma International No delays
+12163	Alamogordo, NM: Holloman AFB No delays
+12165	Homeshore, AK: Homeshore Airport No delays
+12167	Hanamaki, Japan: Hanamaki Airport No delays
+12169	Tokyo, Japan: Tokyo International No delays
+12170	Hienghene, New Caledonia: Hienghene/Henri Martinet No delays
+12174	Hana, HI: Hana Airport No delays
+12178	Hodeidah, Yemen: Hodeidah International No delays
+12181	Hao Island, French Polynesia: Hao No delays
+12183	Holikachuk, AK: Holikachuk Airport No delays
+12185	Huron, SD: Huron Regional No delays
+12187	Hopkinsville, KY: Campbell AAF No delays
+12189	Horta, Portugal: Horta Airport No delays
+12190	Hot Springs, AR: Memorial Field No delays
+12192	Orsta/Volda, Norway: Hovden No delays
+12194	Lifuka, Tonga: Salote Pilolevu No delays
+12196	Hai Phong, Vietnam: Catbi No delays
+12198	Hampton, IA: Hampton Municipal No delays
+12200	Hoquiam, WA: Bowerman No delays
+12204	Hurghada, Egypt: Hurghada International No delays
+12206	Harlingen/San Benito, TX: Valley International
+	average: 7.172414
+	min: 0.0
+	max: 53.0
+12211	Las Vegas, NV: Henderson Executive No delays
+12213	Huesca, Spain: Huesca Airport No delays
+12215	Hot Springs, VA: Ingalls Field No delays
+12217	Huntsville, AL: Huntsville International-Carl T Jones Field
+	average: 19.765957
+	min: 0.0
+	max: 159.0
+12219	Hatfield, United Kingdom: Hatfield Airport No delays
+12220	Hawthorne, NV: Hawthorne Industrial No delays
+12222	East Hampton, NY: East Hampton Airport No delays
+12224	Hato Corozal, Colombia: Hato Corozal Airport No delays
+12226	Humacao, PR: Dr Hermnegildo Ortiz Quionoes No delays
+12228	Terre Haute, IN: Terre Haute International-Hulman Field No delays
+12231	Hue, Vietnam: Phubai International No delays
+12233	Houma, LA: Houma Terrebonne No delays
+12235	Hughes, AK: Hughes Airport No delays
+12237	Huanuco, Peru: Alferez FAP David Figueroa Fernandini No delays
+12239	Santa Cruz/Huatulco, Mexico: Bahias de Huatulco International No delays
+12240	Humberside, United Kingdom: Humberside Airport No delays
+12242	Hervey Bay, Australia: Hervey Bay Airport No delays
+12244	New Haven, CT: Tweed New Haven No delays
+12246	Hartsville, SC: Hartsville Regional No delays
+12248	Hawk Inlet, AK: Hawk Inlet Airport No delays
+12251	Hyderabad, India: Hyderabad Airport No delays
+12253	Hollis, AK: Hollis Seaplane Base No delays
+12255	Hays, KS: Hays Regional
+	average: 5.6
+	min: 0.0
+	max: 15.0
+12257	Liping City, China: Liping No delays
+12259	Hazleton, PA: Hazleton Regional No delays
+12260	Shenandoah, IA: Shenandoah Municipal No delays
+12262	Red Oak, IA: Red Oak Municipal No delays
+12264	Washington, DC: Washington Dulles International
+	average: 12.587079
+	min: 0.0
+	max: 256.0
+12266	Houston, TX: George Bush Intercontinental/Houston
+	average: 14.471043
+	min: 0.0
+	max: 464.0
+12268	Kiana, AK: Bob Baker Memorial No delays
+12271	Ibadan, Nigeria: Ibadan Airport No delays
+12273	Itambacuri, Brazil: Itambacuri Airport No delays
+12275	Cicia, Fiji: Cicia Airport No delays
+12277	Seoul, South Korea: Incheon International No delays
+12279	Icy Bay, AK: Icy Bay Airport No delays
+12280	Idaho Falls, ID: Idaho Falls Regional
+	average: 21.833334
+	min: 0.0
+	max: 103.0
+12282	Santa Isabel Do Morro, Brazil: Santa Isabel Do Morro Airport No delays
+12284	Indore, India: Indore Airport No delays
+12286	Zielona Gora, Poland: Babimost No delays
+12288	Isafjordur, Iceland: Isafjordur Airport No delays
+12291	Ivano-Frankovska, Ukraine: Ivano - Frankovska International No delays
+12293	Inagua, The Bahamas: Inagua Airport No delays
+12295	Ingham, Australia: Ingham Airport No delays
+12297	Kingman, AZ: Kingman Airport No delays
+12299	Chigorodo, Colombia: Chigorodo Airport No delays
+12303	Chapel Hill, NC: Horace Williams No delays
+12305	Rantoul, IL: Rantoul National Aviation Center No delays
+12307	De Kalb, IL: De Kalb Taylor Municipal No delays
+12309	Ijui, Brazil: Ijui Airport No delays
+12310	Jacksonville, IL: Jacksonville Municipal No delays
+12312	Wilkesboro, NC: Wilkes County No delays
+12314	Kankakee, IL: Greater Kankakee No delays
+12316	Irkutsk, Russia: Irkutsk Airport No delays
+12318	Nevatim, Israel: Nevatim AB No delays
+12321	Iliamna, AK: Iliamna Airport No delays
+12323	Wilmington, NC: Wilmington International
+	average: 7.3076925
+	min: 0.0
+	max: 95.0
+12325	Iloilo, Philippines: Iloilo Airport No delays
+12327	Ilo, Peru: Ilo Airport No delays
+12329	Islay, United Kingdom: Islay Airport No delays
+12330	Zilina, Slovakia: Zilina International No delays
+12332	Imperial, NE: Imperial Municipal No delays
+12334	Imperatriz, Brazil: Imperatriz Airport No delays
+12336	Auburn, IN: De Kalb County No delays
+12338	Yinchuan, China: Hedong No delays
+12341	Lago Argentino, Argentina: Lago Argentino Airport No delays
+12343	International Falls, MN: Falls International Einarson Field
+	average: 5.5
+	min: 0.0
+	max: 33.0
+12345	Inongo, Congo (Kinshasa): Inongo Airport No delays
+12347	Indian Springs, NV: Creech AFB No delays
+12349	Nauru, Nauru: Nauru Island No delays
+12350	Inverness, United Kingdom: Inverness Airport No delays
+12352	Ioannina, Greece: Ioannina Airport No delays
+12354	Impfondo, Congo (Brazaville): Impfondo Airport No delays
+12356	Ilheus, Brazil: Bahia-Jorge Amado No delays
+12358	Iowa City, IA: Iowa City Municipal No delays
+12361	Ipoh, Malaysia: Ipoh Sultan Azlan Shah No delays
+12363	El Centro, CA: Imperial County No delays
+12365	Williamsport, PA: Williamsport Regional No delays
+12367	Al Asad, Iraq: Al Asad AB No delays
+12369	Iquitos, Peru: Coronel Francisco Secada Vignetta International No delays
+12370	Circle, AK: Circle City No delays
+12372	Iron Range, Australia: Iron Range Airport No delays
+12374	La Rioja, Argentina: Capitan Vicente A Almonacid No delays
+12376	Birao, Central African Republic: Birao Airport No delays
+12378	Sturgis, MI: Sturgis Airport No delays
+12381	Islamabad, Pakistan: Benazir Bhutto International No delays
+12383	Ishigaki, Japan: Ishigaki Airport No delays
+12385	Isisford, Australia: Isisford Airport No delays
+12387	Isabel Pass, AK: Isabel Pass Airport No delays
+12389	Williston, ND: Sloulin Field International
+	average: 19.2
+	min: 0.0
+	max: 89.0
+12390	Kinston, NC: Kinston Regional Jetport at Stallings Field No delays
+12392	Manistique, MI: Schoolcraft County No delays
+12394	Wiscasset, ME: Wiscasset Airport No delays
+12396	Wisconsin Rapids, WI: Alexander Field South Wood County No delays
+12400	Osaka, Japan: Osaka International No delays
+12402	Hilo, HI: Hilo International
+	average: 3.66
+	min: 0.0
+	max: 44.0
+12404	Niue Island, Niue: Niue International No delays
+12406	Ambanja, Madagascar: Ambanja/Ambalavelona No delays
+12408	Berane, Montenegro: Berane Airport No delays
+12411	Ivanovo, Russia: Ivanovo Airport No delays
+12413	Iwami, Japan: Iwami Airport No delays
+12415	Houston, TX: West Houston No delays
+12417	Bagdogra, India: Baghdogra No delays
+12419	Allahabad, India: Allahabad Airport No delays
+12420	Mangalore, India: Mangalore Airport No delays
+12422	Kailashahar, India: Kailashahar Airport No delays
+12424	Jammu, India: Jammu Airport No delays
+12426	Leh, India: Leh Airport No delays
+12431	Silchar, India: Silchar Airport No delays
+12433	Jamshedpur, India: Jamshedpur Airport No delays
+12435	Port Blair, India: Port Blair Airport No delays
+12437	Izmir, Turkey: Izmir Metropolitan Area No delays
+12439	Ixtepec, Mexico: Ixtepec Airport No delays
+12440	Jabiru, Australia: Jabiru Airport No delays
+12442	Jaffna, Sri Lanka: Kankesanturai No delays
+12444	Jaipur, India: Jaipur Airport No delays
+12446	Jacmel, Haiti: Jacmel Airport No delays
+12448	Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International
+	average: 11.142858
+	min: 0.0
+	max: 97.0
+12451	Jacksonville, FL: Jacksonville International
+	average: 10.5125
+	min: 0.0
+	max: 142.0
+12453	Oakland, CA: Berkeley Municipal Heliport No delays
+12455	Jonesboro, AR: Jonesboro Municipal No delays
+12457	San Francisco, CA: China Basin Heliport No delays
+12459	Christianshab, Greenland: Christianshab Airport No delays
+12460	Olathe, KS: New Century Aircenter No delays
+12462	John Day, OR: Grant County Regional/Ogilvie Field No delays
+12464	Juiz de Fora, Brazil: Juiz No delays
+12466	Jodhpur, India: Jodhpur Airport No delays
+12468	Juazeiro Do Norte, Brazil: Regional de Cariri No delays
+12473	Jeremie, Haiti: Jeremie Airport No delays
+12477	Seattle, WA: Seattle 1st National.Bank Helipad No delays
+12479	Jefferson, OH: Northeast Ohio Regional No delays
+12482	Jamnagar, India: Jamnagar Airport No delays
+12484	Williamsburg, VA: Williamsburg-Jamestown No delays
+12486	Houston, TX: Greenway Plaza Heliport No delays
+12491	Helsingborg, Sweden: Helsingborg Heliport No delays
+12493	Sisimiut, Greenland: Sisimiut Airport No delays
+12495	Cambridge, MA: Cambridge Airport No delays
+12497	City of Industry, CA: Civic Financial Center Heliport No delays
+12499	Jilin, China: Jilin Airport No delays
+12501	Jinja, Uganda: Jinja Airport No delays
+12503	Jonkoping, Sweden: Jonkoping Airport No delays
+12505	Kalymnos, Greece: Kalymnos Airport No delays
+12507	Jakarta, Indonesia: Jakarta Metropolitan Area No delays
+12509	Cooper Lodge, AK: Quartz Creek No delays
+12512	Jabalpur, India: Jabalpur Airport No delays
+12514	Jamba, Angola: Jamba Airport No delays
+12516	Mikonos Island, Greece: Mikonos No delays
+12518	Mankato, MN: Downtown Heliport No delays
+12521	Nanortalik, Greenland: Nanortalik Airport No delays
+12523	Juneau, AK: Juneau International
+	average: 2.7391305
+	min: 0.0
+	max: 51.0
+12525	Azraq, Jordan: Al Shaheed Mwaffaq Salti Air Base No delays
+12527	Santa Ana, CA: Centerport Heliport No delays
+12529	Yogyakarta, Indonesia: Adisutjipto No delays
+12530	Port St Johns, South Africa: Port St Johns Airport No delays
+12534	Njombe, Tanzania: Njombe Airport No delays
+12536	Orange, CA: Orange County Heliport No delays
+12541	New York, NY: Pan Am Building Heliport No delays
+12543	Houston, TX: Park Ten Helipad No delays
+12545	New York, NY: West 30th Street Heliport No delays
+12547	Rochester, MN: Appache Heliport No delays
+12549	Kapolei, HI: Kalaeloa No delays
+12550	Jorhat, India: Jorhat Airport No delays
+12552	Jerusalem, Israel: Jerusalem Airport No delays
+12554	Juneau, AK: Juneau Seaplane Base No delays
+12556	St. Cloud, MN: Crossroads Heliport No delays
+12558	Jessore, Bangladesh: Jessore Airport No delays
+12561	Syros Island, Greece: Dimitrios Vikelas No delays
+12563	Santorini, Greece: Santorini Airport No delays
+12567	Juliaca, Peru: Juliaca Airport No delays
+12570	Upernavik, Greenland: Upernavik Airport No delays
+12574	Nashville, TN: John C Tune No delays
+12576	Jackson, MI: Jackson County-Reynolds Field No delays
+12578	Jyvaskyla, Finland: Jyvaskyla Airport No delays
+12581	Stanley, ND: Stanley Municipal No delays
+12583	Trading Bay, AK: Trading Bay Production No delays
+12585	Chamberlain, SD: Chamberlain Municipal No delays
+12587	Portland, TN: Portland Municipal No delays
+12589	Cloquet, MN: Cloquet Carlton County No delays
+12590	San Clemente Island, CA: San Clemente Island Nalf No delays
+12592	Quincy, WA: Quincy Municipal No delays
+12594	Prospect, OR: Prospect State No delays
+12596	Laurel, MT: Laurel Municipal No delays
+12598	Arlington, TX: Arlington Municipal No delays
+12600	Little Rock, AR: North Little Rock Municipal No delays
+12602	Angwin, CA: Angwin-Parrett Field No delays
+12604	Taszar, Hungary: Taszar Airport No delays
+12606	Kasama, Zambia: Kasama Airport No delays
+12608	Kameshli, Syria: Kamishly No delays
+12611	Kangnung, South Korea: Kangung No delays
+12613	Kaieteur, Guyana: Kaieteur Airport No delays
+12615	Kaltag, AK: Kaltag Airport No delays
+12617	Kuusamo, Finland: Kuusamo Airport No delays
+12619	Kaitaia, New Zealand: Kaitaia Airport No delays
+12620	Kawthaung, Burma: Kawthaung Airport No delays
+12622	Bell Island, AK: Bell Island Hot Springs Seaplane Base No delays
+12624	Klag Bay, AK: Klag Bay Airport No delays
+12626	Kabalo, Congo (Kinshasa): Kabalo Airport No delays
+12628	Kota Bharu, Malaysia: Sultan Ismail Petra No delays
+12631	Chignik, AK: Chignik Bay No delays
+12633	Coffman Cove, AK: Coffman Cove Seaplane Base No delays
+12635	Chignik Bay, AK: Chignik Bay Airport No delays
+12637	Kansas City, KS: Fairfax Municipal No delays
+12639	Chernofski, AK: Chernofski Harbor No delays
+12642	Colorado Creek, AK: Colorado Creek Airport No delays
+12644	Kochi, Japan: Kochi Airport No delays
+12646	N Djole, Gabon: N Djole Airport No delays
+12648	Kamphang Saen, Thailand: Kamphang Saen Airport No delays
+12651	Keflavik/Reykjavik, Iceland: Keflavik International No delays
+12653	Ekwok, AK: Ekwok Airport No delays
+12655	Kemi, Finland: Kemi Tornio No delays
+12657	Odienne, Cote d'Ivoire: Odienne IV Coast No delays
+12659	Kerman, Iran: Kerman Airport No delays
+12662	Kiffa, Mauritania: Kiffa Airport No delays
+12664	Kananga, Congo (Kinshasa): Kananga Airport No delays
+12666	Kaliningrad, Russia: Khrabrovo No delays
+12668	Kedougou, Senegal: Kedougou Airport No delays
+12671	Koliganek, AK: Koliganek Airport No delays
+12675	Keningau, Malaysia: Keningau Airport No delays
+12677	Glacier Creek, AK: Glacier Creek Airport No delays
+12679	Kherson, Ukraine: Kherson Airport No delays
+12680	Kaohsiung, Taiwan: Kaohsiung International No delays
+12682	Khark, Iran: Khark Island No delays
+12684	Nanchang, China: Changbei International No delays
+12686	Ivanof Bay, AK: Ivanof Bay Seaplane Base No delays
+12688	Bougainville Island, Papua New Guinea: Kieta No delays
+12691	Kirkuk, Iraq: Kirkuk Airport No delays
+12693	Kingston, Jamaica: Norman Manley International No delays
+12695	Kisumu, Kenya: Kisumu Airport No delays
+12697	Kishinev, Moldova: Chisinau International No delays
+12699	Osaka, Japan: Kansai International No delays
+12701	Krasnojarsk, Russia: Yemelyanovo No delays
+12703	Taichung, Taiwan: Ching Chuan Kang AB No delays
+12705	Kitoi Bay, AK: Kitoi Bay Airport No delays
+12707	Kerikeri, New Zealand: Kerikeri Airport No delays
+12709	Akiachak, AK: Akiachak Airport No delays
+12710	Kitakyushu, Japan: Kitakyushu Airport No delays
+12712	Karluk Lake, AK: Karluk Lake Seaplane Base No delays
+12714	Kaikohe, New Zealand: Kaikohe Airport No delays
+12716	Ekuk, AK: Ekuk Airport No delays
+12718	Kalabo, Zambia: Kalabo Airport No delays
+12721	Larsen Bay, AK: Larsen Bay Airport No delays
+12723	Kelp Bay, AK: Kelp Bay Airport No delays
+12725	Kelso, WA: Southwest Washington Regional No delays
+12727	Karlovy Vary, Czech Republic: Karlovy Vary Airport No delays
+12729	Kalamata, Greece: Kalamata Airport No delays
+12730	Kerema, Papua New Guinea: Kerema Airport No delays
+12732	Kamina, Papua New Guinea: Kamina Airport No delays
+12734	Miyazaki, Japan: Miyazaki Airport No delays
+12736	Kamina, Congo (Kinshasa): Kamina Base No delays
+12738	Keetmanshoop, Namibia: Keetmanshoop Airport No delays
+12741	Kisimayu, Somalia: Kisimayu Airport No delays
+12743	Moser Bay, AK: Moser Bay Airport No delays
+12745	Kanab, UT: Kanab Municipal No delays
+12749	Kankan, Guinea: Kankan Airport No delays
+12752	King Island, Australia: King Island Airport No delays
+12754	Kanpur, India: Kanpur/Chakeri No delays
+12756	Kununurra, Australia: Kununurra Airport No delays
+12758	Kona, HI: Kona International Airport at Keahole
+	average: 7.3653846
+	min: 0.0
+	max: 148.0
+12761	Koolatah, Australia: Koolatah Airport No delays
+12763	Kagoshima, Japan: Kagoshima Airport No delays
+12765	Kontum, Vietnam: Kontum Airport No delays
+12767	Kokoro, Papua New Guinea: Kokoro Airport No delays
+12769	Kotlik, AK: Kotlik Airport No delays
+12770	Ganzhou, China: Ganzhou Airport No delays
+12772	Ouzinkie, AK: Ouzinkie Airport No delays
+12774	Port Clarence, AK: Port Clarence CGS No delays
+12776	Kapit, Malaysia: Kapit Airport No delays
+12778	Napamute, AK: Napamute Airport No delays
+12781	Kalpowar, Australia: Kalpower No delays
+12783	Kempsey, Australia: Kempsey Airport No delays
+12785	Port Bailey, AK: Port Bailey Airport No delays
+12787	Karumba, Australia: Karumba Airport No delays
+12789	Krakow, Poland: John Paul II - Balice No delays
+12790	Kasitsna Bay, AK: Kasitsna No delays
+12792	Karup, Denmark: Karup Airport No delays
+12794	Kristiansand, Norway: Kjevik No delays
+12796	Burlington, KS: Coffey County No delays
+12798	Kosrae, Federated States of Micronesia: Kosrae Airport No delays
+12800	Karlstad, Sweden: Karlstad Airport No delays
+12802	Kassel, Germany: Kassel Calden No delays
+12804	Kissidougou, Guinea: Kissidougou Airport No delays
+12806	Kassala, Sudan: Kassala Airport No delays
+12811	Karshi, Uzbekistan: Karshi Khanabad No delays
+12813	Kristiansund, Norway: Kvernberget No delays
+12815	Thorne Bay, AK: Thorne Bay Seaplane Base No delays
+12817	Kitale, Kenya: Kitale Airport No delays
+12819	Ketchikan, AK: Ketchikan International
+	average: 6.9615383
+	min: 0.0
+	max: 43.0
+12820	Kingston, Jamaica: Tinson Pen No delays
+12822	Brevig Mission, AK: Brevig Mission Airport No delays
+12824	Katowice, Poland: Pyrzowice No delays
+12826	Kuantan, Malaysia: Kuantan Airport No delays
+12828	Samara, Russia: Kurumoch No delays
+12831	Kasigluk, AK: Kasigluk Airport No delays
+12833	Yakushima, Japan: Yakushima Airport No delays
+12835	Kuopio, Finland: Kuopio Airport No delays
+12837	Kugururok River, AK: Kugururok River Airport No delays
+12840	Kavala, Greece: Megas Alexandros International No delays
+12844	Kivalina, AK: Kivalina Airport No delays
+12846	Guiyang, China: Longdongbao No delays
+12851	Kwigillingok, AK: Kwigillingok Airport No delays
+12853	Quinhagak, AK: Quinhagak Airport No delays
+12855	Kwethluk, AK: Kwethluk Airport No delays
+12857	Kasaan, AK: Kasaan Seaplane Base No delays
+12859	Danville, KY: Stuart Powell Field No delays
+12860	Sturgis, KY: Sturgis Municipal No delays
+12862	Henderson, KY: Henderson City - County No delays
+12864	Konya, Turkey: Konya Airport No delays
+12866	Karluk, AK: Karluk Airport No delays
+12868	Koyukuk, AK: Koyukuk Airport No delays
+12871	Kozani, Greece: Filippos No delays
+12873	Lamar, CO: Lamar Municipal No delays
+12875	Pulau Layang-Layang, Malaysia: Pulau Layang-Layang Airport No delays
+12877	Lae, Papua New Guinea: Nadzab No delays
+12879	Lannion, France: Lannion Airport No delays
+12880	Lages, Brazil: Lages Airport No delays
+12882	Lakeland, FL: Lakeland Linder Regional No delays
+12884	Lansing, MI: Capital Region International
+	average: 12.0625
+	min: 0.0
+	max: 47.0
+12886	La Paz, Mexico: General Manuel Marquez de Leon International No delays
+12888	Laramie, WY: Laramie Regional
+	average: 30.0
+	min: 0.0
+	max: 161.0
+12891	Lawton/Fort Sill, OK: Lawton-Fort Sill Regional
+	average: 11.75
+	min: 0.0
+	max: 45.0
+12893	Ladysmith, South Africa: Ladysmith Airport No delays
+12895	Leeds/Bradford, United Kingdom: Leeds Bradford No delays
+12897	Luebeck, Germany: Lubeck Blankensee No delays
+12899	North Platte, NE: North Platte Regional Airport Lee Bird Field No delays
+12901	Albi, France: Albi Le Sequestre No delays
+12903	Long Banga, Malaysia: Long Banga Airport No delays
+12905	Labasa, Fiji: Labasa Airport No delays
+12907	Labuan, Malaysia: Labuan Airport No delays
+12909	Lubang, Philippines: Lubang Airport No delays
+12910	La Baule, France: Saint Nazaire/Montoir No delays
+12912	Lecce, Italy: Lecce Airport No delays
+12914	A Coruna, Spain: A Coruna Airport No delays
+12916	Laconia, NH: Laconia Municipal No delays
+12918	La Cumbre, Argentina: La Cumbre Airport No delays
+12921	Londrina, Brazil: Governador Jose Richa No delays
+12923	Lord Howe Island, Australia: Lord Howe Island Airport No delays
+12925	Linden, NJ: Linden Airport No delays
+12927	Ludington, MI: Mason County No delays
+12929	Landivisiau, France: Landivisiau Airport No delays
+12930	Londonderry, United Kingdom: Londonderry Airport No delays
+12932	Lebanon-Hanover, NH: Lebanon Municipal No delays
+12934	Leesburg, FL: Leesburg International No delays
+12936	Le Havre, France: Le Havre Octeville No delays
+12938	Leipzig, Germany: Leipzig Halle No delays
+12941	Leconi, Gabon: Leconi Airport No delays
+12943	Bureta, Fiji: Bureta Airport No delays
+12945	Lexington, KY: Blue Grass
+	average: 14.702127
+	min: 0.0
+	max: 136.0
+12947	Newport News/Hampton, VA: Langley AFB No delays
+12949	Kelafo, Ethiopia: Kelafo Airport No delays
+12950	La Fria, Venezuela: La Fria Airport No delays
+12952	Lome, Togo: Gnassingbe Eyadema International No delays
+12954	Long Beach, CA: Long Beach Airport
+	average: 8.592592
+	min: 0.0
+	max: 121.0
+12956	La Grande, OR: La Grande/Union County No delays
+12958	Leigh Creek, Australia: Leigh Creek Airport No delays
+12961	Longmont, CO: Longmont Municipal No delays
+12963	Lago Agrio, Ecuador: Lago Agrio Airport No delays
+12965	Logan, UT: Logan Cache No delays
+12967	Lahr, Germany: Lahr Airport No delays
+12969	Lahore, Pakistan: Allama Iqbal International No delays
+12970	Lightning Ridge, Australia: Lightning Ridge Airport No delays
+12972	London, United Kingdom: London Heathrow No delays
+12974	Lock Haven, PA: William T. Piper Memorial No delays
+12976	La Junta, CO: La Junta Municipal No delays
+12978	Limbunya, Australia: Limbunya Airport No delays
+12981	Limoges, France: Limoges Bellegarde No delays
+12983	Long Island, AK: Long Island Airport No delays
+12985	Lille, France: Lille Lesquin No delays
+12987	Milan, Italy: Milano Linate No delays
+12989	Lisala, Congo (Kinshasa): Lisala Airport No delays
+12990	Liberia, Costa Rica: Daniel Oduber International No delays
+12992	Little Rock, AR: Bill and Hillary Clinton Nat Adams Field
+	average: 19.010204
+	min: 0.0
+	max: 205.0
+12994	Loikaw, Burma: Loikaw Airport No delays
+12996	Limestone, ME: Loring International No delays
+12998	Lijiang, China: Sanyi No delays
+13001	Lebanon, MO: Floyd W Jones Lebanon No delays
+13003	Kulik Lake, AK: Kulik Lake Airport No delays
+13005	Nekempte, Ethiopia: Nekempte Airport No delays
+13007	Lucknow, India: Lucknow Airport No delays
+13009	Lakeview, OR: Lake County No delays
+13010	Lakenheath, United Kingdom: RAF Lakenheath No delays
+13012	Lalibella, Ethiopia: Lalibella Airport No delays
+13016	Lake Minchumina, AK: Lake Minchumina Airport No delays
+13018	Los Mochis, Mexico: Valle del Fuerte International No delays
+13021	Lampedusa, Italy: Lampedusa Airport No delays
+13023	Louisville, MS: Louisville Winston County No delays
+13027	Lonorore, Vanuatu: Lonorore Airport No delays
+13029	Lincoln, NE: Lincoln Airport
+	average: 14.8
+	min: 0.0
+	max: 123.0
+13030	Land O' Lakes, WI: Kings Land O' Lakes No delays
+13032	Lancaster, PA: Lancaster Airport No delays
+13034	Lanai, HI: Lanai Airport No delays
+13036	Lorraine, Australia: Lorraine Airport No delays
+13038	Laredo, TX: Laredo Municipal No delays
+13041	London, United Kingdom: London Metropolitan Area No delays
+13043	Lagos, Nigeria: Murtala Muhammed No delays
+13045	Monclova, Mexico: Monclova International No delays
+13047	Las Palmas, Spain: Gran Canaria No delays
+13049	Lompoc, CA: Lompoc Airport No delays
+13050	Linkoping, Sweden: Saab No delays
+13052	La Porte, IN: La Porte Municipal No delays
+13054	Luang Phabang, Laos: Luang Phabang International No delays
+13056	Lampang, Thailand: Lampang Airport No delays
+13058	Pickens, SC: Pickens County No delays
+13061	Laredo, TX: Laredo International
+	average: 18.722221
+	min: 0.0
+	max: 172.0
+13063	Jacksonville, AR: Little Rock AFB No delays
+13065	La Rochelle, France: La Rochelle/Laleu No delays
+13067	Niamtougou, Togo: Niamtougou International No delays
+13069	Moses Lake, WA: Larson AFB No delays
+13070	Lathrop, CA: Sharpe AFF No delays
+13072	Las Cruces, NM: Las Cruces International No delays
+13074	La Serena, Chile: La Florida No delays
+13076	La Crosse, WI: La Crosse Regional
+	average: 24.416666
+	min: 0.0
+	max: 68.0
+13078	Lerwick, United Kingdom: Sumburgh No delays
+13081	Las Piedras, Venezuela: Josefa Camejo No delays
+13083	Lost River, AK: Lost River 1 No delays
+13085	Launceston, Australia: Launceston Airport No delays
+13087	Las Vegas, NV: Nellis AFB No delays
+13089	Tzaneen, South Africa: Letaba No delays
+13090	Latrobe, Australia: Latrobe Valley No delays
+13092	Altai, Mongolia: Altai Airport No delays
+13094	London, United Kingdom: London Luton No delays
+13096	Le Touquet, France: Le Touquet Cote D Opale No delays
+13098	Lotusvale, Australia: Lotusvale Airport No delays
+13100	Luderitz, Namibia: Luderitz Airport No delays
+13102	Phoenix, AZ: Luke AFB No delays
+13104	Lusikisiki, South Africa: Lusikisiki Airport No delays
+13106	Laurel, MS: Hesler-Noble Field No delays
+13108	Lusaka, Zambia: Kenneth Kaunda International No delays
+13111	Cape Lisburne, AK: Cape Lisburne LRRS No delays
+13113	Luxembourg, Luxembourg: Luxembourg Airport No delays
+13115	Lime Village, AK: Lime Village Airport No delays
+13117	Livermore, CA: Livermore Municipal No delays
+13119	Laverton, Australia: Laverton Airport No delays
+13120	Las Vegas, NM: Las Vegas Municipal No delays
+13122	Lawrence, KS: Lawrence Municipal No delays
+13124	Wells, NV: Wells Municipal/Harriet Field No delays
+13126	Lviv, Ukraine: Lviv International No delays
+13128	Lewistown, MT: Lewistown Municipal No delays
+13131	Lhasa, China: Gonggar No delays
+13133	Luxor, Egypt: Luxor International No delays
+13135	Leadville, CO: Lake County No delays
+13137	Lycksele, Sweden: Lycksele Airport No delays
+13139	Lynchburg, VA: Lynchburg Regional/Preston Glenn Field No delays
+13140	Lyon, France: Lyon Bron No delays
+13142	Longyearbyen, Norway: Svalbard No delays
+13144	Ely, MN: Ely Municipal No delays
+13146	Lazaro Cardenas, Mexico: Lazaro Cardenas Airport No delays
+13151	Lawrenceville, GA: Gwinnett County - Briscoe Field No delays
+13153	Chennai, India: Chennai International No delays
+13155	Macon, GA: Macon Downtown No delays
+13157	Madera, CA: Madera Municipal No delays
+13159	Madang, Papua New Guinea: Madang Airport No delays
+13160	Mahon, Spain: Menorca No delays
+13162	Majuro, Marshall Islands: Marshall Islands International No delays
+13164	Matamoros, Mexico: General Servando Canales International No delays
+13166	Manaus, Brazil: Eduardo Gomes International No delays
+13171	Matadi, Congo (Kinshasa): Matadi Tshimpi No delays
+13173	Malden, MO: Malden Regional No delays
+13175	Mangrove Cay, The Bahamas: Clarence A Bain No delays
+13177	Mombasa, Kenya: Mombasa Moi International No delays
+13179	Mbeya, Tanzania: Mbeya Airport No delays
+13180	Montego Bay, Jamaica: Sangster International No delays
+13182	Manistee/Ludington, MI: Manistee County-Blacker No delays
+13184	Saginaw/Bay City/Midland, MI: MBS International
+	average: 20.8125
+	min: 0.0
+	max: 81.0
+13186	Mbambanakira, Solomon Islands: Mbambanakira Airport No delays
+13188	Moberley, MO: Omar N Bradley No delays
+13191	McComb, MS: McComb/Pike County/John E. Lewis Field No delays
+13193	Mackinac Island, MI: Mackinac Island Airport No delays
+13195	Tampa, FL: Macdill AFB No delays
+13197	Machala, Ecuador: General Manuel Serrano No delays
+13199	Maicao, Colombia: Maicao Airport No delays
+13201	McKinley Park, AK: Denali No delays
+13203	Macon, GA: Middle Georgia Regional No delays
+13205	Macapa, Brazil: Alberto Alcolumbre No delays
+13207	Monte Caseros, Argentina: Monte Caseros Airport No delays
+13209	Montlucon, France: Gueret/Lepaud No delays
+13210	McArthur River, Australia: McArthur River Mine No delays
+13212	Maroochydore, Australia: Sunshine Coast No delays
+13214	San Antonio, TX: Martindale AHP No delays
+13216	Menado, Indonesia: Sam Ratulangi No delays
+13218	Medellin, Colombia: Jose Maria Cordova No delays
+13221	Carbondale, IL: Southern Illinois No delays
+13223	Madras, OR: Madras Municipal No delays
+13225	Mandalay, Burma: Mandalay Airport No delays
+13227	Mar del Plata, Argentina: Mar del Plata Airport No delays
+13229	Middle Caicos, Turks and Caicos Islands: Conch Bar No delays
+13230	Harrisburg, PA: Harrisburg International
+	average: 19.133333
+	min: 0.0
+	max: 124.0
+13232	Chicago, IL: Chicago Midway International
+	average: 10.274961
+	min: 0.0
+	max: 206.0
+13234	Midway Island, TT: Sand Island Field No delays
+13236	Rangeley, ME: Steven A. Bean Municipal No delays
+13238	Melbourne, Australia: Essendon No delays
+13241	Meridian, MS: Key Field
+	average: 29.88889
+	min: 0.0
+	max: 246.0
+13243	Melbourne, Australia: Melbourne International No delays
+13245	Mende, France: Mende Brenoux No delays
+13247	Mersing, Malaysia: Mersing Malay. No delays
+13249	Atwater, CA: Castle No delays
+13250	Medan, Indonesia: Polonia No delays
+13252	Mexico City, Mexico: Licenciado Benito Juarez International No delays
+13254	Mafia Island, Tanzania: Mafia No delays
+13256	Mission/McAllen/Edinburg, TX: McAllen Miller International
+	average: 23.72973
+	min: 0.0
+	max: 142.0
+13258	Muzaffarabad, Pakistan: Muzaffarabad Airport No delays
+13261	Macau, Macau: Macau International No delays
+13263	Maradi, Niger: Maradi Airport No delays
+13265	Miraflores, Colombia: Miraflores Airport No delays
+13267	Mfuwe, Zambia: Mfuwe Airport No delays
+13269	Managua, Nicaragua: Augusto Cesar Sandino International No delays
+13270	Mount Gambier, Australia: Mount Gambier Airport No delays
+13272	Magdalena, Bolivia: Magdalena Airport No delays
+13274	Maringa, Brazil: Silvio Name Junior No delays
+13276	Dusseldorf, Germany: Monchengladbach No delays
+13278	Magangue, Colombia: Magangue Airport No delays
+13281	Mangaia, Cook Islands: Mangaia Cook Island No delays
+13283	Dayton, OH: Dayton-Wright Brothers No delays
+13287	Mitchell, SD: Mitchell Municipal No delays
+13289	Marsh Harbour, The Bahamas: Marsh Harbour International No delays
+13290	Manhattan/Ft. Riley, KS: Manhattan Regional
+	average: 13.142858
+	min: 0.0
+	max: 111.0
+13292	Minchumina, AK: Minchumina Airport No delays
+13294	Mariehamn, Finland: Mariehamn Airport No delays
+13296	Manchester, NH: Manchester-Boston Regional
+	average: 14.212766
+	min: 0.0
+	max: 110.0
+13300	Greenville, MI: Greenville Municipal No delays
+13302	Howell, MI: Livingston County Spencer J. Hardy No delays
+13304	Minot, ND: Minot AFB No delays
+13306	Merida, Mexico: Licenciado Manuel Crescencio Rejon International No delays
+13308	Marilia, Brazil: Marilia Airport No delays
+13311	Milan, Italy: Milan Metropolitan Area No delays
+13313	Minnipa, Australia: Minnipa Airport No delays
+13315	Mitspeh Ramon, Israel: Har Arikha No delays
+13317	Monastir, Tunisia: Habib Bourguiba International No delays
+13319	Shafter, CA: Shafter - Minter Field No delays
+13320	Maiduguri, Nigeria: Maiduguri Airport No delays
+13322	Marshalltown, IA: Marshalltown Municipal No delays
+13324	Mainoru, Australia: Mainoru Airport No delays
+13326	Mejit Island, Marshall Islands: Mejit No delays
+13328	Moenjodaro, Pakistan: Moenjodaro Airport No delays
+13331	Mitiga, Libya: Mitiga International No delays
+13333	Mbuji-Mayi, Congo (Kinshasa): Mbuji Mayi No delays
+13335	Jackson, MN: Jackson Airport No delays
+13337	Murcia, Spain: San Javier No delays
+13339	Mirny, Russia: Mirny Airport No delays
+13340	Marianske Lazne, Czech Republic: Marianske Lazne Airport No delays
+13342	Milwaukee, WI: General Mitchell International
+	average: 8.726891
+	min: 0.0
+	max: 215.0
+13344	Muskegon, MI: Muskegon County
+	average: 23.75
+	min: 0.0
+	max: 81.0
+13346	Makoua, Congo (Brazaville): Makoua Airport No delays
+13348	Jackson, TN: McKellar-Sipes Regional No delays
+13351	Makemo, French Polynesia: Makemo Airport No delays
+13353	Mekane Selam, Ethiopia: Mekane Selam Airport No delays
+13355	Makokou, Gabon: Makokou Airport No delays
+13357	Mackay, Australia: Mackay Airport No delays
+13359	Malta, Malta: Luqa International No delays
+13360	Melbourne, FL: Melbourne International
+	average: 1.0909091
+	min: 0.0
+	max: 9.0
+13362	Malad City, ID: Malad City Airport No delays
+13364	Milford, UT: Milford Municipal/Ben and Judy Briscoe Field No delays
+13366	Mulhouse, France: EuroAirport No delays
+13368	Malta, MT: Malta Airport No delays
+13371	Melilla, Spain: Melilla Airport No delays
+13373	Malabang, Philippines: Malabang Airport No delays
+13375	Miles City, MT: Frank Wiley Field No delays
+13377	Monroe, LA: Monroe Regional
+	average: 23.0
+	min: 0.0
+	max: 161.0
+13379	Monrovia, Liberia: Monrovia Spriggs Payne No delays
+13380	Malatya, Turkey: Malatya Airport No delays
+13382	Melo, Uruguay: Melo Airport No delays
+13384	Memanbetsu, Japan: Memanbetsu Airport No delays
+13386	Minami Daito, Japan: Minami Daito Airport No delays
+13388	Mammoth Lakes, CA: Mammoth Lakes Airport
+	average: 6.75
+	min: 0.0
+	max: 27.0
+13391	Murmansk, Russia: Murmansk Airport No delays
+13393	Middlemount, Australia: Middlemount Airport No delays
+13395	Mompos, Colombia: Mompos Airport No delays
+13397	Columbia, SC: McEntire Jngb No delays
+13399	Malmo, Sweden: Malmo Airport No delays
+13401	Fosston, MN: Fosston Municipal No delays
+13403	Ortonville, MN: Ortonville Municipal-Martinson Field No delays
+13405	Nacala, Mozambique: Nacala International No delays
+13407	Maiana, Kiribati: Maiana Airport No delays
+13409	Marinette, MI: Menominee-Marinette Twin County No delays
+13410	Marion, OH: Marion Municipal No delays
+13414	Mansa, Zambia: Mansa Airport No delays
+13416	Mawlamyine, Burma: Mawlamyine Airport No delays
+13418	Manassas, VA: Manassas Regional/Harry P. Davis Field No delays
+13421	Moa, Cuba: Orestes Acosta No delays
+13423	Montes Claros, Brazil: Mario Ribeiro No delays
+13425	Mong Hsat, Burma: Mong Hsat Airport No delays
+13427	Moudjeria, Mauritania: Moudjeria Ledfotar No delays
+13429	Mount Pleasant, MI: Mount Pleasant Municipal No delays
+13430	Morondava, Madagascar: Morondava Airport No delays
+13432	Moses Point, AK: Moses Point Airport No delays
+13434	Mountain Village, AK: Mountain Village Airport No delays
+13438	Moorea Island, French Polynesia: Temae No delays
+13441	Morrilton, AR: Petit Jean Park No delays
+13443	Montpellier, France: Montpellier Mediterranee No delays
+13445	Mount Pleasant, Falkland Islands (Islas Malvinas): Mount Pleasant Airport No delays
+13447	McPherson, KS: McPherson Airport No delays
+13449	Maliana, Timor-Leste: Maliana Airport No delays
+13450	Montpelier/Barre, VT: Edward F Knapp State No delays
+13452	Macomb, IL: Macomb Municipal No delays
+13454	Mildura, Australia: Mildura Airport No delays
+13456	Nelspruit, South Africa: Kruger Mpumalanga International No delays
+13458	Mustique, Saint Vincent and the Grenadines: Mustique Airport No delays
+13461	Smyrna, TN: Smyrna Airport No delays
+13463	Martinsburg, WV: Eastern WV Regional/Shepherd Field No delays
+13465	Merida, Venezuela: Alberto Carnevalli No delays
+13467	Anchorage, AK: Merrill Field No delays
+13469	Marco Island, FL: Marco Island Airport No delays
+13470	Morganton, NC: Morganton Lenoir No delays
+13472	Marseille, France: Marseille Provence No delays
+13474	Mineralnyye Vody, Russia: Mineralnyye Vody Airport No delays
+13476	Monterey, CA: Monterey Regional
+	average: 16.942858
+	min: 0.0
+	max: 186.0
+13478	Grenada, MS: Grenada Municipal No delays
+13481	Manston, United Kingdom: Manston Airport No delays
+13483	Misawa, Japan: Misawa AB No delays
+13485	Madison, WI: Dane County Regional-Truax Field
+	average: 20.68493
+	min: 0.0
+	max: 251.0
+13487	Minneapolis, MN: Minneapolis-St Paul International
+	average: 10.43673
+	min: 0.0
+	max: 371.0
+13490	Massena, NY: Massena International-Richards Field No delays
+13492	Maseru, Lesotho: Moshoeshoe I International No delays
+13494	Massawa, Eritrea: Massawa International No delays
+13496	Namibe, Angola: Yuri Gagarin No delays
+13498	Mt. Clemens, MI: Selfridge Angb No delays
+13500	Monte Alegre, Brazil: Monte Alegre Airport No delays
+13502	Montrose/Delta, CO: Montrose Regional
+	average: 14.708333
+	min: 0.0
+	max: 137.0
+13504	Metlakatla, AK: Metlakatala No delays
+13506	Mattoon/Charleston, IL: Coles County Memorial No delays
+13508	Monteria, Colombia: Los Garzones No delays
+13511	Mota Lava, Vanuatu: Mota Lava Airport No delays
+13513	Fairbanks, AK: Metro Field No delays
+13515	Masada, Israel: Israel Bar Yehuda No delays
+13517	Maun, Botswana: Maun Airport No delays
+13520	Kamuela, HI: Waimea-Kohala No delays
+13522	Mersa Matruh, Egypt: Mersa Matruh Airport No delays
+13524	Maturin, Venezuela: Maturin Airport No delays
+13526	Marudi, Malaysia: Marudi Airport No delays
+13528	Multan, Pakistan: Multan International No delays
+13531	Mvengue, Gabon: Mvengue Airport No delays
+13533	Mossoro, Brazil: Dixsept Rosado No delays
+13535	Morrisville, VT: Morrisville Stowe State No delays
+13537	Mount Vernon, IL: Mount Vernon Airport No delays
+13539	Maroua, Cameroon: Salak No delays
+13540	Burlington/Mount Vernon, WA: Skagit Regional No delays
+13544	Milwaukee, WI: Lawrence J Timmerman No delays
+13546	Moses Lake, WA: Grant County International No delays
+13548	Windom, MN: Windom Municipal No delays
+13551	Mwanza, Tanzania: Mwanza Airport No delays
+13553	Monticello, UT: Monticello Airport No delays
+13555	Montgomery, AL: Maxwell AFB No delays
+13557	Moro, Papua New Guinea: Moro Airport No delays
+13559	Mexicali, Mexico: General Rodolfo Sanchez Taboada International No delays
+13560	Milan, Italy: Malpensa No delays
+13562	Maintirano, Madagascar: Maintirano Airport No delays
+13564	McCarthy, AK: McCarthy Airport No delays
+13566	Mayumba, Gabon: Mayumba Airport No delays
+13568	Malindi, Kenya: Malindi Airport No delays
+13571	Mayaguana, The Bahamas: Mayaguana Airport No delays
+13573	Matsuyama, Japan: Matsuyama Airport No delays
+13575	McCall, ID: McCall Municipal No delays
+13577	Myrtle Beach, SC: Myrtle Beach International
+	average: 14.130435
+	min: 0.0
+	max: 104.0
+13579	Mekoryuk, AK: Mekoryuk Airport No delays
+13580	Marysville, CA: Yuba County No delays
+13582	Miri, Malaysia: Miri Airport No delays
+13584	Mocimboa Da Praia, Mozambique: Mocimboa Da Praia Airport No delays
+13586	Mopti, Mali: Ambodedjo No delays
+13588	Marakei, Kiribati: Marakei Airport No delays
+13591	Minj, Papua New Guinea: Minj Airport No delays
+13593	Mazar-I-Sherif, Afghanistan: Mazar I Sharif No delays
+13595	Marion, IN: Marion Municipal No delays
+13597	Robbinsville, NJ: Trenton-Robbinsville No delays
+13599	North Adams, MA: Harriman-and-West No delays
+13601	Nakhon Ratchasima, Thailand: Nakhon Ratchasima Airport No delays
+13603	Nanchong, China: Nanchong Airport No delays
+13605	Nassau, The Bahamas: Lynden Pindling International No delays
+13607	Napuka Islnd, French Polynesia: Napuka No delays
+13609	Star Harbour, Solomon Islands: Nana No delays
+13610	Nambaiyufa, Papua New Guinea: Nambaiyufa Airport No delays
+13612	New Orleans, LA: New Orleans NAS JRB No delays
+13614	Bangkok, Thailand: Suvarnabhumi International No delays
+13616	Nairobi, Kenya: Nairobi Jomo Kenyatta International No delays
+13618	Guantanamo, Cuba: Guantanamo Bay NS No delays
+13621	Shelby, NC: Shelby-Cleveland County Regional No delays
+13623	Kenansville, NC: Duplin County No delays
+13625	Nice, France: Nice Cote d'Azur No delays
+13627	Necocli, Colombia: Necocli Airport No delays
+13629	Chenega, AK: Chenega Bay No delays
+13630	North Kingstown, RI: Quonset State Air Reserve National Guard Helipad No delays
+13632	Marietta, GA: Dobbins ARB No delays
+13634	Nicoya, Costa Rica: Nicoya Airport No delays
+13636	Annecy, France: Annecy Meythet No delays
+13638	Nouadhibou, Mauritania: Nouadhibou Airport No delays
+13641	Ndjamena, Chad: Hassan Djamous No delays
+13643	Nador, Morocco: El Aroui International No delays
+13645	Gothenburg, NE: Quinn Field No delays
+13647	Brunswick, GA: Glynco NAS No delays
+13650	Lakehurst, NJ: Lakehurst/Maxfield Field No delays
+13652	New Bight, The Bahamas: New Bight Airport No delays
+13654	Nevis, Saint Kitts and Nevis: Vance Winkworth Amory No delays
+13656	Fallon, NV: Fallon NAS No delays
+13658	Ningbo, China: Lishe No delays
+13661	N'Gaoundere, Cameroon: N'Gaoundere Airport No delays
+13663	Guam, TT: Agana NAS No delays
+13665	Corpus Christi, TX: Corpus Christi NAS No delays
+13667	Norfolk, VA: Norfolk NS No delays
+13669	Nha-Trang, Vietnam: Nha Trang No delays
+13670	Dubai, United Arab Emirates: Minhad AB No delays
+13672	Northolt, United Kingdom: RAF Northolt No delays
+13674	Brunswick, ME: Brunswick Executive No delays
+13676	Nikolai, AK: Nikolai Airport No delays
+13678	Niblack, AK: Niblack Airport No delays
+13681	Ninilchik, AK: Ninilchik Airport No delays
+13683	Niort, France: Niort Airport No delays
+13685	Berlin, NJ: Camden County No delays
+13687	Atsugi, Japan: Atsugi NAF No delays
+13689	El Centro, CA: El Centro NAF No delays
+13690	Nkan, Gabon: Nkan Airport No delays
+13692	Nanjing, China: Lukou No delays
+13694	Nagoya, Japan: Chubu Centrair International No delays
+13696	Nkongsamba, Cameroon: Nkongsamba Airport No delays
+13698	Nichen Cove, AK: Nichin Cove Seaplane Base No delays
+13700	San Diego, CA: Miramar MCAS No delays
+13702	Lemoore, CA: Lemoore NAS No delays
+13704	Nelson Lagoon, AK: Nelson Lagoon Airport No delays
+13706	Kinshasa, Congo (Kinshasa): N'Dolo No delays
+13708	Nicholson, Australia: Nicholson Station No delays
+13711	San Miguel, Panama: San Miguel Airport No delays
+13713	Nanning, China: Wuxu No delays
+13715	Nondalton, AK: Nondalton Airport No delays
+13717	Nanyang, China: Nanyang East No delays
+13719	Connaught, Ireland: Ireland West Airport Knock No delays
+13720	Nogales, Mexico: Nogales International No delays
+13722	Mactan Island, Philippines: Nab No delays
+13724	Nossi-Be, Madagascar: Fascene No delays
+13726	Noumea, New Caledonia: Noumea La Tontouta No delays
+13728	Pensacola, FL: Pensacola NAS No delays
+13731	Newport, RI: Newport State No delays
+13733	Kingsville, TX: Kingsville NAS No delays
+13737	Newquay, United Kingdom: Newquay Airport No delays
+13739	Mayport, FL: Mayport NS No delays
+13740	Afton, OK: Grand Lake Regional No delays
+13742	North Ronaldsay, United Kingdom: North Ronaldsay Airport No delays
+13744	Tokyo, Japan: Narita International No delays
+13746	Bimini, The Bahamas: North Seaplane Base No delays
+13748	Camp Springs, MD: Joint Base Andrews No delays
+13751	Nelson, New Zealand: Nelson Airport No delays
+13753	Nakhon Si Thammarat, Thailand: Nakhon Si Thammarat Airport No delays
+13755	Snap Lake, Canada: Snap Lake Mine/Debeers No delays
+13757	Nantes, France: Nantes Atlantique No delays
+13759	Normanton, Australia: Normanton Airport No delays
+13760	Santo Antao, Cape Verde: Santo Antao Airport No delays
+13762	Monterrey, Mexico: Del Norte International No delays
+13764	Sun City, South Africa: Pilanesberg International No delays
+13766	Nuguria, Papua New Guinea: Nuguria Airport No delays
+13768	Nulato, AK: Nulato Airport No delays
+13771	Mountain View, CA: Moffett Federal Airfield No delays
+13773	Overton, NV: Perkins Field No delays
+13775	Nevada, MO: Nevada Municipal No delays
+13777	Navegantes, Brazil: Ministro Victor Konder International No delays
+13780	Willow Grove, PA: Willow Grove NAS JRB No delays
+13782	Fulton, NY: Oswego County No delays
+13784	New York, NY: New York City Metropolitan Area No delays
+13786	Nykoping, Sweden: Skavsta No delays
+13788	Jacksonville, FL: Cecil No delays
+13791	San Diego, CA: North Island NAS No delays
+13793	Orange, Australia: Orange Airport No delays
+13795	Jacksonville/Camp Lejeune, NC: Albert J Ellis
+	average: 5.5454545
+	min: 0.0
+	max: 33.0
+13797	Oamaru, New Zealand: Oamaru Airport No delays
+13799	Oaxaca, Mexico: Xoxocotlan International No delays
+13801	Obock, Djibouti: Obock Airport No delays
+13803	Obihiro, Japan: Obihiro Airport No delays
+13805	Oakland, MD: Garrett County No delays
+13809	Ocala, FL: Ocala International-Jim Taylor Field No delays
+13810	Nacogdoches, TX: A L Mangham Jr. Regional No delays
+13812	Ocho Rios, Jamaica: Boscobel No delays
+13814	Washington, NC: Warren Field No delays
+13816	Cordoba, Spain: Cordoba Airport No delays
+13818	Odense, Denmark: Odense Airport No delays
+13821	Oak Harbor, WA: A.J. Eisenberg No delays
+13823	Oernskoeldsvik, Sweden: Ornskoldsvik No delays
+13825	Norfolk, NE: Norfolk Regional/Karl Stefan Memorial Field No delays
+13827	Ogallala, NE: Searle Field No delays
+13829	Ogden, UT: Ogden-Hinckley No delays
+13830	Kahului, HI: Kahului Airport
+	average: 8.508287
+	min: 0.0
+	max: 272.0
+13832	Ogdensburg, NY: Ogdensburg International No delays
+13834	Bellefontaine, OH: Bellefontaine Regional No delays
+13836	Marysville, OH: Union County No delays
+13838	Ravenna, OH: Portage County No delays
+13841	Northeast Cape, AK: Northeast Cape AFS No delays
+13843	Oshakati, Namibia: Oshakati Airport No delays
+13845	Norwich, NY: Eaton No delays
+13847	Oita, Japan: Oita Airport No delays
+13850	Okinawa, Japan: Naha No delays
+13852	Sapporo, Japan: Okadama No delays
+13854	Kokomo/Logansport/Peru, IN: Kokomo Municipal No delays
+13856	Tokyo, Japan: Yokota AB No delays
+13858	Oakey, Australia: Oakey Airport No delays
+13861	Olean, NY: Cattaraugus County-Olean No delays
+13863	Old Harbor, AK: Old Harbor Airport No delays
+13865	Olympia, WA: Olympia Regional No delays
+13867	Olympic Dam, Australia: Olympic Dam Airport No delays
+13869	Columbus, NE: Columbus Municipal No delays
+13870	Olive Branch, MS: Olive Branch Airport No delays
+13872	Omboue, Gabon: Omboue Airport No delays
+13874	Urmieh, Iran: Uromiyeh No delays
+13876	Omak, WA: Omak Airport No delays
+13878	Mostar, Bosnia and Herzegovina: Mostar Airport No delays
+13881	Winona, MN: Winona Municipal/Max Conrad Field No delays
+13883	Mornington Island, Australia: Mornington Island Airport No delays
+13885	Odate Noshiro, Japan: Odate Noshiro Airport No delays
+13887	Socorro, NM: Socorro Municipal No delays
+13889	Ontario, OR: Ontario Municipal No delays
+13890	Newport, OR: Newport Municipal No delays
+13892	Colon, Panama: Enrique A Jimenez No delays
+13894	Toksook, AK: Toksook Bay No delays
+13896	Cooma, Australia: Cooma Airport No delays
+13898	Miami, FL: Opa-locka Executive No delays
+13900	Porto, Portugal: Porto Airport No delays
+13902	Bible Camp, AK: Bible Camp Airport No delays
+13906	Tracy Arm, AK: Tracy Arm Airport No delays
+13908	Vrems, AK: Vrems Airport No delays
+13911	Meshik, AK: Meshik Airport No delays
+13913	Chelatna Lake Lodge, AK: Chelatna Lake Lodge Airport No delays
+13915	Port Alsworth, AK: Points Alsworth No delays
+13917	Sandy, AK: Sandy Airport No delays
+13919	Waterkloof, South Africa: Waterkloof AFB No delays
+13920	Shirleyville, AK: Shirleyville Airport No delays
+13922	Shisholik, AK: Shisholik Airport No delays
+13924	American Creek, AK: American Creek Airport No delays
+13926	Gleneden, OR: Siletz Bay State No delays
+13928	Orebro, Sweden: Orebro Airport No delays
+13931	Norfolk, VA: Norfolk International
+	average: 12.382716
+	min: 0.0
+	max: 166.0
+13933	Worcester, MA: Worcester Regional No delays
+13935	Cork, Ireland: Cork Airport No delays
+13937	Oran, Algeria: Ahmed Benbella No delays
+13939	Orapa, Botswana: Orapa Airport No delays
+13940	Northway, AK: Northway Airport No delays
+13942	Noorvik, AK: Robert/Bob/Curtis Memorial No delays
+13944	Orange Walk, Belize: Orange Walk Airport No delays
+13946	Osage Beach, MO: Grand Glaize - Osage Beach No delays
+13948	Ostersund, Sweden: Are Ostersund No delays
+13951	Oskarshamn, Sweden: Oskarshamn Airport No delays
+13953	Mosul, Iraq: Mosul International No delays
+13955	Slupsk, Poland: Redzikowo No delays
+13957	Ostend, Belgium: Oostende No delays
+13959	Kosciusko, MS: Kosciusko/Attala County No delays
+13960	Namsos, Norway: Namsos Airport No delays
+13962	Contadora, Panama: Raul Arias Espinoza No delays
+13964	North Bend/Coos Bay, OR: Southwest Oregon Regional
+	average: 30.0
+	min: 30.0
+	max: 30.0
+13966	Bucharest, Romania: Henri Coanda No delays
+13968	Anacortes, WA: Anacortes Airport No delays
+13971	Ouagadougou, Burkina Faso: Ouagadougou Airport No delays
+13973	Ouesso, Congo (Brazaville): Ouesso Airport No delays
+13975	Oulu, Finland: Oulu Airport No delays
+13977	Batouri, Cameroon: Batouri Airport No delays
+13979	Novosibirsk, Russia: Tolmachevo No delays
+13980	Asturias, Spain: Asturias Airport No delays
+13982	Owatonna, MN: Owatonna Degner Regional No delays
+13984	Norwood, MA: Norwood Memorial No delays
+13986	Bissau, Guinea-Bissau: Osvaldo Vieira No delays
+13988	Oxnard/Ventura, CA: Oxnard No delays
+13991	Oyem, Gabon: Oyem Airport No delays
+13993	Tres Arroyos, Argentina: Tres Arroyos Airport No delays
+13995	Ozona, TX: Ozona Municipal No delays
+13997	Zaporozhye, Ukraine: Mokraya International No delays
+13999	Ozark, AL: Cairns AAF No delays
+14000	Montrose, PA: Husky Haven No delays
+14002	Pa-An, Burma: Hpa An No delays
+14004	Everett, WA: Snohomish County No delays
+14006	Paducah, KY: Barkley Regional
+	average: 2.142857
+	min: 0.0
+	max: 15.0
+14011	Palo Alto, CA: Palo Alto Airport of Santa Clara County No delays
+14013	Palmer, AK: Palmer Municipal No delays
+14015	Paros, Greece: Paros Airport No delays
+14017	Paulo Alfonso, Brazil: Paulo Afonso No delays
+14019	Pamol, Malaysia: Tungud/Pamol No delays
+14020	Poza Rica, Mexico: Tajin No delays
+14022	Puebla, Mexico: Hermanos Serdan International No delays
+14024	Pine Bluff, AR: Grider Field No delays
+14026	Paro, Bhutan: Paro International No delays
+14028	Pack Creek, AK: Pack Creek Airport No delays
+14031	Porto Amboim, Angola: Porto Amboim Airport No delays
+14033	Puerto Barrios, Guatemala: Puerto Barrios Airport No delays
+14037	Portage Creek, AK: Portage Creek Airport No delays
+14039	Prairie Du Chien, WI: Prairie Du Chien Municipal No delays
+14040	Painter Creek, AK: Painter Creek Airport No delays
+14042	Porcupine Creek, AK: Porcupine Creek Airport No delays
+14044	Princeton, NJ: Princeton Airport No delays
+14046	Pedro Bay, AK: Pedro Bay Airport No delays
+14048	Padang, Indonesia: Tabing No delays
+14051	Ponta Delgada, Portugal: Ponta Delgada Airport No delays
+14053	Piedras Negras, Mexico: Piedras Negras International No delays
+14055	Paysandu, Uruguay: Tydeo Larre Borges International No delays
+14057	Portland, OR: Portland International
+	average: 9.9585495
+	min: 0.0
+	max: 185.0
+14059	Las Malvinas, Peru: Las Malvinas Airport No delays
+14060	Puerto Jose, Peru: Andoas No delays
+14062	Pelican, AK: Pelican Seaplane Base No delays
+14064	Perugia, Italy: Perugia Airport No delays
+14066	Beijing, China: Capital International No delays
+14068	Bayan Lepas, Malaysia: Penang International No delays
+14071	Perth, Australia: Perth International No delays
+14073	Puerto Lempira, Honduras: Puerto Lempira Airport No delays
+14075	Paf Warren, AK: Paf Warren Airport No delays
+14077	Port Frederick, AK: Port Frederick Airport No delays
+14079	Pafos, Cyprus: Pafos International No delays
+14080	Ilebo, Congo (Kinshasa): Ilebo Airport No delays
+14082	Punta Gorda, FL: Punta Gorda Airport No delays
+14084	Pantnagar, India: Pantnagar Airport No delays
+14086	Pangkalpinang, Indonesia: Depati Amir No delays
+14088	Port Graham, AK: Port Graham Airport No delays
+14091	Peach Springs, AZ: Peach Springs Dirt Strip No delays
+14093	Phan Rang, Vietnam: Phan Rang Airport No delays
+14095	Port Harcourt, Nigeria: Port Harcourt Airport No delays
+14097	Port Hedland, Australia: Port Hedland International No delays
+14099	Pinheiro, Brazil: Pinheiro Airport No delays
+14101	Port Huron, MI: St. Clair County International No delays
+14103	Pacific Harbour, Fiji: Nanuku Resort No delays
+14105	Paris, TN: Henry County No delays
+14107	Phoenix, AZ: Phoenix Sky Harbor International
+	average: 10.688499
+	min: 0.0
+	max: 498.0
+14109	Hattiesburg/Laurel, MS: Hattiesburg-Laurel Regional
+	average: 2.8
+	min: 0.0
+	max: 14.0
+14110	Pine Cay, Turks and Caicos Islands: Pine Cay British West Indies No delays
+14112	St. Petersburg, FL: St Pete Clearwater International No delays
+14114	Fairbanks, AK: Phillips Field No delays
+14116	Pine Mountain, GA: Harris County No delays
+14118	Pisco, Peru: Pisco International No delays
+14121	Poitiers, France: Poitiers Biard No delays
+14123	Piura, Peru: Capitan FAP Guillermo Concha Iberico No delays
+14125	Point Lay, AK: Point Lay LRRS No delays
+14127	Panjgur, Pakistan: Panjgur Airport No delays
+14129	Port San Juan, AK: Port San Juan Airport No delays
+14130	Napaskiak, AK: Napaskiak Airport No delays
+14132	Petropavlovsk-Kamchatsky, Russia: Yelizovo No delays
+14134	Parkes, Australia: Parkes Airport No delays
+14136	Pakokku, Burma: Pakhokku No delays
+14138	Pokhara, Nepal: Pokhara Airport No delays
+14141	Pakse, Laos: Pakse International No delays
+14143	Plattsburgh, NY: Clinton County No delays
+14145	Plymouth, United Kingdom: Plymouth Airport No delays
+14147	Point Lookout, MO: M. Graham Clark Downtown No delays
+14149	Palembang, Indonesia: Sultan Mahmud Badaruddin II No delays
+14150	Pellston, MI: Pellston Regional Airport of Emmet County
+	average: 1.25
+	min: 0.0
+	max: 5.0
+14152	Palanga, Lithuania: Palanga International No delays
+14154	Plato, Colombia: Plato Airport No delays
+14156	Palu, Indonesia: Palu Celebes-Mutiara Indon. No delays
+14158	Port Elizabeth, South Africa: Port Elizabeth International No delays
+14161	Puerto Montt, Chile: El Tepual International No delays
+14163	Parma, Italy: Parma Airport No delays
+14165	Portsmouth, OH: Greater Portsmouth Regional No delays
+14167	Port Moller, AK: Port Moller Airport No delays
+14169	Pimaga, Papua New Guinea: Pimaga Airport No delays
+14170	Perito Moreno, Argentina: Perito Moreno Airport No delays
+14172	Palmyra, Syria: Palmyra Airport No delays
+14174	Porlamar, Venezuela: General Santiago Marino International No delays
+14176	El Tehuelche, Argentina: Puerto Madryn No delays
+14178	Pamplona, Spain: Pamplona Airport No delays
+14181	Punta Gorda, Belize: Punta Gorda Airport No delays
+14183	Peterson's Point, AK: Peterson's Point Airport No delays
+14185	Phnom Penh, Cambodia: Phnom Penh International No delays
+14187	Pontianak, Indonesia: Supadio No delays
+14189	Pinotepa, Mexico: Pinotepa Nacional No delays
+14190	Popondetta, Papua New Guinea: Girua No delays
+14192	Pointe Noire, Congo (Brazaville): Pointe Noire Airport No delays
+14194	Sherman-Denison, TX: Sherman-Denison Airport No delays
+14196	Porto Alegre, Brazil: Salgado Filho No delays
+14198	La Verne, CA: Brackett Field No delays
+14200	Fort Polk, LA: Polk AAF No delays
+14202	Port Gentil, Gabon: Port Gentil Airport No delays
+14204	Potosi, Bolivia: Capitan Nicolas Rojas No delays
+14206	Port Moresby, Papua New Guinea: Port Moresby International No delays
+14208	Polk Inlet, AK: Polk Inlet Airport No delays
+14211	Port Antonio, Jamaica: Ken Jones No delays
+14213	Portoroz, Slovenia: Portoroz Airport No delays
+14215	Powell, WY: Powell Municipal No delays
+14217	Pres. Prudente, Brazil: A. de Barros No delays
+14219	Humacao, PR: Palmas del Mar Airstrip No delays
+14220	Puerto Penasco, Mexico: Puerto Penasco Airport No delays
+14222	Pago Pago, TT: Pago Pago International No delays
+14224	Popayan, Colombia: Machangara No delays
+14226	Proserpine, Australia: Proserpine Whitsunday Coast No delays
+14228	Papeete, French Polynesia: Tahiti Faa'a No delays
+14231	Presque Isle/Houlton, ME: Northern Maine Regional at Presque Isle No delays
+14233	Port Macquarie, Australia: Port Macquarie Airport No delays
+14235	Parana, Argentina: General Urquiza No delays
+14237	Prescott, AZ: Ernest A. Love Field No delays
+14239	Prague, Czech Republic: Ruzyne No delays
+14240	Praslin, Seychelles: Praslin Airport No delays
+14244	Point Retreat, AK: Coast Guard Heliport No delays
+14246	Prerov, Czech Republic: Prerov Airport No delays
+14248	Pretoria, South Africa: Wonderboom No delays
+14251	Philipsburg, PA: Mid State No delays
+14253	Port Said, Egypt: Port Said Airport No delays
+14255	Pittsfield, MA: Pittsfield Municipal No delays
+14257	Pasni, Pakistan: Pasni Airport No delays
+14259	Portsmouth, NH: Portsmouth International at Pease No delays
+14260	Palestine, TX: Palestine Municipal No delays
+14262	Palm Springs, CA: Palm Springs International
+	average: 13.25
+	min: 0.0
+	max: 170.0
+14264	Posadas, Argentina: Posadas Airport No delays
+14266	Stanley, Falkland Islands (Islas Malvinas): Stanley Airport No delays
+14268	Port Alsworth, AK: Port Alsworth Airport No delays
+14271	Malolo Lailai, Fiji: Malolo Lailai Airport No delays
+14273	Port Heiden, AK: Port Heiden Airport No delays
+14275	Pontiac, MI: Oakland County International No delays
+14277	Patterson, LA: Harry P Williams Memorial No delays
+14279	Pleasant Harbour, AK: Pleasant Harbour Airport No delays
+14280	Pittsburg, KS: Atkinson Municipal No delays
+14282	Platinum, AK: Platinum Airport No delays
+14284	Pottstown, PA: Heritage Field No delays
+14286	Panama City, Panama: Tocumen International No delays
+14288	Pueblo, CO: Pueblo Memorial
+	average: 13.0
+	min: 0.0
+	max: 59.0
+14291	Pau, France: Pau Pyrenees No delays
+14293	Punta Cana, Dominican Republic: Punta Cana International No delays
+14295	Poulsbo, WA: Port of Poulsbo Marina Moorage Seaplane Base No delays
+14297	Punta Arenas, Chile: Carlos Ibanez del Campo International No delays
+14299	Busan, South Korea: Gimhae International No delays
+14301	Puerto Asis, Colombia: Puerto Asis Airport No delays
+14303	Pullman, WA: Pullman Moscow Regional No delays
+14305	Puerto Cabezas, Nicaragua: Puerto Cabezas Airport No delays
+14307	Providence, RI: Theodore Francis Green State
+	average: 12.160919
+	min: 0.0
+	max: 95.0
+14309	Shanghai, China: Pudong No delays
+14310	Porto Velho, Brazil: Governador Jorge Teixeira de Oliveira No delays
+14312	Puerto Vallarta, Mexico: Licenciado Gustavo Diaz Ordaz International No delays
+14314	Provo, UT: Provo Municipal No delays
+14316	Pope Vanoy, AK: Pope Vanoy Airport No delays
+14318	Oklahoma City, OK: Wiley Post No delays
+14321	Portland, ME: Portland International Jetport
+	average: 10.545455
+	min: 0.0
+	max: 97.0
+14323	Bremerton, WA: Bremerton National No delays
+14325	Porto Santo, Portugal: Porto Santo Airport No delays
+14327	Port Ashton, AK: Port Ashton Airport No delays
+14329	Puerto Ayacucho, Venezuela: Puerto Ayacucho Airport No delays
+14330	Polyarnyj, Russia: Polyarnyj Airport No delays
+14332	Plymouth, MA: Plymouth Municipal No delays
+14334	Paz de Ariporo, Colombia: Paz de Ariporo Airport No delays
+14336	Penzance, United Kingdom: Penzance Airport No delays
+14338	Port Sudan, Sudan: Port Sudan Airport No delays
+14341	Jackpot, NV: Jackpot/Hayden Field No delays
+14343	Alcantara, Brazil: Centro de Lancamento de Alcantara No delays
+14345	Port Clinton, OH: Erie Ottawa International No delays
+14347	Lyndonville, VT: Caledonia County No delays
+14352	Marina del Ray, CA: Marina del Ray Airport No delays
+14358	Lathrop Wells, NV: Jackass Aeropark No delays
+14361	Middle Bass Island, OH: Middle Bass Island Airport No delays
+14365	Indian Creek, ID: Indian Creek Usfs No delays
+14367	North Bass Island, OH: North Bass Island Airport No delays
+14378	Martinsville, VA: Blue Ridge No delays
+14383	Emerald Bay, CA: Emerald Bay Airport No delays
+14387	Houghton, MI: Grognet Seaplane Base No delays
+14392	Isle Royale Park, MI: Isle Royale National Park No delays
+14400	Mansfield, MA: Mansfield Municipal No delays
+14406	Orange, VA: Orange County No delays
+14408	Singapore, Singapore: Paya Lebar No delays
+14413	Nimiuk Point, AK: Nimiuk Point Airport No delays
+14415	Sealing Point, AK: Sealing Point Airport No delays
+14417	Westminster, MD: Carroll County Regional/Jack B. Poage Field No delays
+14420	Stevensville, MT: Stevensville Airport No delays
+14422	Bonners Ferry, ID: Boundary County No delays
+14424	Woodlake, CA: Woodlake Airport No delays
+14431	Window Rock, AZ: Window Rock Airport No delays
+14435	San Marcos, TX: San Marcos Municipal No delays
+14440	Queretaro, Mexico: Queretaro International No delays
+14444	Paonia, CO: North Fork Valley No delays
+14446	Rabaul, Papua New Guinea: Tokua No delays
+14448	Tortola, British Virgin Islands: Roadtown Seaplane Base No delays
+14451	Praia, Cape Verde: Praia International No delays
+14453	Marrakech, Morocco: Menara No delays
+14455	Ravenna, Italy: Ravenna Airport No delays
+14457	Rapid City, SD: Rapid City Regional
+	average: 13.315789
+	min: 0.0
+	max: 108.0
+14459	Rasht, Iran: Sardar E Jangal No delays
+14460	Raduzhnyi, Russia: Raduzhnyi Airport No delays
+14462	Rawala Kot, Pakistan: Rawalakot No delays
+14464	Ugashik, AK: Randy Field No delays
+14466	Big Bear City, CA: Big Bear City Airport No delays
+14468	Brooks Lodge, AK: Brooks Lodge Airport No delays
+14471	Robore, Bolivia: Robore Airport No delays
+14475	Rapid City, SD: Ellsworth AFB No delays
+14477	Roche Harbor, WA: Roche Harbor Airport No delays
+14479	Richmond, Australia: Richmond Airport No delays
+14480	Rochefort, France: Rochefort Charente Maritime No delays
+14482	Reed City, MI: Miller Field No delays
+14484	Rockhampton Downs, Australia: Rockhampton Downs Airport No delays
+14486	Redencao, Brazil: Redencao Airport No delays
+14488	Reading, PA: Reading Regional/Carl A Spaatz Field No delays
+14491	Richard-Toll, Senegal: Richard-Toll Airport No delays
+14493	Red Devil, AK: Red Devil Airport No delays
+14495	Redlands, CA: Redlands Municipal No delays
+14497	Reedsville, PA: Mifflin County No delays
+14499	Reggio Calabria, Italy: Reggio Calabria Airport No delays
+14501	Reykjavik, Iceland: Reykjavik Metropolitan Area No delays
+14505	Siem Reap, Cambodia: Siem Reap International No delays
+14507	Resistencia, Argentina: Resistencia Airport No delays
+14509	Reus, Spain: Reus Airport No delays
+14510	Reynosa, Mexico: General Lucio Blanco International No delays
+14512	Rockford, IL: Chicago/Rockford International No delays
+14514	Rio Grande, Argentina: Rio Grande Airport No delays
+14516	Rio Gallegos, Argentina: Rio Gallegos Airport No delays
+14518	Rengat, Indonesia: Japura No delays
+14521	Rhodes, Greece: Diagoras No delays
+14523	Riberalta, Bolivia: Cap Av Selin Zeitun Lopez No delays
+14525	Richmond, IN: Richmond Municipal No delays
+14527	Richfield, UT: Richfield Municipal No delays
+14529	Rioja, Peru: Rioja Airport No delays
+14530	Rifle, CO: Garfield County Regional No delays
+14532	Riverside, CA: Flabob No delays
+14534	Riverton/Lander, WY: Riverton Regional No delays
+14536	Riyan Mukalla, Yemen: Mukalla International No delays
+14538	Logrono, Spain: Logrono Airport No delays
+14541	Rockport, TX: Aransas County No delays
+14543	Rock Springs, WY: Rock Springs Sweetwater County
+	average: 11.846154
+	min: 0.0
+	max: 138.0
+14545	Reykjavik, Iceland: Reykjavik Airport No delays
+14547	Rolla, MO: Rolla Downtown No delays
+14549	Rostock-Laage, Germany: Laage No delays
+14550	Arlit, Niger: Arlit Airport No delays
+14552	Roma, Australia: Roma Airport No delays
+14554	Rome, GA: Richard B Russell Regional J H Towers Field No delays
+14556	Colombo, Sri Lanka: Colombo/Ratmalana No delays
+14558	Ormoc, Philippines: Ormoc Airport No delays
+14561	Ramstein, Germany: Ramstein AB No delays
+14563	Ronneby, Sweden: Ronneby Airport No delays
+14565	San Antonio, TX: Randolph AFB No delays
+14567	Rangely, CO: Rangely Airport No delays
+14569	Ronne, Denmark: Bornholm Ronne No delays
+14570	Reno, NV: Reno/Tahoe International
+	average: 10.008547
+	min: 0.0
+	max: 149.0
+14572	Renton, WA: Renton Municipal No delays
+14574	Roanoke, VA: Roanoke Regional/Woodrum Field
+	average: 12.166667
+	min: 0.0
+	max: 109.0
+14576	Rochester, NY: Greater Rochester International
+	average: 16.088236
+	min: 0.0
+	max: 163.0
+14578	Rockhampton, Australia: Rockhampton Airport No delays
+14581	Rondonopolis, Brazil: Rondonopolis Airport No delays
+14583	Koror, Palau: Babelthuap No delays
+14585	Rotorua, New Zealand: Rotorua Airport No delays
+14587	Rostov, Russia: Rostov Airport No delays
+14589	Roseau, MN: Roseau Municipal/Rudy Billberg Field No delays
+14590	Rosh-Pina, Israel: Izhak Ben Yaakov No delays
+14592	Roundup, MT: Roundup Airport No delays
+14594	Atomic City, ID: Big Southern Butte No delays
+14596	Mendota, CA: William Robert Johnston Municipal No delays
+14598	Lincolnton, NC: Lincolnton-Lincoln County Regional No delays
+14600	Perkasie, PA: Pennridge No delays
+14602	Jafr, Jordan: King Feisal AB No delays
+14604	Lowell, IN: Lowell Airport No delays
+14606	Cave Junction, OR: Illinois Valley No delays
+14608	Lovington, NM: Lea County-Zip Franklin Memorial No delays
+14611	Springwater, Canada: Springwater Barrie Airpark No delays
+14613	Wasco, CA: Wasco-Kern County No delays
+14615	Parowan, UT: Parowan Airport No delays
+14617	Comanche, TX: Comanche County-City No delays
+14620	Rodrigues Island, Mauritius: Sir Gaetan Duval No delays
+14622	Roros, Norway: Roros Airport No delays
+14624	Santa Rosa, Argentina: Santa Rosa Airport No delays
+14626	Rock Sound, The Bahamas: Rock Sound Airport No delays
+14628	Rosario, WA: Rosario Seaplane Base No delays
+14631	Raspberry Strait, AK: Raspberry Straits No delays
+14633	Rochester, MN: Rochester International
+	average: 23.8125
+	min: 0.0
+	max: 179.0
+14635	Fort Myers, FL: Southwest Florida International
+	average: 12.892734
+	min: 0.0
+	max: 484.0
+14637	Roatan Island, Honduras: Juan Manuel Galvez International No delays
+14639	Rotterdam, Netherlands: Rotterdam Airport No delays
+14640	Raton, NM: Raton Municipal/Crews Field No delays
+14642	Rottnest Island, Australia: Rottnest Island Airport No delays
+14644	Ramenskoye, Russia: Ramenskoye Airport No delays
+14646	Ruidoso, NM: Sierra Blanca Regional No delays
+14648	Rutland, VT: Rutland - Southern Vermont Regional No delays
+14651	Farafangana, Madagascar: Farafangana Airport No delays
+14653	Tulsa, OK: Richard Lloyd Jones Jr. No delays
+14655	Rowan Bay, AK: Rowan Bay Airport No delays
+14657	Rawlins, WY: Rawlins Municipal/Harvey Field No delays
+14659	Roxas City, Philippines: Roxas No delays
+14660	Greeley, CO: Weld County Municipal No delays
+14662	Rahim Yar Khan, Pakistan: Sheikh Zayed International No delays
+14664	Rzeszow, Poland: Jasionka No delays
+14666	Sawan, Pakistan: Sawan Airport No delays
+14668	Roanoke Rapids, NC: Halifax County No delays
+14671	Saba, Bonaire, Sint Eustatius, and Saba: Juancho E. Yrausquin No delays
+14673	Safford, AZ: Safford Regional No delays
+14675	Sagwon, AK: Sagwon Airport No delays
+14677	San Salvador, El Salvador: Msgr Oscar A Romero and Galdamez International No delays
+14679	San Diego, CA: San Diego International
+	average: 7.839404
+	min: 0.0
+	max: 267.0
+14680	Sao Paulo, Brazil: Sao Paulo Metropolitan Area No delays
+14682	San Andros, The Bahamas: San Andros Airport No delays
+14684	Sabu, Indonesia: Tardanu No delays
+14686	Istanbul, Turkey: Sabiha Gokcen No delays
+14688	Sienna, Italy: Ampugnano No delays
+14691	San Bernardino, CA: San Bernardino International No delays
+14693	St. Brieuc, France: St. Brieuc Airport No delays
+14695	Sheboygan, WI: Sheboygan County Memorial No delays
+14697	Salina, UT: Salina-Gunnison No delays
+14699	Steamboat Springs, CO: Steamboat Springs/Bob Adams Field No delays
+14701	Springbok, South Africa: Springbok Airport No delays
+14703	Sibu, Malaysia: Sibu Airport No delays
+14705	Sibiu, Romania: Sibiu Airport No delays
+14707	Winnsboro, SC: Fairfield County No delays
+14709	Deadhorse, AK: Deadhorse Airport
+	average: 2.3636363
+	min: 0.0
+	max: 12.0
+14712	Phoenix, AZ: Scottsdale No delays
+14714	San Cristobal, Venezuela: San Cristobal Airport No delays
+14716	Stockton, CA: Stockton Metropolitan No delays
+14718	Scammon Bay, AK: Scammon Bay Airport No delays
+14721	Santiago de Compostela, Spain: Santiago No delays
+14723	Suceava, Romania: Stefan Cel Mare No delays
+14725	San Cristobal, Ecuador: San Cristobal Airport No delays
+14727	Baghdad, Iraq: Baghdad International No delays
+14729	Santiago del Estero, Argentina: Santiago del Estero Airport No delays
+14730	Louisville, KY: Louisville International-Standiford Field
+	average: 10.774194
+	min: 0.0
+	max: 113.0
+14732	Santa Rosa de Copan, Honduras: Santa Rosa de Copan Airport No delays
+14734	Sandakan, Malaysia: Sandakan Airport No delays
+14736	San Diego, CA: Brown Field Municipal No delays
+14738	Sandpoint, AK: Sand Point No delays
+14741	Saidu Sharif, Pakistan: Saidu Sharif Airport No delays
+14743	Tel Aviv, Israel: Sde Dov No delays
+14745	Sidney, MT: Sidney/Richland Municipal No delays
+14747	Seattle, WA: Seattle/Tacoma International
+	average: 11.940842
+	min: 0.0
+	max: 531.0
+14749	San Diego, CA: Gillespie Field No delays
+14750	Sebring, FL: Sebring Regional No delays
+14752	Seoul, South Korea: Kimpo International/Seoul Metropolitan Area No delays
+14754	Southend-On-Sea, United Kingdom: Southend No delays
+14756	Seymour, IN: Freeman Municipal No delays
+14758	Selibaby, Mauritania: Selibabi No delays
+14761	Sanford, FL: Orlando Sanford International No delays
+14763	San Fernando, Venezuela: San Fernando de Apure No delays
+14765	Grand Case, Saint Martin: L'Esperance No delays
+14767	Sondre Stromfjord, Greenland: Sondrestrom Air Base No delays
+14769	Sanford, ME: Sanford Seacoast Regional No delays
+14770	Santa Fe, Argentina: Sauce Viejo No delays
+14772	Surfers Paradise, Australia: Surfers Paradise Airport No delays
+14774	Subic Bay, Philippines: Subic Bay International No delays
+14776	Safia, Papua New Guinea: Safia Airport No delays
+14778	Smithfield, RI: North Central State No delays
+14781	Sonderborg, Denmark: Sonderborg Airport No delays
+14783	Springfield, MO: Springfield-Branson National
+	average: 20.706896
+	min: 0.0
+	max: 223.0
+14785	Springfield, OH: Springfield-Beckley Municipal No delays
+14789	Ho Chi Minh City, Vietnam: Tan Son Nhat International No delays
+14790	St. George, Australia: Saint George No delays
+14792	Sugar Land, TX: Sugar Land Regional No delays
+14794	St. George, UT: St George Municipal
+	average: 3.357143
+	min: 0.0
+	max: 27.0
+14796	Songea, Tanzania: Songea Airport No delays
+14798	Singora, Thailand: Songkhla No delays
+14800	Nakashibetsu, Japan: Nakashibetsu Airport No delays
+14802	Staunton, VA: Shenandoah Valley Regional No delays
+14804	Shungnak, AK: Shungnak Airport No delays
+14806	Shimojishima, Japan: Shimojishima Airport No delays
+14808	Shillong, India: Barapani No delays
+14811	Sokcho, South Korea: G 407 No delays
+14813	Smith Point, Australia: Smith Point Airport No delays
+14815	Sharurah, Saudi Arabia: Sharurah Airport No delays
+14817	Xi'an, China: Xi'an Xiguan No delays
+14819	San Juan, PR: Isla Grande No delays
+14820	Silgadi Doti, Nepal: Silgadi Doti Airport No delays
+14822	Sikeston, MO: Sikeston Memorial Municipal No delays
+14824	Singapore, Singapore: Singapore Changi International No delays
+14826	Simferopol, Ukraine: Simferopol International No delays
+14828	Sitka, AK: Sitka Rocky Gutierrez
+	average: 13.222222
+	min: 0.0
+	max: 81.0
+14831	San Jose, CA: Norman Y. Mineta San Jose International
+	average: 10.70122
+	min: 0.0
+	max: 206.0
+14833	St. John, VI: St. John Airport No delays
+14835	Sarajevo, Bosnia and Herzegovina: Sarajevo Airport No delays
+14837	St. Johns, AZ: St. Johns Industrial Air Park No delays
+14839	Sao Jose Do Rio Preto, Brazil: Sao Jose Do Rio Preto Airport No delays
+14840	Sesheke, Zambia: Sesheke Airport No delays
+14842	San Angelo, TX: San Angelo Regional/Mathis Field
+	average: 6.571429
+	min: 0.0
+	max: 35.0
+14844	San Javier, Bolivia: San Javier Airport No delays
+14846	Seinajoki, Finland: Seinajoki Airport No delays
+14848	Spokane, WA: Fairchild AFB No delays
+14851	Samarkand, Uzbekistan: Samarkand Airport No delays
+14853	San Antonio, TX: Lackland AFB (Kelly Field Annex) No delays
+14855	Sitkinak, AK: Sitkinak CGS No delays
+14857	Isle of Skye, United Kingdom: Isle of Skye Airport No delays
+14859	Sokoto, Nigeria: Sokoto Airport No delays
+14860	Skopje, Macedonia: Skopje Airport No delays
+14862	Skiros, Greece: Skiros Airport No delays
+14864	Saransk, Russia: Saransk Airport No delays
+14866	Sukkur, Pakistan: Begum Nusrat Bhutto No delays
+14868	Storm Lake, IA: Storm Lake Municipal No delays
+14871	Salem, OR: McNary Field No delays
+14873	Solwezi, Zambia: Solwezi Airport No delays
+14875	Saranac Lake/Lake Placid, NY: Adirondack Regional No delays
+14877	Salina, KS: Salina Regional No delays
+14879	San Luis Potosi, Mexico: Ponciano Arriaga International No delays
+14880	Sleetmute, AK: Sleetmute Airport No delays
+14882	Silistra, Bulgaria: Silistra Polkovnik-Lambrinovo No delays
+14884	St. Lucia, Saint Lucia: George F. Charles No delays
+14886	Saltillo, Mexico: Plan de Guadalupe International No delays
+14888	Sao Luiz, Brazil: Marechal Cunha Machado International No delays
+14891	Santa Maria, Colombia: Santa Maria Airport No delays
+14893	Sacramento, CA: Sacramento International
+	average: 10.750831
+	min: 0.0
+	max: 135.0
+14895	St. Michael, AK: St. Michael Airport No delays
+14897	Salmon, ID: Lemhi County No delays
+14899	Somerville, NJ: Somerset No delays
+14901	St. Marie, Madagascar: Sainte Marie No delays
+14903	Sheep Mountain, AK: Sheep Mountain Airport No delays
+14905	Santa Maria, CA: Santa Maria Public/Capt. G. Allan Hancock Field
+	average: 4.4
+	min: 0.0
+	max: 22.0
+14907	Stoelmanseiland, Suriname: Stoelmanseiland Airport No delays
+14909	Snake Bay, Australia: Snake Bay Airport No delays
+14910	Salinas, Ecuador: General Ulpiano Paez No delays
+14912	San Felipe, Venezuela: Sub Teniente Nestor Arias No delays
+14914	Greenville/Sinoe, Liberia: Greenville/Sinoe Airport No delays
+14916	Shawnee, OK: Shawnee Regional No delays
+14918	Shannon, Ireland: Shannon Airport No delays
+14921	St. Nazaire, France: Saint Nazaire Montoir No delays
+14923	Las Cruces, Colombia: Las Cruces Airport No delays
+14925	Santa Elena, Venezuela: Wonkin No delays
+14927	Sidney, NE: Sidney Municipal/Lloyd W. Carr Field No delays
+14929	Sofia, Bulgaria: Sofia Airport No delays
+14930	Sogndal, Norway: Haukasen No delays
+14932	Sorkjosen, Norway: Sorkjosen Airport No delays
+14934	Solomon, AK: Solomon State Field No delays
+14936	Espiritu Santo, Vanuatu: Espiritu No delays
+14938	Pinehurst/Southern Pines, NC: Moore County No delays
+14941	Southampton, United Kingdom: Southampton Airport No delays
+14943	Show Low, AZ: Show Low Regional No delays
+14945	Charlotte Amalie, VI: Charlotte Amalie Harbor Seaplane Base No delays
+14947	Saidpur, Bangladesh: Saidpur Airport No delays
+14949	Spearfish, SD: Black Hills Clyde Ice Field No delays
+14950	Tampa, FL: Albert Whitted No delays
+14952	Springfield, IL: Abraham Lincoln Capital
+	average: 9.5
+	min: 0.0
+	max: 51.0
+14954	Spangdahlem, Germany: Spangdahlem AB No delays
+14958	San Pedro, CA: Catalina Air-Sea Terminal Heliport No delays
+14961	Split, Croatia: Split Airport No delays
+14963	San Pedro, Cote d'Ivoire: San Pedro Airport No delays
+14965	Santa Ynez, CA: Santa Ynez Airport No delays
+14967	San Carlos, CA: San Carlos Airport No delays
+14969	Storuman, Sweden: Storuman Airport No delays
+14970	Siauliai, Lithuania: Siauliai International No delays
+14972	Sequim, WA: Sequim Valley No delays
+14974	Santa Rosa, Bolivia: Santa Rosa Airport No delays
+14976	Sucre, Bolivia: Juana Azurduy de Padilla No delays
+14978	Semarang, Indonesia: Ahmad Yani No delays
+14981	San Borja, Bolivia: Capitan German Quiroga Guardia No delays
+14983	Strahan, Australia: Strahan Airport No delays
+14985	Stord, Norway: Stord Airport No delays
+14987	Stony River, AK: Stony River Airport No delays
+14989	Sert, Libya: Sirte International No delays
+14990	Santa Cruz, Bolivia: El Trompillo No delays
+14992	Christiansted, VI: Christiansted Harbor Seaplane Base No delays
+14994	Malabo, Equatorial Guinea: Malabo Airport No delays
+14996	Brunswick, GA: Malcolm McKinnon No delays
+14998	Santa Rosalia, Colombia: Santa Rosalia Airport No delays
+15001	Siassi, Papua New Guinea: Siassi Airport No delays
+15003	Stuart Island, WA: Stuart Island Airpark No delays
+15005	Mbanza Congo, Angola: Mbanza Congo Airport No delays
+15007	Santa Barbara, Venezuela: Santa Barbara Airport No delays
+15009	Santo Domingo, Venezuela: Mayor Guerrero Vivas No delays
+15010	Stevens Point, WI: Stevens Point Municipal No delays
+15012	St. George Island, AK: St. George Island Airport No delays
+15014	St. Joseph, MO: Rosecrans Memorial No delays
+15016	St. Louis, MO: Lambert-St. Louis International
+	average: 13.370646
+	min: 0.0
+	max: 383.0
+15018	London, United Kingdom: London Stansted No delays
+15021	St. Marys, PA: St. Marys Municipal No delays
+15023	Santa Rosa, CA: Charles M. Schulz - Sonoma County No delays
+15027	Christiansted, VI: Henry E. Rohlsen
+	average: 1.7777778
+	min: 0.0
+	max: 12.0
+15029	Santa Terezinha, Brazil: Santa Terezinha Airport No delays
+15030	Stuart, FL: Witham Field No delays
+15032	Sundance, WY: Schloredt No delays
+15034	Lamezia Terme, Italy: Lamezia Terme Airport No delays
+15036	Sukhumi, Georgia: Babusheri No delays
+15041	Sun Valley/Hailey/Ketchum, ID: Friedman Memorial
+	average: 9.8
+	min: 0.0
+	max: 33.0
+15043	St. Louis, MO: Spirit of St. Louis No delays
+15045	Fairfield, CA: Travis AFB No delays
+15047	Superior, WI: Richard I Bong No delays
+15049	Savoonga, AK: Savoonga Airport No delays
+15050	Sambava, Madagascar: Sambava Airport No delays
+15052	St. Vincent, Saint Vincent and the Grenadines: E. T. Joshua No delays
+15054	Statesville, NC: Statesville Regional No delays
+15056	Savonlinna, Finland: Savonlinna Airport No delays
+15058	Moscow, Russia: Sheremetyevo No delays
+15061	Stevens Village, AK: Stevens Village Airport No delays
+15063	Sparrevohn, AK: Sparrevohn LRRS No delays
+15065	San Antonio, Venezuela: San Antonio del Tachira No delays
+15067	Shaw River, Australia: Shaw River Airport No delays
+15069	Seward, AK: Seward Airport No delays
+15070	Newburgh/Poughkeepsie, NY: Stewart International
+	average: 33.857143
+	min: 0.0
+	max: 189.0
+15072	Milan, Italy: Segrate No delays
+15074	Stillwater, OK: Stillwater Regional No delays
+15076	Swansea, United Kingdom: Swansea Airport No delays
+15078	Sweetwater, TX: Avenger Field No delays
+15081	Berlin, Germany: Schonefeld No delays
+15083	Sligo, Ireland: Sligo Airport No delays
+15085	Sheldon Point, AK: Sheldon Point Airport No delays
+15087	Srinagar, India: Srinagar Airport No delays
+15089	Sidney, NY: Sidney Municipal No delays
+15090	Shemya, AK: Eareckson AS No delays
+15092	Sydney, Australia: Sydney International No delays
+15094	Stanton, MN: Stanton Airport No delays
+15096	Syracuse, NY: Syracuse Hancock International
+	average: 17.342857
+	min: 0.0
+	max: 110.0
+15098	Sanya, China: Phoenix International No delays
+15100	Shiraz, Iran: Shahid Dastghaib International No delays
+15102	Kuala Lumpur, Malaysia: Sultan Abdul Aziz Shah International No delays
+15104	Sheffield, United Kingdom: Sheffield City No delays
+15106	Salzburg, Austria: Salzburg Airport No delays
+15108	Knob Noster, MO: Whiteman AFB No delays
+15111	San Cristobal, Mexico: San Cristobal de Las Casas No delays
+15113	Shenzhen, China: Bao'an International No delays
+15115	Tobago, Trinidad and Tobago: A.N.R. Robinson International No delays
+15117	Trinidad, CO: Las Animas County No delays
+15119	Oran, Algeria: Tafaraoui No delays
+15120	Tagbilaran, Philippines: Tagbilaran Airport No delays
+15122	Taiz, Yemen: Taiz International No delays
+15124	Tanana, AK: Ralph M Calhoun Memorial No delays
+15128	Tapachula, Mexico: Tapachula International No delays
+15131	Poprad-Tatry, Slovakia: Poprad-Tatry International No delays
+15133	Taliabu, Indonesia: Taliabu Airport No delays
+15135	Tabiteuea, Kiribati: Tabiteuea Airport No delays
+15137	Tableland, Australia: Tableland Airport No delays
+15139	Tabora, Tanzania: Tabora Airport No delays
+15140	Tumbes, Peru: Cap. FAP Pedro Canga Rodriguez No delays
+15142	Tbilisi, Georgia: Tbilisi Airport No delays
+15144	Tonga Tapu, Tonga: Fua Amotu International No delays
+15146	Tennant Creek, Australia: Tennant Creek Airport No delays
+15148	Tucumcari, NM: Tucumcari Municipal No delays
+15151	Tchibanga, Gabon: Tchibanga Airport No delays
+15153	Tuscaloosa, AL: Tuscaloosa Regional No delays
+15155	Tehuacan, Mexico: Tehuacan Airport No delays
+15157	Taba, Egypt: Taba International No delays
+15159	Truth Or Consequences, NM: Truth Or Consequences Municipal No delays
+15160	Takotna, AK: Takotna Airport No delays
+15162	Trinidad, Bolivia: Tte Av Jorge Henrich Arauz International No delays
+15164	Amarillo, TX: Tradewind No delays
+15166	Tela, Honduras: Tela Airport No delays
+15168	Thisted, Denmark: Thisted Airport No delays
+15171	Tatitlek, AK: Tatitlek Airport No delays
+15173	Teptep, Papua New Guinea: Teptep Airport No delays
+15175	Tete, Mozambique: Tete Chingodzi No delays
+15177	Telluride, CO: Telluride Regional No delays
+15179	Tefe, Brazil: Tefe Airport No delays
+15180	Tufi, Papua New Guinea: Tufi Airport No delays
+15182	Tarbes/Lourdes/Pyrenees, France: Tarbes-Lourdes-Pyrenees No delays
+15184	Podgorica, Montenegro: Podgorica Airport No delays
+15186	Kuala Trengganu, Malaysia: Kuala Trengganu Airport No delays
+15188	Tingo Maria, Peru: Tingo Maria Airport No delays
+15191	Tanga, Tanzania: Tanga Airport No delays
+15195	Tullahoma, TN: Tullahoma Regional Airport/William Northern Field No delays
+15197	Berlin, Germany: Tempelhof No delays
+15199	Trollhattan, Sweden: Trollhattan Vanersborg No delays
+15201	Tehran, Iran: Mehrabad International No delays
+15203	York, PA: York Airport No delays
+15205	Tirana, Albania: Tirana International No delays
+15207	Tippi, Ethiopia: Tippi Airport No delays
+15209	Tikehau, French Polynesia: Tikehau Airport No delays
+15210	Tijuana, Mexico: General Abelardo L. Rodriguez International No delays
+15212	Tembagapura, Indonesia: Moses Kilangin No delays
+15214	Tripoli, Libya: Tripoli International No delays
+15216	Tirupati, India: Tirupati Airport No delays
+15218	Timaru, New Zealand: Timaru Airport No delays
+15221	Titusville, FL: Space Coast Regional No delays
+15223	Tari, Papua New Guinea: Tari Airport No delays
+15225	Trujillo, Honduras: Trujillo Airport No delays
+15227	Ankara, Turkey: Akinci No delays
+15229	Tiko, Cameroon: Tiko Airport No delays
+15230	Takoradi, Ghana: Takoradi Airport No delays
+15232	Truckee, CA: Truckee Tahoe No delays
+15234	Takhli, Thailand: Takhli Airport No delays
+15236	Tok, AK: Tok Junction No delays
+15238	Taku Lodge, AK: Taku Seaplane Base No delays
+15241	Thakurgaon, Bangladesh: Thakurgaon Stol Port No delays
+15243	Tak, Thailand: Tak Airport No delays
+15245	Teller, AK: Teller Airport No delays
+15247	Tulear, Madagascar: Tulear Airport No delays
+15249	Tallahassee, FL: Tallahassee International
+	average: 5.3125
+	min: 0.0
+	max: 55.0
+15250	Tatalina, AK: Tatalina LRRS No delays
+15252	Tallinn, Estonia: Lennart Meri Tallinn No delays
+15254	Toulon/Hyeres, France: Hyeres Le Palyvestre No delays
+15256	Toulouse, France: Toulouse Blagnac No delays
+15258	Tel Aviv, Israel: Ben Gurion No delays
+15261	Timbedra, Mauritania: Timbedra Airport No delays
+15263	Tamale, Ghana: Tamale Airport No delays
+15265	Tampere, Finland: Tampere-Pirkkala No delays
+15267	Sao Tome Island, Sao Tome and Principe: Salazar No delays
+15269	Tamworth, Australia: Tamworth Airport No delays
+15270	Lebanon, TN: Lebanon Municipal No delays
+15272	Lewisburg, TN: Ellington No delays
+15274	Lexington, TN: Franklin Wilkins No delays
+15276	Winchester, TN: Winchester Municipal No delays
+15278	Tin City, AK: Tin City LRRS No delays
+15281	Tandjungpinang, Indonesia: Kidjang No delays
+15283	Tainan, Taiwan: Tainan Airport No delays
+15285	Antananarivo, Madagascar: Ivato No delays
+15287	Newton, IA: Newton Municipal No delays
+15289	Torrance, CA: Zamperini Field No delays
+15290	Tobruk, Libya: Tobruk Airport No delays
+15292	Tozeur, Tunisia: Nefta No delays
+15294	Madrid, Spain: Torrejon AFB No delays
+15296	Tombouctou, Mali: Tombouctou Airport No delays
+15298	Tocopilla, Chile: Barriles No delays
+15300	Tromso, Norway: Langnes No delays
+15302	Tortola, British Virgin Islands: Tortola West End Seaplane Base No delays
+15304	Tampa, FL: Tampa International
+	average: 12.58637
+	min: 0.0
+	max: 513.0
+15306	Taipei, Taiwan: Taiwan Taoyuan International No delays
+15308	Tonopah, NV: Tonopah Airport No delays
+15313	Tepic, Mexico: Tepic Airport No delays
+15315	Trapani/Marsala, Italy: Trapani/Birgi No delays
+15317	Torreon, Mexico: Torreon International No delays
+15319	Tiree Island, United Kingdom: Tiree Island Airport No delays
+15320	Sandefjord, Norway: Torp No delays
+15322	Trona, CA: Trona Airport No delays
+15324	Tarakan, Indonesia: Juwata No delays
+15326	Turin, Italy: Torino No delays
+15328	Trincomalee, Sri Lanka: China Bay No delays
+15331	Trujillo, Peru: Capitan Carlos Martinez de Pinillos No delays
+15333	Tarawa, Kiribati: Bonriki International No delays
+15335	Taipei, Taiwan: Taipei Songshan No delays
+15337	Astana, Kazakhstan: Astana International No delays
+15339	Tanacross, AK: Tanacross Airport No delays
+15340	Tshikapa, Congo (Kinshasa): Tshikapa Airport No delays
+15342	Taos, NM: Taos Regional No delays
+15344	Tehachapi, CA: Tehachapi Municipal No delays
+15346	New York, NY: East 34th Street Heliport No delays
+15348	Townsville, Australia: Townsville Airport No delays
+15351	Troutdale, OR: Portland Troutdale No delays
+15353	Thumrait, Oman: Thumrait Airport No delays
+15355	Turtle Island, Fiji: Turtle Island Airport No delays
+15359	Taitung, Taiwan: Fongnian No delays
+15360	Tetuan, Morocco: Tetouan/Sania Ramel No delays
+15362	Tubuai Island, French Polynesia: Tubuai Is Fr. Polynesia No delays
+15364	Tambacounda, Senegal: Tambacounda Airport No delays
+15366	Tuguegarao, Philippines: Tuguegarao Airport No delays
+15368	Turaif, Saudi Arabia: Turaif Airport No delays
+15371	Tumut, Australia: Tumut Airport No delays
+15373	Taupo, New Zealand: Taupo Airport No delays
+15375	Tucurui, Brazil: Tucurui Airport No delays
+15377	Tauta, Papua New Guinea: Tauta Airport No delays
+15379	Morafenobe, Madagascar: Morafenobe Airport No delays
+15380	Traverse City, MI: Cherry Capital
+	average: 52.533333
+	min: 0.0
+	max: 223.0
+15382	Thomasville, GA: Thomasville Regional No delays
+15384	Taveuni, Fiji: Matei No delays
+15386	Toowoomba, Australia: Toowoomba Airport No delays
+15388	Taylor, AK: Taylor Airport No delays
+15393	Mesquite, TX: Mesquite Metro No delays
+15395	Port Isabel, TX: Port Isabel - Cameron County No delays
+15397	Cleburne, TX: Cleburne Regional No delays
+15399	Post, TX: Post Garza County Municipal No delays
+15401	Texarkana, AR: Texarkana Regional-Webb Field
+	average: 1.7142857
+	min: 0.0
+	max: 12.0
+15403	Tunxi, China: Tunxi Airport No delays
+15405	Tibooburra, Australia: Tibooburra Airport No delays
+15409	Taiyuan, China: Wusu No delays
+15410	Tokyo, Japan: Tokyo Metropolitan Area No delays
+15412	Knoxville, TN: McGhee Tyson
+	average: 18.862068
+	min: 0.0
+	max: 239.0
+15414	Belize City, Belize: Belize Municipal No delays
+15416	Tuzla, Bosnia and Herzegovina: Tuzla Airport No delays
+15418	Trabzon, Turkey: Trabzon Airport No delays
+15421	Narsarsuaq, Greenland: Narsarsuaq Airport No delays
+15423	San Juan, Argentina: San Juan Airport No delays
+15425	Uaxactun, Guatemala: Uaxactun Airport No delays
+15427	Chatham, MA: Chatham Municipal No delays
+15429	Ubon Ratchathani, Thailand: Ubon Ratchathani Airport No delays
+15430	Columbus, MS: Columbus-Lowndes County No delays
+15434	Bermuda Dunes, CA: Bermuda Dunes Airport No delays
+15436	Uberlandia, Brazil: Uberlandia Airport No delays
+15438	Quelimane, Mozambique: Quelimane Airport No delays
+15441	Quetta, Pakistan: Samungli International No delays
+15443	Ugashik, AK: Ugashik Airport No delays
+15445	Urgench, Uzbekistan: Urgench Airport No delays
+15447	Waukegan, IL: Waukegan Regional No delays
+15449	Uherske Hradiste, Czech Republic: Uherske Hradiste Airport No delays
+15450	Upper Heyford, United Kingdom: Upper Heyford Airport No delays
+15452	Qui Nhon, Vietnam: Phu Cat No delays
+15454	Quincy, IL: Quincy Regional-Baldwin Field No delays
+15456	Quimper, France: Quimper Pluguffan No delays
+15458	Ukiah, CA: Ukiah Municipal No delays
+15461	Ulithi, Federated States of Micronesia: Ulithi Airport No delays
+15463	Ulan Bator, Mongolia: Chinggis Khaan International No delays
+15465	Ulysses, KS: Ulysses Airport No delays
+15467	Umnak, AK: North Shore No delays
+15469	Umea, Sweden: Umea Airport No delays
+15470	Summit, AK: Summit Airport No delays
+15472	Umiat, AK: Umiat Airport No delays
+15476	Kiunga, Papua New Guinea: Kiunga Airport No delays
+15478	Unalakleet, AK: Unalakleet Airport No delays
+15481	Oxford, MS: University-Oxford No delays
+15483	Uruapan, Mexico: Uruapan Airport No delays
+15485	Queens, AK: The Queens No delays
+15487	Urubupunga, Brazil: Urubupunga Airport No delays
+15489	Uruguaiana, Brazil: Rubem Berta No delays
+15490	Boos, France: Rouen Vallee de Seine No delays
+15492	Gurayat, Saudi Arabia: Guriat No delays
+15494	Usibelli, AK: Usi Belli Coal Mine No delays
+15496	Ulsan, South Korea: Ulsan Airport No delays
+15498	Heber, UT: Heber City Municipal - Russ McDonald Field No delays
+15500	Udon Thani, Thailand: Udon Thani Airport No delays
+15502	Tunica, MS: Tunica Municipal No delays
+15504	Utopia, AK: Indian Mountain LRRS No delays
+15506	Mthatha, South Africa: Mthatha Airport No delays
+15508	Kuparuk, AK: North Kuparuk No delays
+15511	Uvalde, TX: Garner Field No delays
+15513	St. Lucia, Saint Lucia: Hewanorra International No delays
+15515	Lik Camp, AK: Lik Camp Airport No delays
+15517	Hawley, MN: Hawley Municipal No delays
+15519	Faulkton, SD: Faulkton Municipal No delays
+15520	St. Anthony, ID: Stanford Field No delays
+15522	Kiev, Ukraine: Antonov International No delays
+15524	Richmond, KY: Madison No delays
+15526	Chariot, AK: Chariot Airport No delays
+15528	Prestonsburg, KY: Big Sandy Regional No delays
+15531	Gilze-Rijen, Netherlands: Gilze-Rijen Airport No delays
+15533	Cimarron, KS: Cimarron Municipal No delays
+15535	Cheboygan, MI: Cheboygan County No delays
+15537	Cookeville, TN: Putnam County No delays
+15539	Circle, MT: Circle Town County No delays
+15540	Garrison, ND: Garrison Municipal No delays
+15544	Curuzu Cuatia, Argentina: Curuzu Cuatia Airport No delays
+15546	Chesapeake, VA: Chesapeake Regional No delays
+15548	Leesburg, VA: Leesburg Executive No delays
+15553	Vanimo, Papua New Guinea: Vanimo Airport No delays
+15555	Van, Turkey: Van Airport No delays
+15557	Varna, Bulgaria: Varna Airport No delays
+15559	Vava'u, Tonga: Vava'u International No delays
+15562	Brescia, Italy: Montichiari No delays
+15564	Can Tho, Vietnam: Can Tho International No delays
+15566	Venice, Italy: Marco Polo International No delays
+15568	Carora, Venezuela: Carora Airport No delays
+15571	Ovda, Israel: Ovda Airport No delays
+15573	Valverde, Spain: Hierro No delays
+15575	Viedma, Argentina: Viedma Airport No delays
+15577	Villa Dolores, Argentina: Villa Dolores Airport No delays
+15579	Valdez, AK: Valdez Pioneer Field No delays
+15582	Vernal, UT: Vernal Regional
+	average: 4.8333335
+	min: 0.0
+	max: 19.0
+15584	Veracruz, Mexico: General Heriberto Jara International No delays
+15586	Victoria Falls, Zimbabwe: Victoria Falls International No delays
+15588	Vigo, Spain: Vigo Airport No delays
+15591	Vichy, France: Vichy Charmeil No delays
+15593	Vicenza, Italy: Vicenza Airport No delays
+15595	Vienna, Austria: Vienna International No delays
+15597	Vichy, MO: Rolla National No delays
+15599	Kavik River, AK: Kavik River Airport No delays
+15601	Visalia, CA: Visalia Municipal No delays
+15603	Vitoria, Brazil: Eurico de Aguiar Salles No delays
+15605	Vicksburg, MS: Vicksburg Municipal No delays
+15607	Valdosta, GA: Valdosta Regional
+	average: 8.75
+	min: 0.0
+	max: 50.0
+15609	Valladolid, Spain: Valladolid Airport No delays
+15610	Valencia, Venezuela: Arturo Michelena International No delays
+15612	Vallenar, Chile: Vallenar Airport No delays
+15614	Villa Mercedes, Argentina: Mercedes No delays
+15616	Vilnius, Lithuania: Vilnius International No delays
+15618	Van Nuys, CA: Van Nuys Airport No delays
+15621	Volos, Greece: Volos Airport No delays
+15623	Ondjiva, Angola: Ondjiva Airport No delays
+15625	Valparaiso, IN: Porter County Regional No delays
+15627	Varadero, Cuba: Juan Gualberto Gomez International No delays
+15629	Virac, Philippines: Virac Airport No delays
+15630	Varkaus, Finland: Varkaus Airport No delays
+15632	Villahermosa, Mexico: C. P. A. Carlos Rovirosa International No delays
+15634	Springfield, VT: Hartness State No delays
+15636	Vientiane, Laos: Wattay International No delays
+15638	Visakhapatnam, India: Vishakhapatnam No delays
+15641	Valledupar, Colombia: Alfonso Lopez Pumarejo No delays
+15643	Santa Cruz, Bolivia: Viru Viru International No delays
+15645	Vladivostok, Russia: Knevichi No delays
+15647	Myrtle Creek, OR: Myrtle Creek Municipal No delays
+15649	Hanford, CA: Hanford Municipal No delays
+15650	Chelan, WA: Lake Chelan No delays
+15652	Garibaldi, OR: Tillamook No delays
+15654	California City, CA: California City Municipal No delays
+15656	Saratoga Springs, NY: Saratoga County No delays
+15658	Weed, CA: Weed Airport No delays
+15661	Bernard, ID: Bernard Usfs No delays
+15663	Independence, CA: Independence Airport No delays
+15665	Americus, GA: Jimmy Carter Regional No delays
+15669	Hondo, TX: South Texas Regional at Hondo No delays
+15670	Landsberg Am Lech, Germany: Landsberg-Lech No delays
+15672	Sao Vicente, Cape Verde: Sao Pedro International No delays
+15674	Vryheid, South Africa: Vryheid Airport No delays
+15676	Marvel Creek Mine, AK: Marvel Creek Mine Airport No delays
+15678	Mush Bay, AK: Mush Bay Airport No delays
+15681	Afognak Straits, AK: Afognak Straits Airport No delays
+15683	Mineola, TX: Mineola Wisener Field No delays
+15685	Payette, ID: Payette Municipal No delays
+15687	Los Alamitos, CA: Los Alamitos AAF No delays
+15689	Wildman Creek, AK: Wildman Creek Airport No delays
+15690	Stepovak, AK: Stepovak Airport No delays
+15692	Puale Bay, AK: Puale Bay Airport No delays
+15694	Kashvik Bay, AK: Kashvik Bay Airport No delays
+15696	Hagemeister Island, AK: Hagemeister Island Airport No delays
+15698	Cape Greig, AK: Cape Greig Airport No delays
+15700	Katmai Lodge, AK: Katmai Lodge Airport No delays
+15704	Burlington, WA: Bayview Farms No delays
+15706	Winthrop, WA: Methow Valley State No delays
+15708	Chelan, WA: Chelan Seaplane Landing No delays
+15711	Andriamena, Madagascar: Andriamena Airport No delays
+15713	Chincoteague, VA: Wallops Flight Facility No delays
+15715	Washington, DC: Washington DC Metropolitan Area No delays
+15717	Wave Hill, Australia: Wave Hill Old No delays
+15720	Wahai, Indonesia: Wahai Airport No delays
+15722	Commerce/Montebello, CA: Commerce/Montebello Heliport No delays
+15724	Woburn, MA: Woburn Airport No delays
+15726	Big Rapids, MI: Roben-Hood No delays
+15728	Downtown, CA: Downtown Airport No delays
+15731	Chandalar, AK: Chandalar Lake No delays
+15735	Windhoek, Namibia: Hosea Kutako International No delays
+15737	Winder, GA: Barrow County No delays
+15739	Weipa, Australia: Weipa Airport No delays
+15740	Welkom, South Africa: Welkom Airport No delays
+15744	Wagga Wagga, Australia: Wagga Wagga Airport No delays
+15746	Bahia Tortugas, Mexico: Bahia Tortugas Airport No delays
+15751	Frenchville, ME: Northern Aroostook Regional No delays
+15755	Whakatane, New Zealand: Whakatane Airport No delays
+15759	Wharton, TX: Wharton Regional No delays
+15760	Black River Falls, WI: Black River Falls Area No delays
+15762	Wilbur, WA: Wilbur Airport No delays
+15766	Nairobi, Kenya: Nairobi/Wilson No delays
+15768	Woja, Marshall Islands: Woja Airport No delays
+15773	Wakkanai, Japan: Wakkanai Airport No delays
+15775	Waikoloa Village, HI: Waikoloa Heliport No delays
+15777	Wakunai, Papua New Guinea: Wakunai Airport No delays
+15779	Philadelphia, PA: Penns Landing Seaplane Base No delays
+15782	Winfield, KS: Strother Field No delays
+15784	Walaha, Vanuatu: Walaha Airport No delays
+15786	Waltham, MA: Waltham Hospital Heliport No delays
+15791	Winnemucca, NV: Winnemucca Municipal No delays
+15793	Meyers Chuck, AK: Meyers Chuck Seaplane Base No delays
+15795	Mananara, Madagascar: Avaratra No delays
+15799	Wunnumin Lake, Canada: Wunnumin Lake Airport No delays
+15801	Windorah, Australia: Windorah Airport No delays
+15805	Wood River, AK: Wood River Airport No delays
+15807	Willow, AK: Willow Airport No delays
+15810	Wipim, Papua New Guinea: Wipim Airport No delays
+15812	Puerto Williams, Chile: Guardiamarina Zanartu No delays
+15814	Mandan, ND: Mandan Municipal No delays
+15816	Tulelake, CA: Tulelake Municipal No delays
+15818	Rigby, ID: Rigby Airport No delays
+15821	Connell, WA: Connell City No delays
+15823	Townsend, MT: Townsend Airport No delays
+15825	Lake Charles, LA: Chennault International No delays
+15827	Rosamond, CA: Rosamond Skypark No delays
+15829	Fairburn, SD: Custer State Park No delays
+15830	Naknek, AK: Tibbetts No delays
+15832	Bridger, MT: Bridger Municipal No delays
+15836	Kiavak, AK: Kiavak Airport No delays
+15838	Chignik Lake, AK: Chignik Lake Airport No delays
+15841	Wrangell, AK: Wrangell Airport
+	average: 10.333333
+	min: 0.0
+	max: 31.0
+15843	Worland, WY: Worland Municipal No delays
+15845	Wroclaw, Poland: Strachowice No delays
+15847	Washington, PA: Washington County No delays
+15849	Wasilla, AK: Wasilla Airport No delays
+15850	San Juan, AK: San Juan Airport No delays
+15852	Wiseman, AK: Wiseman Airport No delays
+15854	Waspam, Nicaragua: Waspam Airport No delays
+15856	Westsound, WA: Westsound Airport No delays
+15858	Westport, New Zealand: Westport Airport No delays
+15861	Noatak, AK: Noatak Airport No delays
+15863	Waddington, United Kingdom: RAF Waddington No delays
+15865	Tsiroanomandidy, Madagascar: Tsiroanomandidy Airport No delays
+15867	Wau, Papua New Guinea: Wau Airport No delays
+15869	Duchesne, UT: Duchesne Municipal No delays
+15870	Ocean Shores, WA: Avco No delays
+15872	Wuxi, China: Shuofang No delays
+15874	Falls Church, VA: Washington-Virginia No delays
+15878	Manakara, Madagascar: Manakara Airport No delays
+15881	Wasilla, AK: Wasilla Airport No delays
+15883	Wewak, Papua New Guinea: Wewak International No delays
+15885	Whale Pass, AK: Whale Pass Airport No delays
+15887	Newtok, AK: Newtok Airport No delays
+15892	Pinedale, WY: Ralph Wenz Field No delays
+15894	Yes Bay, AK: Yes Bay Lodge Seaplane Base No delays
+15896	Wyndham, Australia: Wyndham Airport No delays
+15900	Alamos, Mexico: Alamos Airport No delays
+15902	Bearskin Lake, Canada: Bearskin Lake Airport No delays
+15904	Christmas Island, Christmas Island: Christmas Island Airport No delays
+15906	Chalons-En-Champagne, France: Chalons Vatry No delays
+15908	Xichang, China: Qingshan No delays
+15913	St. Louis, Senegal: Saint Louis No delays
+15915	Madison, SD: Madison Municipal No delays
+15917	Xiamen, China: Gaoqi No delays
+15919	Fayetteville, AR: Northwest Arkansas Regional
+	average: 16.219177
+	min: 0.0
+	max: 119.0
+15920	Quang Ngai, Vietnam: Quang Ngai Airport No delays
+15924	Al Bakr, Iraq: Joint Base Balad No delays
+15926	Richmond, Australia: Richmond AFB No delays
+15928	Jerez de la Frontera, Spain: Jerez No delays
+15931	Leonardtown, MD: St. Mary's County Regional No delays
+15933	Xuzhou, China: Xuzhou Airport No delays
+15937	Emmen, Switzerland: Emmen Airport No delays
+15939	Jerome, ID: Jerome County No delays
+15944	Port Orchard, WA: Port Orchard Airport No delays
+15946	Riyadh, Saudi Arabia: Riyadh Military No delays
+15948	Kimball, NE: Kimball Municipal/Robert E. Arraj Field No delays
+15953	Nushagak Bay, AK: Nushagak Bay Airport No delays
+15964	Lakewood, NJ: Lakewood Airport No delays
+15966	Cambridge, MA: Arthur D. Little Heliport No delays
+15968	Doha, Qatar: Al Udeid AB No delays
+15971	Willits, CA: Ells Field-Willits Municipal No delays
+15973	Lakeport, CA: Lampson Field No delays
+15975	Mariposa, CA: Mariposa-Yosemite No delays
+15977	Polson, MT: Polson Airport No delays
+15979	Decatur, WA: Decatur Shores No delays
+15980	Lake City, FL: Lake City Gateway No delays
+15982	Fortuna, CA: Rohnerville No delays
+15984	Yandina, Solomon Islands: Yandina Airport No delays
+15986	Anahim Lake, Canada: Anahim Lake Airport No delays
+15988	Asbestos Hill, Canada: Asbestos No delays
+15991	Yakutat, AK: Yakutat Airport
+	average: 7.111111
+	min: 0.0
+	max: 41.0
+15993	Yaounde, Cameroon: Yaounde Ville No delays
+15995	Attawapiskat, Canada: Attawapiskat Airport No delays
+15997	Miners Bay, Canada: Miners Bay Airport No delays
+15999	Tofino, Canada: Long Beach No delays
+16000	Banff, Canada: Banff Airport No delays
+16002	Baie Comeau, Canada: Baie Comeau Airport No delays
+16004	Saguenay, Canada: Bagotville No delays
+16006	Baker Lake, Canada: Baker Lake Airport No delays
+16008	Bronson Creek, Canada: Bronson Creek Airport No delays
+16011	Brochet, Canada: Brochet Airport No delays
+16013	Blanc Sablon, Canada: Blanc Sablon Airport No delays
+16015	Cornwall, Canada: Cornwall Regional No delays
+16017	Cortes Bay, Canada: Cortes Bay Airport No delays
+16019	Miramichi, Canada: Miramichi Airport No delays
+16020	Cape Saint James, Canada: Cape Saint James Airport No delays
+16022	Charlo, Canada: Charlo Airport No delays
+16024	Cochrane, Canada: Cochrane Airport No delays
+16026	Cross Lake, Canada: Cross Lake Airport No delays
+16028	Clyde River, Canada: Clyde River Airport No delays
+16031	Deer Lake, Canada: Deer Lake Airport No delays
+16033	Dauphin, Canada: Dauphin Barker No delays
+16035	Dawson Creek, Canada: Dawson Creek Airport No delays
+16039	Edmonton, Canada: Edmonton Metropolitan Area No delays
+16040	Yecheon, South Korea: Yecheon Airport No delays
+16042	Edmonton, Canada: Edmonton International No delays
+16044	Elliot Lake, Canada: Elliot Lake Municipal No delays
+16046	Yeovilton, United Kingdom: Yeovilton Airport No delays
+16048	Eureka, Canada: Eureka Airport No delays
+16051	Fredericton, Canada: Fredericton International No delays
+16053	Fort Resolution, Canada: Fort Resolution Airport No delays
+16055	Gagnon, Canada: Gagnon Airport No delays
+16057	Gorge Harbor, Canada: Gorge Harbor Airport No delays
+16059	Fort Good Hope, Canada: Fort Good Hope Ice Strip No delays
+16060	Yonago, Japan: Miho No delays
+16062	La Grande, Canada: La Grande Riviere No delays
+16064	Gaspe, Canada: Michel Pouliot No delays
+16066	Iles de la Madeleine, Canada: Iles de la Madeleine Airport No delays
+16068	Havre St. Pierre, Canada: Havre St. Pierre Airport No delays
+16073	Port Hope Simpson, Canada: Port Hope Simpson Airport No delays
+16075	Hearst, Canada: Hearst Municipal No delays
+16077	Holman Island, Canada: Ulukhaktok Holman No delays
+16079	Hornepayne, Canada: Hornepayne Municipal No delays
+16080	Harrington Harbour, Canada: Harrington Harbour Airport No delays
+16082	Haines Junction, Canada: Haines Junction Airport No delays
+16084	Hay River, Canada: Hay River Merlyn Carter No delays
+16086	Atikokan, Canada: Atikokan Municipal No delays
+16088	Big Bay Marina, Canada: Big Bay Marina Airport No delays
+16091	Detroit, MI: Willow Run No delays
+16093	Yiwu, China: Yiwu Airport No delays
+16095	Stephenville, Canada: Stephenville Airport No delays
+16097	Kitchener, Canada: Waterloo No delays
+16099	Key Lake, Canada: Key Lake Airport No delays
+16101	Yakima, WA: Yakima Air Terminal/McAllister Field No delays
+16103	Yakutsk, Russia: Yakutsk Airport No delays
+16105	Kirkland Lake, Canada: Kirkland Lake Airport No delays
+16107	Kimmirut/Lake Harbour, Canada: Lake Harbour No delays
+16109	Lansdowne House, Canada: Lansdowne House Airport No delays
+16110	Lloydminster, Canada: Lloydminster Airport No delays
+16112	La Tuque, Canada: La Tuque Airport No delays
+16114	Alert, Canada: Alert Airport No delays
+16116	Mayo, Canada: Mayo Airport No delays
+16118	Matane, Canada: Matane Airport No delays
+16121	Fort McMurray, Canada: Fort McMurray Airport No delays
+16123	Port McNeill, Canada: Port McNeill Airport No delays
+16125	Yurimaguas, Peru: Yurimaguas Airport No delays
+16127	Manicouagan, Canada: Manic-5 No delays
+16129	Natashquan, Canada: Natashquan Airport No delays
+16130	Yenbo, Saudi Arabia: Prince Abdulmohsin Bin Abdulaziz No delays
+16132	Norway House, Canada: Norway House Airport No delays
+16134	Hudson's Hope, Canada: Hudson's Hope Airport No delays
+16136	Nootka Sound, Canada: Nootka Sound Airport No delays
+16138	Matagami, Canada: Matagami Airport No delays
+16141	Old Crow, Canada: Old Crow Airport No delays
+16143	Ogoki, Canada: Ogoki Airport No delays
+16145	Yola, Nigeria: Yola Airport No delays
+16147	Rainbow Lake, Canada: Rainbow Lake Airport No delays
+16149	Ottawa, Canada: Ottawa Macdonald Cartier International No delays
+16150	Rea Point, Canada: Rea Point Airport No delays
+16152	Peace River, Canada: Peace River Airport No delays
+16154	Port Menier, Canada: Port Menier Airport No delays
+16156	Peterborough, Canada: Peterborough Airport No delays
+16158	Port Hawkesbury, Canada: Port Hawkesbury Airport No delays
+16161	Fort Chipewyan, Canada: Fort Chipewyan Airport No delays
+16163	Quebec, Canada: Quebec Jean Lesage International No delays
+16165	Red Deer, Canada: Red Deer Regional No delays
+16167	Watson Lake, Canada: Watson Lake Airport No delays
+16169	Kenora, Canada: Kenora Airport No delays
+16170	Lethbridge, Canada: Lethbridge Airport No delays
+16172	Comox, Canada: Comox Airport No delays
+16174	Thunder Bay, Canada: Thunder Bay Airport No delays
+16176	Yorkton, Canada: Yorkton Municipal No delays
+16178	Gander, Canada: Gander International No delays
+16181	Resolute Bay, Canada: Resolute Bay Airport No delays
+16183	Dean River, Canada: Dean River Airport No delays
+16185	Red Lake, Canada: Red Lake Airport No delays
+16187	Rankin Inlet, Canada: Rankin Inlet Airport No delays
+16189	Sherbrooke, Canada: Sherbrooke Airport No delays
+16190	Stony Rapids, Canada: Stony Rapids Airport No delays
+16192	St. Leonard, Canada: St Leonard Cyr No delays
+16194	Salmon Arm, Canada: Salmon Arm Airport No delays
+16196	Nanisivik, Canada: Nanisivik Airport No delays
+16198	Summerside, Canada: Summerside Airport No delays
+16202	Cape Dorset, Canada: Cape Dorset Airport No delays
+16204	Sullivan Bay, Canada: Sullivan Bay Water Aerodrome No delays
+16206	Terrace Bay, Canada: Terrace Bay Airport No delays
+16208	La Macaza, Canada: Mont-Tremblant International No delays
+16211	Tofino, Canada: Tofino Seaplane Base No delays
+16213	Trenton, Canada: Trenton Airport No delays
+16215	Toronto, Canada: Billy Bishop Toronto City No delays
+16217	Montreal, Canada: Pierre Elliott Trudeau International No delays
+16219	Repulse Bay, Canada: Repulse Bay Airport No delays
+16220	Hall Beach, Canada: Hall Beach Airport No delays
+16222	Moroni, Comoros: Iconi No delays
+16224	Lac La Ronge, Canada: La Ronge No delays
+16226	Val d'Or, Canada: Val d'Or Airport No delays
+16228	Norman Wells, Canada: Norman Wells Airport No delays
+16231	Kangiqsujuaq, Canada: Kangiqsujuaq Wakeham Bay No delays
+16233	Victoria, Canada: Victoria Inner Harbour No delays
+16235	Wabush, Canada: Wabush Airport No delays
+16237	Chute-Des-Passes, Canada: Chute-Des-Passes Airport No delays
+16239	Wrigley, Canada: Wrigley Airport No delays
+16240	Cranbrook, Canada: Canadian Rockies International No delays
+16242	Saskatoon, Canada: John G Diefenbaker International No delays
+16244	Fort St. John, Canada: Fort St. John Airport No delays
+16246	Sioux Lookout, Canada: Sioux Lookout Airport No delays
+16248	Beaver Creek, Canada: Beaver Creek Airport No delays
+16251	Terrace, Canada: Terrace Airport No delays
+16253	Abbotsford, Canada: Abbotsford Airport No delays
+16255	Wawa, Canada: Wawa Airport No delays
+16257	Calgary, Canada: Calgary International No delays
+16259	Fort Nelson, Canada: Fort Nelson Airport No delays
+16260	Penticton, Canada: Penticton Airport No delays
+16262	Taloyoak, Canada: Taloyoak Airport No delays
+16264	Lynn Lake, Canada: Lynn Lake Airport No delays
+16266	Churchill, Canada: Churchill Airport No delays
+16268	St. John's, Canada: St. John's International No delays
+16271	Toronto, Canada: Lester B. Pearson International No delays
+16273	Yellowknife, Canada: Yellowknife Airport No delays
+16275	Sandspit, Canada: Sandspit Airport No delays
+16277	Coral Harbour, Canada: Coral Harbour Airport No delays
+16279	Sept-Iles, Canada: Sept-Iles Airport No delays
+16280	Alice Arm, Canada: Alice Arm Airport No delays
+16282	Zagreb, Croatia: Zagreb Airport No delays
+16284	Valdivia, Chile: Las Marias No delays
+16286	Zaragoza, Spain: Zaragoza AB No delays
+16288	Bathurst, Canada: Bathurst Airport No delays
+16291	Bowen, Australia: Bowen Airport No delays
+16293	Zacatecas, Mexico: General Leobardo C. Ruiz International No delays
+16295	Bella Bella, Canada: Denny Island No delays
+16297	Fort McPherson, Canada: Fort McPherson Airport No delays
+16299	Grand Forks, Canada: Grand Forks Airport No delays
+16301	Gethsemani, Canada: Gethsemani Airport No delays
+16303	Ziguinchor, Senegal: Ziguinchor Airport No delays
+16305	Kasaba Bay, Zambia: Kasaba Bay Airport No delays
+16307	La Tabatiere, Canada: La Tabatiere Airport No delays
+16309	Masset, Canada: Masset Airport No delays
+16310	Nanaimo, Canada: Harbour No delays
+16312	Zinder, Niger: Zinder Airport No delays
+16314	Ingolstadt, Germany: Ingolstadt Airport No delays
+16316	Ocean Falls, Canada: Ocean Falls Airport No delays
+16318	Osorno, Chile: Canal Bajo Carlos Hott Siebert No delays
+16321	Zurich, Switzerland: Zurich Airport No delays
+16323	Sligo, Ireland: Sligo Bus Station No delays
+16325	Stewart, Canada: Stewart Airport No delays
+16327	Zakinthos, Greece: Dionysios Solomos No delays
+16329	Zhuhai, China: Jinwan No delays
+16330	Churchill Falls, Canada: Churchill Falls Airport No delays
+16332	Savannakhet, Laos: Savannakhet International No delays
+16334	Rota, Spain: Rota NS No delays
+16336	Gasquet, CA: Ward Field No delays
+16338	Sculthorpe, United Kingdom: Sculthorpe Airport No delays
+16341	Coal Bay, AK: Coal Bay Airport No delays
+16343	Lancaster Cove, AK: Lancaster Cove Airport No delays
+16345	Saltery Cove, AK: Saltery Cove Airport No delays
+16347	El Capitan, AK: El Capitan Peak No delays
+16352	Cloverdale, CA: Cloverdale Municipal No delays
+16354	Nappanee, IN: Nappanee Municipal No delays
+16356	Kennewick, WA: Vista Field No delays
+16358	Waterville, WA: Waterville Airport No delays
+16361	Zanesville, OH: Zanesville Municipal No delays
+16363	Fernandina Beach, FL: Fernandina Beach Municipal No delays
+16385	Ad-Dabbah, Sudan: Ad-Dabbah Airport No delays
+16387	Abakan, Russia: Abakan Airport No delays
+16389	Badana, Saudi Arabia: Badanah No delays
+16390	Beluga, AK: Beluga Airport No delays
+16392	McCord, AK: McCord Seaplane Base No delays
+16394	Marinduque, Philippines: Marinduque Airport No delays
+16396	Nellie Juan, AK: Nellie Juan Airport No delays
+16398	Bacolod, Philippines: Bacolod Airport No delays
+16400	Swindon, United Kingdom: Swindon Airport No delays
+16402	Pulau Tioman, Malaysia: Pulau Tioman Airport No delays
+16404	South Naknek, AK: Peter Pan Seafoods No delays
+16406	Bagabag, Philippines: Bagabag Airport No delays
+16408	Tokyo, Japan: Hyakuri No delays
+16411	Luxi, China: Mangshi No delays
+16413	Nevsehir, Turkey: Nevsehir Airport No delays
+16415	Haikou, China: Haikou Dayingshan No delays
+16417	Tuxtla Gutierrez, Mexico: Angel Albino Corzo No delays
+16419	Sewanee, TN: Franklin County No delays
+16420	Amendola, Italy: Amendola Airport No delays
+16422	Gulf Shores, AL: Jack Edwards No delays
+16424	Frankfort, MI: Frankfort Dow Memorial Field No delays
+16426	Ada, OK: Ada Municipal No delays
+16428	Marble Canyon, AZ: Marble Canyon Airport No delays
+16431	Aberdeen, ID: Aberdeen Municipal No delays
+16433	Ingolstadt, Germany: Ingolstadt Manching No delays
+16435	Loeriesfontein, South Africa: Loeriesfontein Airport No delays
+16437	Oslo, Norway: Oslo Metropolitan Area No delays
+16439	Ulan-Ude, Russia: Mukhino No delays
+16440	Austin, TX: Robert Mueller Municipal No delays
+16442	Millbrook, NY: Sky Acres No delays
+16444	Swidwin, Poland: Swidwin Airport No delays
+16446	Masterton, New Zealand: Masterton Airport No delays
+16448	Forres, United Kingdom: RAF Kinloss No delays
+16451	Salome, AZ: Sheepy Hollow Ranch No delays
+16453	Gregory, SD: Gregory Municipal Flynn Field No delays
+16455	Demopolis, AL: Demopolis Regional No delays
+16457	Chatham Kent, Canada: Chatham-Kent No delays
+16459	Fremont, OH: Sandusky County Regional No delays
+16460	Barcelos, Brazil: Barcelos Airport No delays
+16462	Muan, South Korea: Muan International No delays
+16464	Navoi, Uzbekistan: Navoi Airport No delays
+16466	Villavicencio, Colombia: Vanguardia No delays
+16468	Philadelphia, MS: Philadelphia Municipal No delays
+16471	Sialkot, Pakistan: Sialkot International No delays
+16473	Wichita, KS: Beech Factory No delays
+16475	Durban, South Africa: King Shaka International No delays
+16477	Queretaro, Mexico: Queretaro Intercontinental No delays
+16479	Montague, MA: Turners Falls No delays
+16480	Daqing Shi, China: Saertu No delays
+16482	Albert, France: Albert Bray No delays
+16484	Zanjan, Iran: Zanjan Airport No delays
+16486	Greenwood, Canada: Greenwood Airport No delays
+16488	Sampit, Indonesia: H.Asan No delays
+16491	Princeton, ME: Princeton Municipal No delays
+16493	Jiangsu, China: Lianyungang Baitabu No delays
+16495	Simsbury, CT: Simsbury Airport No delays
+16497	Fairhope, AL: H. L. Sonny Callahan No delays
+16499	Johnstown, NY: Fulton County No delays
+16501	Madison, CT: Griswold No delays
+16503	Islesboro, ME: Islesboro Airport No delays
+16505	Fairbanks, AK: Gold King Creek No delays
+16507	Cheongju, South Korea: Cheongju International No delays
+16509	Sevierville, TN: Gatlinburg-Pigeon Forge No delays
+16510	Beaufort, NC: Michael J. Smith Field No delays
+16512	Mattituck, NY: Mattituck Airport No delays
+16514	Tabubil, Papua New Guinea: Tabubil Airport No delays
+16516	Moscow, Russia: Ostafyevo No delays
+16518	Centralia, Canada: James T. Field Memorial No delays
+16521	Big Piney, WY: Miley Memorial Field No delays
+16523	Parry Sound, Canada: Parry Sound Area Municipal No delays
+16525	West Chester, PA: Brandywine No delays
+16527	Monroeville, AL: Monroe County No delays
+16529	Vinh City, Vietnam: Vinh No delays
+16530	Paraparaumu, New Zealand: Paraparaumu Airport No delays
+16532	Medina, OH: Medina Municipal No delays
+16534	Clewiston, FL: Airglades No delays
+16536	Troy, AL: Troy Municipal Airport at N Kenneth Campbell No delays
+16538	Clinton, NC: Clinton Sampson County No delays
+16541	Okeechobee, FL: Okeechobee County No delays
+16543	Northampton, MA: Northampton Airport No delays
+16545	Telegraph Harbour, Canada: Telegraph Harbour Airport No delays
+16547	Pella, IA: Pella Regional Health Center Heliport No delays
+16549	Winters, TX: Winters Municipal No delays
+16550	Tebepahwa, Botswana: Thebephatshwa No delays
+16552	Burlington, NC: Burlington Alamance Regional No delays
+16554	Ganja, Azerbaijan: Ganja Airport No delays
+16556	Nordholz, Germany: Nordholz Airport No delays
+16558	Hammond, LA: Hammond Northshore Regional No delays
+16561	Springerville, AZ: Springerville Municipal No delays
+16563	Osceola, WI: L O Simenstad Municipal No delays
+16565	Uribia, Colombia: Puerto Bolivar No delays
+16567	Akun, AK: Akun Airport No delays
+16569	Hornell, NY: Hornell Municipal No delays
+16570	Whistler, Canada: Green Lake No delays
+16572	Searchlight, NV: Searchlight Airport No delays
+16574	Bogue, Mauritania: Abbaye No delays
+16576	Chingola, Zambia: Kasompe No delays
+16578	Al Najaf, Iraq: Al Najaf International No delays
+16581	Gold King 2, AK: Gold King 2 Airport No delays
+16583	Summerville, SC: Summerville Airport No delays
+16585	Sussex, NJ: Sussex Airport No delays
+16587	St Stephen, Canada: St Stephen Airport No delays
+16589	Hallock, MN: Hallock Municipal No delays
+16590	Monbetsu, Japan: Monbetsu Airport No delays
+16592	Liwa, United Arab Emirates: Liwa Airbase No delays
+16594	Willimantic, CT: Windham No delays
+16596	Turkmenbashi, Turkmenistan: Turkmenbashi Airport No delays
+16598	Tracy, CA: Tracy Municipal No delays
+16600	Berry Island, Canada: Farewell Harbour No delays
+16602	Cordero Lodge, Canada: Cordero Lodge Airport No delays
+16604	Dent Island , Canada: Dent Island Lodge No delays
+16606	Galiano Island, Canada: Galiano Island Water Aerodrome No delays
+16608	Mansons Landing, Canada: Mansons Landing Water Aerodrome No delays
+16611	Pender Harbour, Canada: Pender Harbour Water Aerodrome No delays
+16613	Quadra Island, Canada: April Point Resort No delays
+16615	Rendezvous Islands, Canada: Rendezvous Islands Water Aerodrome No delays
+16617	Shoal Bay, Canada: Shoal Bay Water Aerodrome No delays
+16619	Sonora Island, Canada: Sonora Resort No delays
+16620	Steep Island, Canada: Steep Island Lodge No delays
+16622	Mont de Marsan, France: Mont de Marsan Airport No delays
+16624	Warren, VT: Warren Sugarbush No delays
+16626	Doro, South Sudan: Doro Airport No delays
+16628	Ehpriam, WI: Ephraim Gibralter No delays
+16631	Mardin, Turkey: Mardin Airport No delays
+16633	Bethel2, ME: Cole Dyke No delays
+16635	Belen, NM: Belen Municipal No delays
+16637	Itaituba, Brazil: Itaituba Airport No delays
+16639	Gila Bend, AZ: Gila Bend Municipal No delays
+16640	Rockingham, NC: Richmond County No delays
+16642	Cranfield, United Kingdom: Cranfield Airport No delays
+16644	New Milford, CT: Candlelight Farms No delays
+16646	Oxford, United Kingdom: Oxford Airport No delays
+16648	Naypyitaw, Burma: Naypyitaw International No delays
+16651	Camp Orkila Eastsound, WA: Camp Orkila Seaplane Base No delays
+16653	Port Harvey, Canada: Port Harvey Water Aerodrome No delays
+16655	Simoom Sound, Canada: Simoom Sound Water Aerodrome No delays
+16657	Ruwaished, Jordan: H4 No delays
+16659	Wichita Falls, TX: Kickapoo Downtown No delays
+16660	Gambella, Ethiopia: Gambella Airport No delays
+16662	Naknek-1, AK: Icicle Seafoods No delays
+16664	Um Almelh, Saudi Arabia: Um Almelh Airport No delays
+16666	Dover-Cheswold, DE: Delware Airpark No delays
+16668	Deadhorse1, AK: Point Thomson Airstrip No delays
+16671	Paloich, South Sudan: Paloich Airport No delays
+16673	Canton, GA: Cherokee County No delays
+16675	Quarzazate, Morocco: Ouarzazate International No delays
+16677	Gahcho, Canada: Gahcho Kue No delays
+16679	Marfa, TX: Marfa Municipal No delays
+16680	Canandaigua, NY: Canandaigua Airport No delays
+16682	Gettysburg, PA: Gettysburg Regional No delays
+16684	Collegeville, PA: Perkiomen Valley No delays
+16686	Wajir, Kenya: Wajir Airport No delays
+99999	Unknown Point in Alaska No delays
