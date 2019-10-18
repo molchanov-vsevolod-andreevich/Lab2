@@ -11,6 +11,7 @@ public class AirportComparator implements RawComparator<AirportPair> {
 
     @Override
     public int compare(AirportPair o1, AirportPair o2) {
+        System.out.println("YYYYYYYYEEEEEEEEESSSSSSS");
         return o1.getAirportID().compareTo(o2.getAirportID());
     }
 }
