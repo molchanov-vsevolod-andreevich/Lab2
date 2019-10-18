@@ -5,9 +5,9 @@ public class AirportPartitioner extends Partitioner<AirportPair, Text> {
     @Override
     public int getPartition(AirportPair key, Text value, int numReduceTasks) {
         if (key.getAirportID().compareTo(new Text("3343")) == -1) {
-            System.out.println("YEEEEEEEEESSSSSS");
             return 0;
         } else {
+            System.out.println("YEEEEEEEEESSSSSS");
             return 1;
         }
     }
