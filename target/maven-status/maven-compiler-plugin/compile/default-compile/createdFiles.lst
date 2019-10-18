@@ -1,7 +1,1 @@
-AirportPair$AirportPartitioner.class
-AirportApp.class
-Parser.class
-FlightMapper.class
-AirportPair$AirportComparator.class
-AirportMapper.class
 JoinReducer.class
