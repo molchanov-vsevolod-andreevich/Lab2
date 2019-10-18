@@ -60,17 +60,6 @@ public class AirportPair implements WritableComparable<AirportPair> {
         return res;
     }
 
-    public class AirportPartitioner extends Partitioner<AirportPair, Text> {
-        @Override
-        public int getPartition(AirportPair key, Text value, int numReduceTasks) {
-            if (key.AIRPORT_ID.compareTo(new Text("3343")) == -1) {
-                return 0;
-            } else {
-                return 1;
-            }
-        }
-    }
-
     public class AirportComparator extends WritableComparator {
 //        protected AirportComparator() {
 //            super((Class<? extends WritableComparable>) AirportComparator.class, true);
