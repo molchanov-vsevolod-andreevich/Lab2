@@ -1,7 +1,7 @@
 import org.apache.hadoop.io.WritableComparable;
 import org.apache.hadoop.io.WritableComparator;
 
-public class AirportComparator 
+public class AirportComparator implements 
 
 //public class AirportComparator extends WritableComparator {
 //    protected AirportComparator() {
