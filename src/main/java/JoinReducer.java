@@ -19,7 +19,15 @@ public class JoinReducer extends Reducer<AirportPair, Text, Text, Text> {
         float min = 100000f;
         float max = 0f;
         while (iter.hasNext()) {
-            Text nextDelay = iter.next();
+            float nextDelay = Float.parseFloat(iter.next().toString());
+            count++;
+            time += nextDelay;
+            if (nextDelay > max) {
+                max = nextDelay;
+            }
+            if (nextDelay < min) {
+                min = nextDelay;
+            }
         }
         String name = "";
         for (Text t : values) {
