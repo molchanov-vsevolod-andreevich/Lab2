@@ -1,6 +1,6 @@
+AirportMapper.class
 CsvWritable.class
+JoinReducer.class
 AirportApp.class
 Parser.class
 FlightMapper.class
-AirportMapper.class
-JoinReducer.class
