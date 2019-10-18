@@ -8,7 +8,7 @@ import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.mapreduce.Mapper.Context;
 import org.apache.hadoop.mapreduce.Reducer;
 
-public class JoinReducer extends Reducer<Text, Text, Text, FloatWritable> {
+public class JoinReducer extends Reducer<Text, Text, Text, Text> {
     @Override
     protected void reduce(Text key, Iterable<Text> values, Context context) throws
             IOException, InterruptedException {
@@ -28,7 +28,7 @@ public class JoinReducer extends Reducer<Text, Text, Text, FloatWritable> {
 //            context.write(new Text(name), new FloatWritable(0.0f));
         } else {
             float res = time / count;
-            context.write(new Text(name), new FloatWritable(res));
+            context.write(new Text(name), new Text(Float.toString(res)));
         }
     }
 }
