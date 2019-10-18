@@ -11,21 +11,20 @@ import java.nio.file.Paths;
 
 public class Parser {
     public static void main(String[] args) throws IOException {
-//        float f = 0f;
-//        f++;
-//        f++;
-//        System.out.println(f);
+        String s1 = "10000";
+        String s2 = "10001";
+        System.out.println(s1.compareTo(s2));
 
-        String content = new String(Files.readAllBytes(Paths.get("664600583_T_ONTIME_sample.csv")));
-        CSVParser parser = CSVParser.parse(content, CSVFormat.DEFAULT.withHeader());
-        for (CSVRecord csvRecord : parser) {
-//            String del = csvRecord.get(18);
-//            if (!del.equals("")) {
-//                System.out.println(csvRecord.get(14) + " delay: " + del);
-//            }
-            System.out.println(csvRecord);
-            break;
-        }
+//        String content = new String(Files.readAllBytes(Paths.get("664600583_T_ONTIME_sample.csv")));
+//        CSVParser parser = CSVParser.parse(content, CSVFormat.DEFAULT.withHeader());
+//        for (CSVRecord csvRecord : parser) {
+////            String del = csvRecord.get(18);
+////            if (!del.equals("")) {
+////                System.out.println(csvRecord.get(14) + " delay: " + del);
+////            }
+//            System.out.println(csvRecord);
+//            break;
+//        }
 
 //        Reader in = new FileReader("src/main/resources/L_AIRPORT_ID.csv");
 //        Iterable<CSVRecord> records = CSVFormat.DEFAULT.parse(in);

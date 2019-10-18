@@ -51,7 +51,7 @@ public class AirportPair implements WritableComparable {
 
     @Override
     public int compareTo(Object o) {
-        
+
         return 0;
     }
 }
