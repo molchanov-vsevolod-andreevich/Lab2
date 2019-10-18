@@ -56,11 +56,12 @@ public class AirportPair implements WritableComparable<AirportPair> {
 
     @Override
     public int compareTo(AirportPair o) {
-        int res = INSERT_ID.compareTo(o.INSERT_ID);
-        if (res == 0) {
-            res = AIRPORT_ID.compareTo(o.AIRPORT_ID);
-        }
-        return res;
+//        int res = INSERT_ID.compareTo(o.INSERT_ID);
+//        if (res == 0) {
+//            res = AIRPORT_ID.compareTo(o.AIRPORT_ID);
+//        }
+//        return res;
+        return AIRPORT_ID.compareTo(o.AIRPORT_ID);
     }
 
 //    public class AirportPartitioner extends Partitioner<AirportPair, Text> {
