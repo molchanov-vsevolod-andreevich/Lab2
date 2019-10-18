@@ -14,17 +14,16 @@ public class JoinReducer extends Reducer<AirportPair, Text, Text, Text> {
             IOException, InterruptedException {
         Iterator<Text> iter = values.iterator();
         Text airportName = new Text(iter.next());
-//        System.out.println(airportName + ":");
+
         float time = 0f;
         float count = 0f;
         float min = 100000f;
         float max = 0f;
         while (iter.hasNext()) {
-//            System.out.println("YYYYYYYEEEEEEEESSSSSSSSSS");
             float nextDelay = Float.parseFloat(iter.next().toString());
-//            System.out.println("\t" + Float.toString(nextDelay));
             count++;
             time += nextDelay;
+
             if (nextDelay > max) {
                 max = nextDelay;
             }
@@ -32,7 +31,6 @@ public class JoinReducer extends Reducer<AirportPair, Text, Text, Text> {
                 min = nextDelay;
             }
         }
-//        System.out.println("----------------------------------------------------");
         if (count == 0f || time == 0f) {
             context.write(key.getAirportID(), new Text(airportName.toString() + " No delays"));
         } else {

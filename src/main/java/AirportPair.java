@@ -1,5 +1,6 @@
-import org.apache.hadoop.io.*;
-import org.apache.hadoop.mapreduce.Partitioner;
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.io.WritableComparable;
 
 import java.io.DataInput;
 import java.io.DataOutput;
@@ -61,33 +62,5 @@ public class AirportPair implements WritableComparable<AirportPair> {
             res = INSERT_ID.compareTo(o.INSERT_ID);
         }
         return res;
-    }
-
-    public class AirportPartitioner extends Partitioner<AirportPair, Text> {
-        protected AirportPartitioner() {
-            super();
-        }
-
-        @Override
-        public int getPartition(AirportPair key, Text value, int numReduceTasks) {
-            if (Integer.parseInt(key.getAirportID().toString()) < 13344) {
-                return 0;
-            } else {
-                return 1;
-            }
-        }
-    }
-
-    public class AirportComparator extends WritableComparator {
-        protected AirportComparator() {
-            super(AirportPair.class, true);
-        }
-
-        @Override
-        public int compare(WritableComparable o1, WritableComparable o2) {
-            AirportPair airport1 = (AirportPair) o1;
-            AirportPair airport2 = (AirportPair) o2;
-            return airport1.getAirportID().compareTo(airport2.getAirportID());
-        }
     }
 }
