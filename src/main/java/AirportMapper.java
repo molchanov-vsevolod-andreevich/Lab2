@@ -13,7 +13,7 @@ public class AirportMapper extends Mapper<LongWritable, Text, Text, Text> {
     protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
         CSVParser parser = CSVParser.parse(value.toString(), CSVFormat.RFC4180.withHeader());
         for (CSVRecord csvRecord : parser) {
-            context.write(new Text(csvRecord.get(0)), new Text("airport    " + csvRecord.get(1)));
+            context.write(new Text(csvRecord.get(0)), new Text("airport:" + csvRecord.get(1)));
         }
     }
 }

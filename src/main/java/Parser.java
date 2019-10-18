@@ -21,7 +21,7 @@ public class Parser {
         for (CSVRecord csvRecord : parser) {
             String del = csvRecord.get(18);
             if (!del.equals("")) {
-                System.out.println(csvRecord.get(14) + " delay    " + del);
+                System.out.println(csvRecord.get(14) + " delay: " + del);
             }
         }
 
