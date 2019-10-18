@@ -1,5 +1,4 @@
-import org.apache.hadoop.io.ArrayWritable;
-import org.apache.hadoop.io.Writable;
+import org.apache.hadoop.io.WritableComparable;
 
 import java.io.DataInput;
 import java.io.DataOutput;
@@ -12,7 +11,7 @@ import java.io.IOException;
 //import java.nio.charset.StandardCharsets;
 //import java.util.List;
 
-public class CsvWritable implements Writable {
+public class AirportPair implements WritableComparable {
     private ArrayWritable records;
     
     @Override
@@ -25,8 +24,8 @@ public class CsvWritable implements Writable {
         records.readFields(in);
     }
 
-    public static CsvWritable read(DataInput in) throws IOException {
-        CsvWritable w = new CsvWritable();
+    public static AirportPair read(DataInput in) throws IOException {
+        AirportPair w = new AirportPair();
         w.readFields(in);
         return w;
     }
