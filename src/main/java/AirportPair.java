@@ -16,6 +16,26 @@ import java.io.IOException;
 public class AirportPair implements WritableComparable {
     private Text AIRPORT_ID;
     private IntWritable INSERT_ID;
+
+    public AirportPair(Text airportID, IntWritable insertID) {
+        AIRPORT_ID = airportID;
+        INSERT_ID = insertID;
+    }
+
+    public AirportPair(Text airportID, int insertID) {
+        AIRPORT_ID = airportID;
+        INSERT_ID = new IntWritable(insertID);
+    }
+
+    public AirportPair(String airportID, IntWritable insertID) {
+        AIRPORT_ID = new Text(airportID);
+        INSERT_ID = insertID;
+    }
+
+    public AirportPair(String airportID, int insertID) {
+        AIRPORT_ID = new Text(airportID);
+        INSERT_ID = new IntWritable(insertID);
+    }
     
     @Override
     public void write(DataOutput out) throws IOException {
@@ -28,7 +48,6 @@ public class AirportPair implements WritableComparable {
         AIRPORT_ID.readFields(in);
         INSERT_ID.readFields(in);
     }
-
 
     @Override
     public int compareTo(Object o) {
