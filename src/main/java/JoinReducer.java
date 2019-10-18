@@ -16,7 +16,7 @@ public class JoinReducer extends Reducer<Text, Text, Text, FloatWritable> {
         float count = 0f;
         String name = "";
         for (Text t : values) {
-            String parts[] = t.toString().split("  ");
+            String parts[] = t.toString().split("    ");
             if (parts[0].equals("delay")) {
                 count++;
                 time += Float.parseFloat(parts[1]);
