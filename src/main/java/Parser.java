@@ -16,14 +16,14 @@ public class Parser {
 //        f++;
 //        System.out.println(f);
 
-//        String content = new String(Files.readAllBytes(Paths.get("src/main/resources/664600583_T_ONTIME_sample.csv")));
-//        CSVParser parser = CSVParser.parse(content, CSVFormat.RFC4180.withHeader());
-//        for (CSVRecord csvRecord : parser) {
-//            String del = csvRecord.get(18);
-//            if (!del.equals("")) {
-//                System.out.println(Float.parseFloat(csvRecord.get(18)));
-//            }
-//        }
+        String content = new String(Files.readAllBytes(Paths.get("664600583_T_ONTIME_sample.csv")));
+        CSVParser parser = CSVParser.parse(content, CSVFormat.RFC4180.withHeader());
+        for (CSVRecord csvRecord : parser) {
+            String del = csvRecord.get(18);
+            if (!del.equals("")) {
+                System.out.println(Float.parseFloat(csvRecord.get(18)));
+            }
+        }
 
 //        Reader in = new FileReader("src/main/resources/L_AIRPORT_ID.csv");
 //        Iterable<CSVRecord> records = CSVFormat.DEFAULT.parse(in);
