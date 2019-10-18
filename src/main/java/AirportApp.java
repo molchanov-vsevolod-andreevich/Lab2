@@ -25,6 +25,8 @@ public class AirportApp {
         job.setPartitionerClass(AirportPair.AirportPartitioner.class);
         job.setGroupingComparatorClass(AirportPair.AirportComparator.class);
         job.setReducerClass(JoinReducer.class);
+        job.setMapOutputKeyClass(AirportPair.class);
+
         job.setOutputKeyClass(AirportPair.class);
         job.setOutputValueClass(Text.class);
         job.setNumReduceTasks(2);
