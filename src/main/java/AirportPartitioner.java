@@ -12,6 +12,6 @@ public class AirportPartitioner extends Partitioner<AirportPair, Text> {
 ////            System.out.println("NOOOOOOOOOOOOOOOOOO");
 //            return 1;
 //        }
-        return (key.hashCode() & )
+        return (key.hashCode() & Integer)
     }
 }
