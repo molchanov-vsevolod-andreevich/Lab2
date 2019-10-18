@@ -2,7 +2,9 @@ import org.apache.hadoop.io.WritableComparable;
 import org.apache.hadoop.io.WritableComparator;
 
 public class AirportComparator extends WritableComparator {
-    
+    protected MyGroupComparator() {
+        super(MyWritableComparable.class, true);
+    }
 
     @Override
     public int compare(WritableComparable o1, WritableComparable o2) {
