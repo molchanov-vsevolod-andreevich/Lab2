@@ -73,14 +73,8 @@ public class AirportPair implements WritableComparable<AirportPair> {
     }
 
     public class AirportComparator implements RawComparator {
-
         @Override
-        public int compare(byte[] bytes, int i, int i1, byte[] bytes1, int i2, int i3) {
-            return 0;
-        }
-
-        @Override
-        public int compare(Object o1, Object o2) {
+        public int compare(WritableComparable a, WritableComparable b) {
             return 0;
         }
     }
