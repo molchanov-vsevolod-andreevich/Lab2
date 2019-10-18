@@ -15,7 +15,6 @@ public class FlightMapper extends Mapper<LongWritable, Text, AirportPair, Text> 
         for (CSVRecord csvRecord : parser) {
             String del = csvRecord.get(18);
             if (!del.equals("")) {
-//                System.out.println(csvRecord.get(14) + " " + "1 Delay: " + del);
                 context.write(new AirportPair(csvRecord.get(14), 1), new Text(del));
             }
         }

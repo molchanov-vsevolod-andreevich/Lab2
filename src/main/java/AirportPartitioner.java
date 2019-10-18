@@ -9,6 +9,5 @@ public class AirportPartitioner extends Partitioner<AirportPair, Text> {
         } else {
             return 1;
         }
-//        return (key.getAirportID().hashCode() & Integer.MAX_VALUE) % numReduceTasks;
     }
 }

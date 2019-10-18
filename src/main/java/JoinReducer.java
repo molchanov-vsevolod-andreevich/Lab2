@@ -1,10 +1,7 @@
 import java.io.IOException;
 import java.util.Iterator;
 
-import org.apache.hadoop.io.FloatWritable;
-import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
-import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.mapreduce.Mapper.Context;
 import org.apache.hadoop.mapreduce.Reducer;
 
@@ -17,8 +14,8 @@ public class JoinReducer extends Reducer<AirportPair, Text, Text, Text> {
 
         float time = 0f;
         float count = 0f;
-        float min = 100000f;
-        float max = 0f;
+        float min = Float.MIN_VALUE;
+        float max = Float.MAX_VALUE;
         while (iter.hasNext()) {
             float nextDelay = Float.parseFloat(iter.next().toString());
             count++;
@@ -31,11 +28,12 @@ public class JoinReducer extends Reducer<AirportPair, Text, Text, Text> {
                 min = nextDelay;
             }
         }
+
         if (count == 0f || time == 0f) {
             context.write(key.getAirportID(), new Text(airportName.toString() + " No delays"));
         } else {
             float res = time / count;
-            context.write(key.getAirportID(), new Text(airportName.toString() + "\n\taverage: " + Float.toString(res) + "\n\tmin: " + Float.toString(min) + "\n\tmax: " + Float.toString(max)));
+            context.write(key.getAirportID(), new Text(airportName.toString() + "\n\taverage: " + res + "\n\tmin: " + min + "\n\tmax: " + max));
         }
     }
 }
