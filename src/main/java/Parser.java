@@ -17,11 +17,10 @@ public class Parser {
 //        System.out.println(f);
 
         String content = new String(Files.readAllBytes(Paths.get("664600583_T_ONTIME_sample.csv")));
-//        CSVParser parser = CSVParser.parse(content, CSVFormat.RFC4180);
-//        for (CSVRecord csvRecord : parser) {
-//            System.out.println(csvRecord);
-//        }
-        System.out.println(content);
+        CSVParser parser = CSVParser.parse(content, CSVFormat.RFC4180);
+        for (CSVRecord csvRecord : parser) {
+            System.out.println(csvRecord);
+        }
 
 //        Reader in = new FileReader("src/main/resources/L_AIRPORT_ID.csv");
 //        Iterable<CSVRecord> records = CSVFormat.DEFAULT.parse(in);
