@@ -6,13 +6,6 @@ import java.io.DataInput;
 import java.io.DataOutput;
 import java.io.IOException;
 
-//import org.apache.commons.csv.CSVParser;
-//import org.apache.commons.csv.CSVFormat;
-//import org.apache.commons.csv.CSVRecord;
-//import java.io.File;
-//import java.nio.charset.StandardCharsets;
-//import java.util.List;
-
 public class AirportPair implements WritableComparable<AirportPair> {
     private Text AIRPORT_ID;
     private IntWritable INSERT_ID;
@@ -59,9 +52,9 @@ public class AirportPair implements WritableComparable<AirportPair> {
 
     @Override
     public int compareTo(AirportPair o) {
-        int res = AIRPORT_ID.compareTo(o.AIRPORT_ID);
+        int res = INSERT_ID.compareTo(o.INSERT_ID);
         if (res == 0) {
-            res = INSERT_ID.compareTo(o.INSERT_ID);
+            res = AIRPORT_ID.compareTo(o.AIRPORT_ID);
         }
         return res;
     }
