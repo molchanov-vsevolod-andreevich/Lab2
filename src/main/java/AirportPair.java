@@ -36,7 +36,15 @@ public class AirportPair implements WritableComparable {
         AIRPORT_ID = new Text(airportID);
         INSERT_ID = new IntWritable(insertID);
     }
-    
+
+    public Text getAirportID() {
+        return AIRPORT_ID;
+    }
+
+    public IntWritable getInsertID() {
+        return INSERT_ID;
+    }
+
     @Override
     public void write(DataOutput out) throws IOException {
         AIRPORT_ID.write(out);
@@ -51,7 +59,7 @@ public class AirportPair implements WritableComparable {
 
     @Override
     public int compareTo(Object o) {
-        int compAirports = AIRPORT_ID.compareTo(o)
+        int compAirports = AIRPORT_ID.compareTo(o.get)
         return 0;
     }
 }
