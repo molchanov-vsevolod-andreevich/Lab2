@@ -26,7 +26,6 @@ public class AirportApp {
         Path outputPath = new Path(args[2]);
         FileOutputFormat.setOutputPath(job, outputPath);
         outputPath.getFileSystem(conf).delete(outputPath);
-        job.setNumReduceTasks(2);
         System.exit(job.waitForCompletion(true) ? 0 : 1);
     }
 }
