@@ -29,10 +29,7 @@ public class AirportPair implements WritableComparable<AirportPair> {
         INSERT_ID = new IntWritable(insertID);
     }
 
-    public AirportPair() {
-        AIRPORT_ID = new Text("100000");
-        INSERT_ID = new IntWritable(-1);
-    }
+    public AirportPair() {}
 
     public Text getAirportID() {
         return AIRPORT_ID;
