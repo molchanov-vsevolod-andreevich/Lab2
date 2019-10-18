@@ -1,3 +1,5 @@
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.Text;
 import org.apache.hadoop.io.WritableComparable;
 
 import java.io.DataInput;
@@ -12,21 +14,24 @@ import java.io.IOException;
 //import java.util.List;
 
 public class AirportPair implements WritableComparable {
-    private ArrayWritable records;
+    private Text AIRPORT_ID;
+    private IntWritable INSERT_ID;
     
     @Override
     public void write(DataOutput out) throws IOException {
-        records.write(out);
+        AIRPORT_ID.write(out);
+        INSERT_ID.write(out);
     }
 
     @Override
     public void readFields(DataInput in) throws IOException {
-        records.readFields(in);
+        AIRPORT_ID.readFields(in);
+        INSERT_ID.readFields(in);
     }
 
-    public static AirportPair read(DataInput in) throws IOException {
-        AirportPair w = new AirportPair();
-        w.readFields(in);
-        return w;
+
+    @Override
+    public int compareTo(Object o) {
+        return 0;
     }
 }
