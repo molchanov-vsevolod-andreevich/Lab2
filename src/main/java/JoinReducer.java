@@ -14,12 +14,14 @@ public class JoinReducer extends Reducer<AirportPair, Text, Text, Text> {
             IOException, InterruptedException {
         Iterator<Text> iter = values.iterator();
         Text airportName = new Text(iter.next());
+        System.out.print(airportName + ":");
         float time = 0f;
         float count = 0f;
         float min = 100000f;
         float max = 0f;
         while (iter.hasNext()) {
             float nextDelay = Float.parseFloat(iter.next().toString());
+            System.out.println("\t" + Float.toString(nextDelay));
             count++;
             time += nextDelay;
             if (nextDelay > max) {
