@@ -19,7 +19,10 @@ public class Parser {
         String content = new String(Files.readAllBytes(Paths.get("664600583_T_ONTIME_sample.csv")));
         CSVParser parser = CSVParser.parse(content, CSVFormat.RFC4180.withHeader());
         for (CSVRecord csvRecord : parser) {
-            System.out.println(csvRecord);
+            String del = csvRecord.get(18);
+            if (!del.equals("")) {
+                context.write(new Text(csvRecord.get(14)), new Text("delay    " + del));
+            }
         }
 
 //        Reader in = new FileReader("src/main/resources/L_AIRPORT_ID.csv");
