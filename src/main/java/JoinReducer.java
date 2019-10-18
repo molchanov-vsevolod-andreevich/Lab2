@@ -14,12 +14,21 @@ public class JoinReducer extends Reducer<Text, Text, Text, Text> {
             IOException, InterruptedException {
         float time = 0f;
         float count = 0f;
+        float min = 100000f;
+        float max = 0f;
         String name = "";
         for (Text t : values) {
             String parts[] = t.toString().split(":");
             if (parts[0].equals("delay")) {
                 count++;
-                time += Float.parseFloat(parts[1]);
+                float del = Float.parseFloat(parts[1]);
+                time += del;
+                if (del > max) {
+                    max = del;
+                }
+                if (del < min) {
+                    min = del;
+                }
             } else {
                 name = key.toString() + " " + "\"" + parts[1] + "\"";
             }
