@@ -1,7 +1,7 @@
 HOME = /Users/vsevolodmolchanov
 PROJECT = $(HOME)/Documents/Study/Coding/University/Parallel/lab2
 H_DATA = $(HOME)/hdata
-RESOURCES = $(PROJECT)/src/
+RESOURCES = $(PROJECT)/src/main
 
 .PHONY: all start_hadoop make_dirs make_package copy_files start_project restart_project stop_hadoop delete_output clean stop_n_clean
 
