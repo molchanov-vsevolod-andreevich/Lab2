@@ -59,7 +59,7 @@ public class AirportPair implements WritableComparable {
 
     @Override
     public int compareTo(Object o) {
-        int compAirports = AIRPORT_ID.compareTo(o.get)
+        int compAirports = AIRPORT_ID.compareTo(o)
         return 0;
     }
 }
