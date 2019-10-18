@@ -29,25 +29,8 @@ public class JoinReducer extends Reducer<AirportPair, Text, Text, Text> {
                 min = nextDelay;
             }
         }
-        String name = "";
-        for (Text t : values) {
-            String parts[] = t.toString().split(":");
-            if (parts[0].equals("delay")) {
-                count++;
-                float del = Float.parseFloat(parts[1]);
-                time += del;
-                if (del > max) {
-                    max = del;
-                }
-                if (del < min) {
-                    min = del;
-                }
-            } else {
-                name = key.toString() + " " + "\"" + parts[1] + "\"";
-            }
-        }
         if (count == 0f || time == 0f) {
-            context.write(new Text(name), new Text("No delays"));
+            context.write(, new Text("No delays"));
         } else {
             float res = time / count;
             context.write(new Text(name), new Text("\n\taverage: " + Float.toString(res) + "\n\tmin: " + Float.toString(min) + "\n\tmax: " + Float.toString(max)));
