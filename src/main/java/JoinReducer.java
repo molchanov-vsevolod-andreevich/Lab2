@@ -32,6 +32,7 @@ public class JoinReducer extends Reducer<AirportPair, Text, Text, Text> {
                 min = nextDelay;
             }
         }
+        System.out.println("----------------------------------------------------");
         if (count == 0f || time == 0f) {
             context.write(key.getAirportID(), new Text(airportName.toString() + " No delays"));
         } else {
