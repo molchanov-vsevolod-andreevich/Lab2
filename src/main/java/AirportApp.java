@@ -14,6 +14,7 @@ public class AirportApp {
             System.err.println("Usage: WordCountApp <input path1> <input path2> <output path>");
             System.exit(-1);
         }
+        Configuration conf = new Configuration();
         Job job = Job.getInstance();
         job.setJarByClass(AirportApp.class);
         job.setJobName("Airports");

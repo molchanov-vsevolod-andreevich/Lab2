@@ -17,12 +17,13 @@ public class Parser {
 //        System.out.println(f);
 
         String content = new String(Files.readAllBytes(Paths.get("664600583_T_ONTIME_sample.csv")));
-        CSVParser parser = CSVParser.parse(content, CSVFormat.RFC4180.withHeader());
+        CSVParser parser = CSVParser.parse(content, CSVFormat.EXCEL.withHeader());
         for (CSVRecord csvRecord : parser) {
-            String del = csvRecord.get(18);
-            if (!del.equals("")) {
-                System.out.println(csvRecord.get(14) + " delay: " + del);
-            }
+//            String del = csvRecord.get(18);
+//            if (!del.equals("")) {
+//                System.out.println(csvRecord.get(14) + " delay: " + del);
+//            }
+            System.out.println(csvRecord);
         }
 
 //        Reader in = new FileReader("src/main/resources/L_AIRPORT_ID.csv");
