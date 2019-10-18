@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ba614461-3ebe-4837-bee1-27305bba26ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/AirportComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AirportComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AirportPartitioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AirportPartitioner.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
