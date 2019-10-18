@@ -6,12 +6,12 @@ public class AirportComparator extends WritableComparator {
         super(AirportPair.class);
     }
 
-    @Override
-    public int compare(byte[] b1, int s1, int l1, byte[] b2, int s2, int l2) {
-        Integer i1 = readInt(b1, s1);
-        Integer i2 = readInt(b2, s2);
-        return i1.compareTo(i2);
-    }
+//    @Override
+//    public int compare(byte[] b1, int s1, int l1, byte[] b2, int s2, int l2) {
+//        Integer i1 = readInt(b1, s1);
+//        Integer i2 = readInt(b2, s2);
+//        return i1.compareTo(i2);
+//    }
 
     @Override
     public int compare(WritableComparable o1, WritableComparable o2) {
