@@ -3,7 +3,7 @@ import org.apache.hadoop.io.WritableComparator;
 
 public class AirportComparator extends WritableComparator {
     protected AirportComparator() {
-        super(AirportPair.class);
+        super(AirportPair.class, true);
     }
 
     @Override
