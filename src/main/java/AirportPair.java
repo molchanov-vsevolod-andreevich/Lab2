@@ -82,7 +82,9 @@ public class AirportPair implements WritableComparable<AirportPair> {
 //            return o1.AIRPORT_ID.compareTo(o2.AIRPORT_ID);
 //        }
 
-        protected AirportComparator() {}
+        protected AirportComparator() {
+            super((WritableComparable)AirportComparator.class, true);
+        }
 
         @Override
         public int compare(WritableComparable o1, WritableComparable o2) {
