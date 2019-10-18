@@ -28,7 +28,7 @@ public class JoinReducer extends Reducer<Text, Text, Text, Text> {
 //            context.write(new Text(name), new FloatWritable(0.0f));
         } else {
             float res = time / count;
-            context.write(new Text(name), new Text("avarage"Float.toString(res)));
+            context.write(new Text(name), new Text("average: " + Float.toString(res) + ","));
         }
     }
 }
