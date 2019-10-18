@@ -14,7 +14,7 @@ public class AirportApp {
             System.err.println("Usage: WordCountApp <input path1> <input path2> <output path>");
             System.exit(-1);
         }
-        
+
         Job job = Job.getInstance();
         job.setJarByClass(AirportApp.class);
         job.setJobName("Airports delays");
@@ -22,6 +22,7 @@ public class AirportApp {
         MultipleInputs.addInputPath(job, new Path(args[1]), TextInputFormat.class, FlightMapper.class);
 
         FileOutputFormat.setOutputPath(job, new Path(args[2]));
+        job.setPartitionerClass();
         job.setReducerClass(JoinReducer.class);
         job.setOutputKeyClass(AirportPair.class);
         job.setOutputValueClass(Text.class);
