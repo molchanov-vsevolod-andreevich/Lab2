@@ -18,6 +18,9 @@ public class JoinReducer extends Reducer<AirportPair, Text, Text, Text> {
         float count = 0f;
         float min = 100000f;
         float max = 0f;
+        while (iter.hasNext()) {
+            
+        }
         String name = "";
         for (Text t : values) {
             String parts[] = t.toString().split(":");
