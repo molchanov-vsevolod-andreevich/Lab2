@@ -11,7 +11,7 @@ import java.nio.file.Paths;
 
 public class Parser {
     public static void main(String[] args) throws IOException {
-        String s1 = "10001";
+        String s1 = "10002";
         String s2 = "10001";
         System.out.println(s1.compareTo(s2));
 
