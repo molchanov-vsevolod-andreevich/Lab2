@@ -23,7 +23,7 @@ make_package:
 	mvn -f $(PROJECT) package
 
 copy_files:
-	@echo "\n\n*****************COPYING THE FILE*****************\n\n"
+	@echo "\n\n*****************COPYING FILES*****************\n\n"
 	hadoop fs -copyFromLocal $(RESOURCES)/664600583_T_ONTIME_sample.csv
 	hadoop fs -copyFromLocal $(RESOURCES)/L_AIRPORT_ID.csv
 
