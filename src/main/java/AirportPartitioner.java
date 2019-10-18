@@ -1,2 +1,2 @@
-public abstract class AirportPartitioner {
+public class AirportPartitioner {
 }
