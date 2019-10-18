@@ -21,7 +21,7 @@ public class JoinReducer extends Reducer<AirportPair, Text, Text, Text> {
         float max = 0f;
         while (iter.hasNext()) {
             float nextDelay = Float.parseFloat(iter.next().toString());
-            System.out.println("\t" + Float.toString(nextDelay));
+//            System.out.println("\t" + Float.toString(nextDelay));
             count++;
             time += nextDelay;
             if (nextDelay > max) {
