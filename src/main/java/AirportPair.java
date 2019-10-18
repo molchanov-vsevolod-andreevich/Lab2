@@ -60,9 +60,6 @@ public class AirportPair implements WritableComparable<AirportPair> {
     @Override
     public int compareTo(AirportPair o) {
         int res = AIRPORT_ID.compareTo(o.AIRPORT_ID);
-        if (res == 0) {
-            
-        }
         return 0;
     }
 }
