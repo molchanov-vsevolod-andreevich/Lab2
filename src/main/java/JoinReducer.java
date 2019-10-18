@@ -8,9 +8,9 @@ import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.mapreduce.Mapper.Context;
 import org.apache.hadoop.mapreduce.Reducer;
 
-public class JoinReducer extends Reducer<Text, Text, Text, Text> {
+public class JoinReducer extends Reducer<AirportPair, Text, Text, Text> {
     @Override
-    protected void reduce(Text key, Iterable<Text> values, Context context) throws
+    protected void reduce(AirportPair key, Iterable<Text> values, Context context) throws
             IOException, InterruptedException {
         float time = 0f;
         float count = 0f;
