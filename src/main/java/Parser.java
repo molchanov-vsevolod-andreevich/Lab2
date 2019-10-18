@@ -10,7 +10,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 public class Parser {
-//    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException {
 //        float f = 0f;
 //        f++;
 //        f++;
@@ -19,10 +19,7 @@ public class Parser {
         String content = new String(Files.readAllBytes(Paths.get("664600583_T_ONTIME_sample.csv")));
         CSVParser parser = CSVParser.parse(content, CSVFormat.RFC4180.withHeader());
         for (CSVRecord csvRecord : parser) {
-            String del = csvRecord.get(18);
-            if (!del.equals("")) {
-                System.out.println(Float.parseFloat(csvRecord.get(18)));
-            }
+            System.out.println(csvRecord);
         }
 
 //        Reader in = new FileReader("src/main/resources/L_AIRPORT_ID.csv");
@@ -46,5 +43,5 @@ public class Parser {
 ////            String s = r.toString();
 ////            System.out.println(s);
 ////        }
-//    }
+    }
 }
