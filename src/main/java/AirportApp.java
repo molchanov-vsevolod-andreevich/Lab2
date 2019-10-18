@@ -23,6 +23,7 @@ public class AirportApp {
         job.setOutputValueClass(FloatWritable.class);
         MultipleInputs.addInputPath(job, new Path(args[0]), TextInputFormat.class, AirportMapper.class);
         MultipleInputs.addInputPath(job, new Path(args[1]), TextInputFormat.class, FlightMapper.class);
+        Path outputPath = new Path(args[2]);
         FileOutputFormat.setOutputPath(job, new Path(args[2]));
         job.setNumReduceTasks(2);
         System.exit(job.waitForCompletion(true) ? 0 : 1);
