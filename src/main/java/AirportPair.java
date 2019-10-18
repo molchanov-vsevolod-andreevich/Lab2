@@ -75,7 +75,7 @@ public class AirportPair implements WritableComparable<AirportPair> {
 //            return 0;
 //        }
         protected AirportComparator() {
-            super()
+            super(AirportComparator.class, true);
         }
 
         @Override
