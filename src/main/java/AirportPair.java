@@ -1,4 +1,5 @@
 import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.RawComparator;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.io.WritableComparable;
 import org.apache.hadoop.mapreduce.Partitioner;
@@ -71,7 +72,16 @@ public class AirportPair implements WritableComparable<AirportPair> {
         }
     }
 
-    public class AirportComparator {
-        
+    public class AirportComparator implements RawComparator {
+
+        @Override
+        public int compare(byte[] bytes, int i, int i1, byte[] bytes1, int i2, int i3) {
+            return 0;
+        }
+
+        @Override
+        public int compare(Object o1, Object o2) {
+            return 0;
+        }
     }
 }
