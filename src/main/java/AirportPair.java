@@ -7,59 +7,59 @@ import java.io.DataOutput;
 import java.io.IOException;
 
 public class AirportPair implements WritableComparable<AirportPair> {
-    private Text AIRPORT_ID;
-    private IntWritable INSERT_ID;
+    private Text airportID;
+    private IntWritable insertID;
 
     public AirportPair(Text airportID, IntWritable insertID) {
-        AIRPORT_ID = airportID;
-        INSERT_ID = insertID;
+        this.airportID = airportID;
+        this.insertID = insertID;
     }
 
     public AirportPair(Text airportID, int insertID) {
-        AIRPORT_ID = airportID;
-        INSERT_ID = new IntWritable(insertID);
+        this.airportID = airportID;
+        this.insertID = new IntWritable(insertID);
     }
 
     public AirportPair(String airportID, IntWritable insertID) {
-        AIRPORT_ID = new Text(airportID);
-        INSERT_ID = insertID;
+        this.airportID = new Text(airportID);
+        this.insertID = insertID;
     }
 
     public AirportPair(String airportID, int insertID) {
-        AIRPORT_ID = new Text(airportID);
-        INSERT_ID = new IntWritable(insertID);
+        this.airportID = new Text(airportID);
+        this.insertID = new IntWritable(insertID);
     }
 
     public AirportPair() {
-        AIRPORT_ID = new Text("0");
-        INSERT_ID = new IntWritable(-1);
+        airportID = new Text("0");
+        insertID = new IntWritable(-1);
     }
 
     public Text getAirportID() {
-        return AIRPORT_ID;
+        return airportID;
     }
 
     public IntWritable getInsertID() {
-        return INSERT_ID;
+        return insertID;
     }
 
     @Override
     public void write(DataOutput out) throws IOException {
-        AIRPORT_ID.write(out);
-        INSERT_ID.write(out);
+        airportID.write(out);
+        insertID.write(out);
     }
 
     @Override
     public void readFields(DataInput in) throws IOException {
-        AIRPORT_ID.readFields(in);
-        INSERT_ID.readFields(in);
+        airportID.readFields(in);
+        insertID.readFields(in);
     }
 
     @Override
     public int compareTo(AirportPair o) {
-        int res = AIRPORT_ID.compareTo(o.AIRPORT_ID);
+        int res = airportID.compareTo(o.airportID);
         if (res == 0) {
-            res = INSERT_ID.compareTo(o.INSERT_ID);
+            res = insertID.compareTo(o.insertID);
         }
         return res;
     }
