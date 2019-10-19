@@ -23,8 +23,8 @@ public abstract class Util {
 //    public static final String calculateDelaysInfo(Iterator<Text> delays) {
 //
 //    }
-//
-//    public static final String getAirportName(Iterator<Text> delays) {
-//
-//    }
+
+    public static final Text getAirportName(Iterator<Text> iter) {
+        return iter.next();
+    }
 }

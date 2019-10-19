@@ -9,7 +9,7 @@ public class JoinReducer extends Reducer<AirportPair, Text, Text, Text> {
     protected void reduce(AirportPair key, Iterable<Text> values, Context context) throws
             IOException, InterruptedException {
         Iterator<Text> iter = values.iterator();
-        Text airportName = iter.next();
+        Text airportName = Util.getAirportName(iter);
 
         float time = 0f;
         float count = 0f;
