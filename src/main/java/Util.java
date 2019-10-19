@@ -27,17 +27,19 @@ public abstract class Util {
         float max = Float.MIN_VALUE;
         while (delays.hasNext()) {
             float nextDelay = Float.parseFloat(delays.next().toString());
-            count++;
-            time += nextDelay;
+            if (nextDelay != 0f) {
+                count++;
+                time += nextDelay;
 
-            if (nextDelay > max) {
-                max = nextDelay;
-            }
-            if (nextDelay < min) {
-                min = nextDelay;
+                if (nextDelay > max) {
+                    max = nextDelay;
+                }
+                if (nextDelay < min) {
+                    min = nextDelay;
+                }
             }
         }
-        System.out.println(min);
+
         if (count == 0f || time == 0f) {
             return " No delays";
         } else {
