@@ -11,15 +11,7 @@ public class AirportMapper extends Mapper<LongWritable, Text, AirportPair, Text>
     @Override
     protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
         if (key.get() == 0) {
-            System.out.println("YYYYYYYYYYYYYEEEEEEEEESSSSSSS");
-            System.out.println("YYYYYYYYYYYYYEEEEEEEEESSSSSSS");
-            System.out.println("YYYYYYYYYYYYYEEEEEEEEESSSSSSS");
-            System.out.println("YYYYYYYYYYYYYEEEEEEEEESSSSSSS");
-            System.out.println("YYYYYYYYYYYYYEEEEEEEEESSSSSSS");
-            System.out.println("YYYYYYYYYYYYYEEEEEEEEESSSSSSS");
-            System.out.println("YYYYYYYYYYYYYEEEEEEEEESSSSSSS");
-            System.out.println("YYYYYYYYYYYYYEEEEEEEEESSSSSSS");
-            System.out.println("YYYYYYYYYYYYYEEEEEEEEESSSSSSS");
+            return;
         }
         CSVParser parser = CSVParser.parse(value.toString(), CSVFormat.RFC4180);
         for (CSVRecord csvRecord : parser) {
