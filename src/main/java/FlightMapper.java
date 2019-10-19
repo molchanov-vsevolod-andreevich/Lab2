@@ -10,15 +10,10 @@ import org.apache.hadoop.mapreduce.Mapper;
 public class FlightMapper extends Mapper<LongWritable, Text, AirportPair, Text> {
     @Override
     protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
-        if (key.get() == 0) { // header CSV
-            return;
-        }
-        CSVParser parser = CSVParser.parse(value.toString(), CSVFormat.RFC4180);
-        for (CSVRecord csvRecord : parser) {
-            String del = csvRecord.get(18);
-            if (!del.equals("")) {
-                context.write(new AirportPair(csvRecord.get(14), 1), new Text(del));
-            }
+        CSVRecord csvRecord = Util.getCsvRecord(value);
+        String delay = csvRecord.get(18);
+        if (!delay.equals("")) {
+            context.write(new AirportPair(csvRecord.get(14), 1), new Text(delay));
         }
     }
 }
