@@ -1,7 +1,6 @@
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
-import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
 
 import java.io.IOException;
@@ -41,12 +40,5 @@ public abstract class Util {
 
     public static final Text getAirportName(Iterator<Text> iter) {
         return iter.next();
-    }
-
-    public static final boolean delayExists(String delay) {
-        if (delay.equals("")) {
-            return false;
-        }
-        return true;
     }
 }

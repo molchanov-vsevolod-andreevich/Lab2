@@ -1,6 +1,5 @@
 import java.io.IOException;
 
-import javafx.print.Collation;
 import org.apache.commons.csv.CSVRecord;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.io.LongWritable;

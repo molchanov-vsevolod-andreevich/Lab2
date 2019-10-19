@@ -13,7 +13,7 @@ public class FlightMapper extends Mapper<LongWritable, Text, AirportPair, Text> 
         }
         CSVRecord csvRecord = Util.getCsvRecord(value);
         String delay = csvRecord.get(Common.CSV_DELAY_INDEX);
-        if (Util.delayExists(delay)) {
+        if (!delay.isEmpty()) {
             context.write(new AirportPair(csvRecord.get(Common.CSV_FLIGHTS_AIRPORT_ID_INDEX), 1), new Text(delay));
         }
     }
