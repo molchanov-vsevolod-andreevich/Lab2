@@ -42,4 +42,11 @@ public abstract class Util {
     public static final Text getAirportName(Iterator<Text> iter) {
         return iter.next();
     }
+
+    public static final boolean delayExists(String delay) {
+        if (delay.equals("")) {
+            return false;
+        }
+        return true;
+    }
 }
