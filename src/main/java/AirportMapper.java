@@ -13,6 +13,7 @@ public class AirportMapper extends Mapper<LongWritable, Text, AirportPair, Text>
             return;
         }
         CSVRecord csvRecord = Util.getCsvRecord(value);
-        context.write(new AirportPair(csvRecord.get(Common.CSV_AIRPORTS_AIRPORT_ID_INDEX), 0), new Text(csvRecord.get(Common.CSV_AIRPORT_NAME_INDEX)));
+        context.write(new AirportPair(csvRecord.get(Common.CSV_AIRPORTS_AIRPORT_ID_INDEX), 0),
+                new Text(csvRecord.get(Common.CSV_AIRPORT_NAME_INDEX)));
     }
 }
