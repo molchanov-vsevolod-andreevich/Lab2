@@ -9,30 +9,31 @@ public class JoinReducer extends Reducer<AirportPair, Text, Text, Text> {
     protected void reduce(AirportPair key, Iterable<Text> values, Context context) throws
             IOException, InterruptedException {
         Iterator<Text> iter = values.iterator();
-        Text airportName = Util.getAirportName(iter);
+        context.write(key.getAirportID(), new Text(Util.getAirportName(iter) + Util.calculateDelaysInfo(iter)));
+//        Text airportName = Util.getAirportName(iter);
+//
+//        float time = 0f;
+//        float count = 0f;
+//        float min = Float.MIN_VALUE;
+//        float max = Float.MAX_VALUE;
+//        while (iter.hasNext()) {
+//            float nextDelay = Float.parseFloat(iter.next().toString());
+//            count++;
+//            time += nextDelay;
+//
+//            if (nextDelay > max) {
+//                max = nextDelay;
+//            }
+//            if (nextDelay < min) {
+//                min = nextDelay;
+//            }
+//        }
 
-        float time = 0f;
-        float count = 0f;
-        float min = Float.MIN_VALUE;
-        float max = Float.MAX_VALUE;
-        while (iter.hasNext()) {
-            float nextDelay = Float.parseFloat(iter.next().toString());
-            count++;
-            time += nextDelay;
-
-            if (nextDelay > max) {
-                max = nextDelay;
-            }
-            if (nextDelay < min) {
-                min = nextDelay;
-            }
-        }
-
-        if (count == 0f || time == 0f) {
-            context.write(key.getAirportID(), new Text(airportName.toString() + " No delays"));
-        } else {
-            float res = time / count;
-            context.write(key.getAirportID(), new Text(airportName.toString() + "\n\taverage: " + res + "\n\tmin: " + min + "\n\tmax: " + max));
-        }
+//        if (count == 0f || time == 0f) {
+//            context.write(key.getAirportID(), new Text(airportName.toString() + " No delays"));
+//        } else {
+//            float res = time / count;
+//            context.write(key.getAirportID(), new Text(airportName.toString() + "\n\taverage: " + res + "\n\tmin: " + min + "\n\tmax: " + max));
+//        }
     }
 }

@@ -20,9 +20,30 @@ public abstract class Util {
         return record.get(1);
     }
 
-//    public static final String calculateDelaysInfo(Iterator<Text> delays) {
-//
-//    }
+    public static final String calculateDelaysInfo(Iterator<Text> delays) {
+        float time = 0f;
+        float count = 0f;
+        float min = Float.MIN_VALUE;
+        float max = Float.MAX_VALUE;
+        while (delays.hasNext()) {
+            float nextDelay = Float.parseFloat(delays.next().toString());
+            count++;
+            time += nextDelay;
+
+            if (nextDelay > max) {
+                max = nextDelay;
+            }
+            if (nextDelay < min) {
+                min = nextDelay;
+            }
+        }
+        if (count == 0f || time == 0f) {
+            return " No delays";
+        } else {
+            float res = time / count;
+            return "\n\taverage: " + res + "\n\tmin: " + min + "\n\tmax: " + max;
+        }
+    }
 
     public static final Text getAirportName(Iterator<Text> iter) {
         return iter.next();
