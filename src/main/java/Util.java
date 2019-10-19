@@ -8,19 +8,10 @@ import java.io.IOException;
 import java.util.Iterator;
 
 public abstract class Util {
-    private static final int HEADER_LINE_ID = 0;
-
     public static final CSVRecord getCsvRecord(Text line) throws IOException {
         return CSVParser.parse(line.toString(), CSVFormat.RFC4180).getRecords().get(0);
     }
 
-    public static final String getAirportId(CSVRecord record) {
-        return record.get(0);
-    }
-
-    public static final String getAirportName(CSVRecord record) {
-        return record.get(1);
-    }
 
     public static final String calculateDelaysInfo(Iterator<Text> delays) {
         float time = 0f;
