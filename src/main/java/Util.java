@@ -22,7 +22,6 @@ public abstract class Util {
             count++;
             time += nextDelay;
             if (nextDelay != 0f) {
-                System.out.println(nextDelay);
                 if (nextDelay > max) {
                     max = nextDelay;
                 }
