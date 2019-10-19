@@ -20,7 +20,11 @@ public abstract class Util {
         return record.get(1);
     }
 
-    public static final String calculateDelaysInfo(Iterator<Text> iter) {
-
-    }
+//    public static final String calculateDelaysInfo(Iterator<Text> delays) {
+//
+//    }
+//
+//    public static final String getAirportName(Iterator<Text> delays) {
+//
+//    }
 }
