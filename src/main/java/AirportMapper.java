@@ -10,7 +10,17 @@ import org.apache.hadoop.mapreduce.Mapper;
 public class AirportMapper extends Mapper<LongWritable, Text, AirportPair, Text> {
     @Override
     protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
-        System.out.println("Two: " + key);
+        if (key.get() == 0) {
+            System.out.println("YYYYYYYYYYYYYEEEEEEEEESSSSSSS");
+            System.out.println("YYYYYYYYYYYYYEEEEEEEEESSSSSSS");
+            System.out.println("YYYYYYYYYYYYYEEEEEEEEESSSSSSS");
+            System.out.println("YYYYYYYYYYYYYEEEEEEEEESSSSSSS");
+            System.out.println("YYYYYYYYYYYYYEEEEEEEEESSSSSSS");
+            System.out.println("YYYYYYYYYYYYYEEEEEEEEESSSSSSS");
+            System.out.println("YYYYYYYYYYYYYEEEEEEEEESSSSSSS");
+            System.out.println("YYYYYYYYYYYYYEEEEEEEEESSSSSSS");
+            System.out.println("YYYYYYYYYYYYYEEEEEEEEESSSSSSS");
+        }
         CSVParser parser = CSVParser.parse(value.toString(), CSVFormat.RFC4180);
         for (CSVRecord csvRecord : parser) {
             context.write(new AirportPair(csvRecord.get(0), 0), new Text(csvRecord.get(1)));
