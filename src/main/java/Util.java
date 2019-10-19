@@ -23,8 +23,8 @@ public abstract class Util {
     public static final String calculateDelaysInfo(Iterator<Text> delays) {
         float time = 0f;
         float count = 0f;
-        float min = Float.MIN_VALUE;
-        float max = Float.MAX_VALUE;
+        float min = Float.MAX_VALUE;
+        float max = Float.MIN_VALUE;
         while (delays.hasNext()) {
             float nextDelay = Float.parseFloat(delays.next().toString());
             count++;
