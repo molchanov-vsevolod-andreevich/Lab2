@@ -1,4 +1,5 @@
 AirportPartitioner.class
+Common.class
 AirportComparator.class
 AirportApp.class
 FlightMapper.class
