@@ -11,8 +11,7 @@ public abstract class Util {
     public static final CSVRecord getCsvRecord(Text line) throws IOException {
         return CSVParser.parse(line.toString(), CSVFormat.RFC4180).getRecords().get(0);
     }
-
-
+    
     public static final String calculateDelaysInfo(Iterator<Text> delays) {
         float time = 0f;
         float count = 0f;
