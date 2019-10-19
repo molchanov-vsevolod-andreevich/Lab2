@@ -10,6 +10,9 @@ import org.apache.hadoop.mapreduce.Mapper;
 public class FlightMapper extends Mapper<LongWritable, Text, AirportPair, Text> {
     @Override
     protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
+        if (key.get() == 0) {
+            return;
+        }
         CSVParser parser = CSVParser.parse(value.toString(), CSVFormat.RFC4180);
         for (CSVRecord csvRecord : parser) {
             String del = csvRecord.get(18);
