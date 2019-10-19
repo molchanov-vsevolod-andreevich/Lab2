@@ -8,7 +8,7 @@ import org.apache.hadoop.mapreduce.Mapper;
 public class AirportMapper extends Mapper<LongWritable, Text, AirportPair, Text> {
     @Override
     protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
-        if (key.get() == 0) { // header CSV
+        if (key.get() == Util.CSV_HEADER_ID) {
             return;
         }
         CSVRecord csvRecord = Util.getCsvRecord(value);

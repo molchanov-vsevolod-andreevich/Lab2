@@ -8,6 +8,8 @@ import java.io.IOException;
 import java.util.Iterator;
 
 public abstract class Util {
+    public static final int CSV_HEADER_ID = 0;
+
     public static final CSVRecord getCsvRecord(Text line) throws IOException {
         return CSVParser.parse(line.toString(), CSVFormat.RFC4180).getRecords().get(0);
     }
