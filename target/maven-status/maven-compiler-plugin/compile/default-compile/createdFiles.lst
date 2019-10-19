@@ -3,4 +3,5 @@ AirportComparator.class
 AirportApp.class
 FlightMapper.class
 AirportMapper.class
+Util.class
 JoinReducer.class
