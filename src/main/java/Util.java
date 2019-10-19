@@ -37,6 +37,7 @@ public abstract class Util {
                 min = nextDelay;
             }
         }
+        System.out.println(min);
         if (count == 0f || time == 0f) {
             return " No delays";
         } else {
